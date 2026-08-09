@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/magicsmoke-planning-portal/static/css/main.7bba4668.css",
-    "main.js": "/magicsmoke-planning-portal/static/js/main.8ab88926.js",
+    "main.js": "/magicsmoke-planning-portal/static/js/main.6bfcd9b2.js",
     "index.html": "/magicsmoke-planning-portal/index.html",
     "main.7bba4668.css.map": "/magicsmoke-planning-portal/static/css/main.7bba4668.css.map",
-    "main.8ab88926.js.map": "/magicsmoke-planning-portal/static/js/main.8ab88926.js.map"
+    "main.6bfcd9b2.js.map": "/magicsmoke-planning-portal/static/js/main.6bfcd9b2.js.map"
   },
   "entrypoints": [
     "static/css/main.7bba4668.css",
-    "static/js/main.8ab88926.js"
+    "static/js/main.6bfcd9b2.js"
   ]
 }
