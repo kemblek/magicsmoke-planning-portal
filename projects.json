@@ -1,0 +1,4628 @@
+{
+  "projects": [
+    {
+      "id": "proj_1786158121869",
+      "name": "2026 One Hit Wonders",
+      "year": "2026",
+      "editorName": "Planner",
+      "audioTrackName": "oneHitWonders_2026_v2.mp3",
+      "events": [
+        {
+          "event_id": "song_1_1786194618758_k0qtd",
+          "event_num": "S1",
+          "timestamp_offset_ms": 0,
+          "title": "Y'all Ready For This - 2 Unlimited",
+          "song": "Y'all Ready For This - 2 Unlimited",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243521071_jwh16",
+          "event_num": "1.1",
+          "title": "L - (MOD - Flash Fuse) FB Blue Comet W/Tail",
+          "timestamp_offset_ms": 0,
+          "desired_time_ms": 0,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Blue Comet W/Tail",
+              "left_field": true,
+              "center_field": false,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": "Angle to Right Field"
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786212593248_uf3ha",
+          "event_num": "1.2",
+          "title": "LCR - Jumbo Strobe x3",
+          "timestamp_offset_ms": 219,
+          "desired_time_ms": 219,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Jumbo Strobes",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 3,
+              "center_qty": 3,
+              "right_qty": 3,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": "distribute across field"
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786212687460_ko7a8",
+          "event_num": "1.3",
+          "title": "LCR - Loaded Gun & LCR - (MOD - Flash Fuse) Future All American x2",
+          "timestamp_offset_ms": 17000,
+          "desired_time_ms": 17000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Loaded Gun",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Future All American",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_2_1786194618758_o3jix",
+          "event_num": "S2",
+          "timestamp_offset_ms": 32000,
+          "title": "Rock & Roll Pt 2 - Gary Glitter",
+          "song": "Rock & Roll Pt 2 - Gary Glitter",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786212715880_mzshs",
+          "event_num": "2.1",
+          "title": "LCR - Dumpster Fire",
+          "timestamp_offset_ms": 32000,
+          "desired_time_ms": 32000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dumpster Fire"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dumpster Fire"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dumpster Fire"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Dumpster Fire",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786212759988_0q61h",
+          "event_num": "2.2",
+          "title": "L - (1/3 Segment (MOD 1/3)) Smoke of Liberty",
+          "timestamp_offset_ms": 58000,
+          "desired_time_ms": 58000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Smoke of Liberty"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Smoke of Liberty",
+              "left_field": true,
+              "center_field": false,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "1/3 Segment (MOD 1/3)",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786212809973_f2nhl",
+          "event_num": "2.3",
+          "title": "R - (1/3 Segment (MOD 1/3)) Smoke of Liberty",
+          "timestamp_offset_ms": 62000,
+          "desired_time_ms": 62000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Smoke of Liberty"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Smoke of Liberty",
+              "left_field": false,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "1/3 Segment (MOD 1/3)",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786212838908_cn6p8",
+          "event_num": "2.4",
+          "title": "C - (1/3 Segment (MOD 1/3)) Smoke of Liberty",
+          "timestamp_offset_ms": 66000,
+          "desired_time_ms": 66000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Smoke of Liberty"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Smoke of Liberty",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "1/3 Segment (MOD 1/3)",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_3_1786194618758_bqe2o",
+          "event_num": "S3",
+          "timestamp_offset_ms": 71000,
+          "title": "The Boys Are Back In Town - Thin Lizzy",
+          "song": "The Boys Are Back In Town - Thin Lizzy",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224001924_9wgpo",
+          "event_num": "3.1",
+          "title": "LCR - Freedom Isn't Free",
+          "timestamp_offset_ms": 72000,
+          "desired_time_ms": 72000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Freedom Isn't Free"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Freedom Isn't Free"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Freedom Isn't Free"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Freedom Isn't Free",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224031204_b373l",
+          "event_num": "3.2",
+          "title": "LCR - Cyber Vision",
+          "timestamp_offset_ms": 87000,
+          "desired_time_ms": 87000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Cyber Vision",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_4_1786194618758_h1tqn",
+          "event_num": "S4",
+          "timestamp_offset_ms": 102000,
+          "title": "Spirit In The Sky - Norman Greenbaum",
+          "song": "Spirit In The Sky - Norman Greenbaum",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224072831_6zgpb",
+          "event_num": "4.1",
+          "title": "LCR - Night Shadow",
+          "timestamp_offset_ms": 102000,
+          "desired_time_ms": 102000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Night Shadow"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Night Shadow"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Night Shadow"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Night Shadow",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224328587_4bys4",
+          "event_num": "4.2",
+          "title": "LR - Good Times x2",
+          "timestamp_offset_ms": 133000,
+          "desired_time_ms": 133000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Good Times"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Good Times"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Good Times"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Good Times"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Good Times",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 1,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_5_1786194618759_s1pu6",
+          "event_num": "S5",
+          "timestamp_offset_ms": 165000,
+          "title": "California Sun - The Rivieras",
+          "song": "California Sun - The Rivieras",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224419739_hzv0m",
+          "event_num": "5.1",
+          "title": "LCR - Fire Assault",
+          "timestamp_offset_ms": 168000,
+          "desired_time_ms": 168000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Assault"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Assault"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Assault"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fire Assault",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_6_1786194618759_csuys",
+          "event_num": "S6",
+          "timestamp_offset_ms": 192000,
+          "title": "Play That Funky Music - Wild Cherry",
+          "song": "Play That Funky Music - Wild Cherry",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224474198_nvwf2",
+          "event_num": "6.1",
+          "title": "LR - Backstreet Diva & C - Liberty Force",
+          "timestamp_offset_ms": 192000,
+          "desired_time_ms": 192000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Backstreet Diva"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Backstreet Diva"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Liberty Force"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Backstreet Diva",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Liberty Force",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224756986_vyi3z",
+          "event_num": "6.2",
+          "title": "LCR - Let's Go Bro!",
+          "timestamp_offset_ms": 201000,
+          "desired_time_ms": 201000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let's Go Bro!"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let's Go Bro!"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let's Go Bro!"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Let's Go Bro!",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_7_1786194618759_awney",
+          "event_num": "S7",
+          "timestamp_offset_ms": 220000,
+          "title": "Shutup And Dance - Walk The Moon",
+          "song": "Shutup And Dance - Walk The Moon",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224782076_x3f0b",
+          "event_num": "7.1",
+          "title": "LCR - Neon Streak",
+          "timestamp_offset_ms": 228000,
+          "desired_time_ms": 228000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Neon Streak"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Neon Streak"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Neon Streak"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Neon Streak",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224873293_fv0ng",
+          "event_num": "7.2",
+          "title": "C - (MOD - Flash Fuse) FB Crackling Dragon Egg",
+          "timestamp_offset_ms": 239000,
+          "desired_time_ms": 239000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_8_1786194618759_bo0hn",
+          "event_num": "S8",
+          "timestamp_offset_ms": 246000,
+          "title": "Save Tonight - Eagle Eye Cherry",
+          "song": "Save Tonight - Eagle Eye Cherry",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224829822_uhxor",
+          "event_num": "8.1",
+          "title": "LCR - War Paint",
+          "timestamp_offset_ms": 246000,
+          "desired_time_ms": 246000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "War Paint",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_9_1786194618759_xbekg",
+          "event_num": "S9",
+          "timestamp_offset_ms": 281000,
+          "title": "Numa Numa - O-Zone",
+          "song": "Numa Numa - O-Zone",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786224846885_9ghmc",
+          "event_num": "9.1",
+          "title": "Taste The Rainbow",
+          "timestamp_offset_ms": 281000,
+          "desired_time_ms": 281000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Taste The Rainbow",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224911431_xkrr5",
+          "event_num": "9.2",
+          "title": "LCR - Tropical Chaos",
+          "timestamp_offset_ms": 289000,
+          "desired_time_ms": 289000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Tropical Chaos",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786224927738_mls9g",
+          "event_num": "9.3",
+          "title": "LCR - Galaxy Quest",
+          "timestamp_offset_ms": 296000,
+          "desired_time_ms": 296000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Galaxy Quest",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786225178438_cmd6j",
+          "event_num": "9.4",
+          "title": "LR - Red Saber x3",
+          "timestamp_offset_ms": 307000,
+          "desired_time_ms": 312000,
+          "fuse_delay_sec": 5,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Red Saber"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Red Saber"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Red Saber",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 3,
+              "center_qty": 1,
+              "right_qty": 3,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 5,
+              "setup_notes": "Fan Rack",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "song_10_1786194618759_77sch",
+          "event_num": "S10",
+          "timestamp_offset_ms": 311000,
+          "title": "99 Red Balloons - NENA",
+          "song": "99 Red Balloons - NENA",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786225111768_efvc3",
+          "event_num": "10.1",
+          "title": "LCR - Cherry Drop x2 & LCR - 4th Of July Cocktail",
+          "timestamp_offset_ms": 312000,
+          "desired_time_ms": 312000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "4th Of July Cocktail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "4th Of July Cocktail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "4th Of July Cocktail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Cherry Drop",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "4th Of July Cocktail",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786225294770_yaa5s",
+          "event_num": "10.2",
+          "title": "LCR - Cherry Drop x2 & LCR - FB Red Peony",
+          "timestamp_offset_ms": 328000,
+          "desired_time_ms": 328000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cherry Drop"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Peony"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Peony"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Peony"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Cherry Drop",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Red Peony",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786225421014_pfb06",
+          "event_num": "10.3",
+          "title": "FIELD Peacock C FB Red Comet x7",
+          "timestamp_offset_ms": 330000,
+          "desired_time_ms": 330000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Red Comet W/Tail",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 7,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": "Peacock",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "song_11_1786194618759_fq45g",
+          "event_num": "S11",
+          "timestamp_offset_ms": 342000,
+          "title": "You Spin Me Around - Dead of Alive",
+          "song": "You Spin Me Around - Dead of Alive",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786242427239_q0pyx",
+          "event_num": "11.1",
+          "title": "LCR - Fireworks Are Awesome",
+          "timestamp_offset_ms": 342000,
+          "desired_time_ms": 342000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fireworks Are Awesome"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fireworks Are Awesome"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fireworks Are Awesome"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fireworks Are Awesome",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786242451008_3lg7c",
+          "event_num": "11.2",
+          "title": "LCR - Loaded Gun",
+          "timestamp_offset_ms": 357000,
+          "desired_time_ms": 357000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Loaded Gun"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Loaded Gun",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_12_1786194618759_f9xxa",
+          "event_num": "S12",
+          "timestamp_offset_ms": 375000,
+          "title": "Jump Around - House Of Pain",
+          "song": "Jump Around - House Of Pain",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786242499724_vdi65",
+          "event_num": "12.1",
+          "title": "FIELD LCR Fanfare of America",
+          "timestamp_offset_ms": 375000,
+          "desired_time_ms": 375000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fanfare of America",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_13_1786194618759_6x7l3",
+          "event_num": "S13",
+          "timestamp_offset_ms": 400000,
+          "title": "We're Not Gonna Take It - Twisted Sister",
+          "song": "We're Not Gonna Take It - Twisted Sister",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786242530998_w5uzo",
+          "event_num": "13.1",
+          "title": "LCR - Howling Duel",
+          "timestamp_offset_ms": 400000,
+          "desired_time_ms": 400000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Howling Duel"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Howling Duel"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Howling Duel"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Howling Duel",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786242585077_36rlt",
+          "event_num": "13.2",
+          "title": "LCR - Pyro Gal & LCR - Death By Stereo & LCR - Let Freedom Ring",
+          "timestamp_offset_ms": 413000,
+          "desired_time_ms": 413000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Pyro Gal"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Pyro Gal"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Pyro Gal"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Death By Stereo"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Death By Stereo"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Death By Stereo"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let Freedom Ring"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let Freedom Ring"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Let Freedom Ring"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Pyro Gal",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Death By Stereo",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Let Freedom Ring",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786242627056_6oe6t",
+          "event_num": "13.3",
+          "title": "FIELD LCR Spark of Rebellion",
+          "timestamp_offset_ms": 428000,
+          "desired_time_ms": 428000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Spark of Rebellion"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Spark of Rebellion"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Spark of Rebellion"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Spark of Rebellion",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243358608_rrrl9",
+          "event_num": "13.4",
+          "title": "FIELD C Bellagio Staff of Ra x25",
+          "timestamp_offset_ms": 439000,
+          "desired_time_ms": 444000,
+          "fuse_delay_sec": 5,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Staff of Ra"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Staff of Ra",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 25,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 5,
+              "setup_notes": "",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "song_14_1786194618759_zfowi",
+          "event_num": "S14",
+          "timestamp_offset_ms": 443000,
+          "title": "Truly Madly Deeply - Savage Garden",
+          "song": "Truly Madly Deeply - Savage Garden",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243393087_p62y8",
+          "event_num": "14.1",
+          "title": "LCR - Silver Beauty x2",
+          "timestamp_offset_ms": 454000,
+          "desired_time_ms": 454000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Silver Beauty",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_15_1786194618759_l4o6b",
+          "event_num": "S15",
+          "timestamp_offset_ms": 479000,
+          "title": "Sail Away Orinoco Flow - Enya",
+          "song": "Sail Away Orinoco Flow - Enya",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243438315_h7wud",
+          "event_num": "15.1",
+          "title": "FIELD LCR USA! USA! & LCR - American Gemstones",
+          "timestamp_offset_ms": 480000,
+          "desired_time_ms": 480000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "USA! USA!"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "USA! USA!"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "USA! USA!"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "USA! USA!",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "American Gemstones",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_16_1786194618759_6ggag",
+          "event_num": "S16",
+          "timestamp_offset_ms": 518000,
+          "title": "I Ran (So Far Away) - A Flock Of Seagulls",
+          "song": "I Ran (So Far Away) - A Flock Of Seagulls",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243490403_ucfap",
+          "event_num": "16.1",
+          "title": "LCR - Rise Of Power & LCR - Cyber Vision",
+          "timestamp_offset_ms": 518000,
+          "desired_time_ms": 518000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Rise Of Power"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Rise Of Power"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Rise Of Power"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Rise Of Power",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Cyber Vision",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243549349_cvdzb",
+          "event_num": "16.2",
+          "title": "R - (MOD - Flash Fuse) FB Red Comet W/Tail",
+          "timestamp_offset_ms": 538000,
+          "desired_time_ms": 538000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Red Comet W/Tail",
+              "left_field": false,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": "angle to left field"
+            }
+          ]
+        },
+        {
+          "event_id": "song_17_1786194618759_tr52m",
+          "event_num": "S17",
+          "timestamp_offset_ms": 541000,
+          "title": "Dancing In The Moonlight - King Harvest",
+          "song": "Dancing In The Moonlight - King Harvest",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243620663_r3evy",
+          "event_num": "17.1",
+          "title": "LR - FB Silver Peony – 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
+          "timestamp_offset_ms": 541000,
+          "desired_time_ms": 541000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony – 12 shot"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony – 12 shot"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Showstopper"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Golden Crown Waterfall"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Silver Peony – 12 shot",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Showstopper",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Golden Crown Waterfall",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243645278_0o52y",
+          "event_num": "17.2",
+          "title": "LCR - Silver Beauty",
+          "timestamp_offset_ms": 548000,
+          "desired_time_ms": 548000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Silver Beauty",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_18_1786194618759_2ow32",
+          "event_num": "S18",
+          "timestamp_offset_ms": 577000,
+          "title": "In the Meantime - Spacehog",
+          "song": "In the Meantime - Spacehog",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243695133_kdia2",
+          "event_num": "18.1",
+          "title": "LCR - Dawn Of Time",
+          "timestamp_offset_ms": 577000,
+          "desired_time_ms": 577000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Dawn Of Time",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_19_1786194618759_r6fcz",
+          "event_num": "S19",
+          "timestamp_offset_ms": 607000,
+          "title": "A Thousand Miles - Vanessa Carlton",
+          "song": "A Thousand Miles - Vanessa Carlton",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243718528_4j80x",
+          "event_num": "19.1",
+          "title": "LCR - Cyber Vision",
+          "timestamp_offset_ms": 608000,
+          "desired_time_ms": 608000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Cyber Vision"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Cyber Vision",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243747305_xo1zs",
+          "event_num": "19.2",
+          "title": "LCR - God Bless Boomerica!",
+          "timestamp_offset_ms": 628000,
+          "desired_time_ms": 628000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "God Bless Boomerica!"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "God Bless Boomerica!"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "God Bless Boomerica!"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "God Bless Boomerica!",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_20_1786194618759_xkeir",
+          "event_num": "S20",
+          "timestamp_offset_ms": 658000,
+          "title": "Don't Worry Be Happy - Bobby McFerrin",
+          "song": "Don't Worry Be Happy - Bobby McFerrin",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243853931_3xb7d",
+          "event_num": "20.1",
+          "title": "LCR - Silver Beauty & LCR - Golden Fury",
+          "timestamp_offset_ms": 658000,
+          "desired_time_ms": 658000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Silver Beauty",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Golden Fury",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_21_1786194618759_3z0wc",
+          "event_num": "S21",
+          "timestamp_offset_ms": 684000,
+          "title": "Breakfast At Tiffany's - Deep Blue Something",
+          "song": "Breakfast At Tiffany's - Deep Blue Something",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243907673_o1uq8",
+          "event_num": "21.1",
+          "title": "LCR - Righteous Warrior & LCR - Tropical Chaos",
+          "timestamp_offset_ms": 688000,
+          "desired_time_ms": 688000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Righteous Warrior"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Righteous Warrior"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Righteous Warrior"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Tropical Chaos"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Righteous Warrior",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Tropical Chaos",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243931312_odro3",
+          "event_num": "21.2",
+          "title": "LCR - Galaxy Quest",
+          "timestamp_offset_ms": 695000,
+          "desired_time_ms": 695000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Galaxy Quest",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_22_1786194618759_dcbsl",
+          "event_num": "S22",
+          "timestamp_offset_ms": 727000,
+          "title": "Super Freak - Rick James",
+          "song": "Super Freak - Rick James",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786243955450_yjpg1",
+          "event_num": "22.1",
+          "title": "LCR - Mechanized",
+          "timestamp_offset_ms": 727000,
+          "desired_time_ms": 727000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Mechanized"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Mechanized"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Mechanized"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Mechanized",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244055001_526fr",
+          "event_num": "22.2",
+          "title": "FIELD LCR Orange Blossom Special x3 V-Shaped Rack",
+          "timestamp_offset_ms": 727000,
+          "desired_time_ms": 727000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Orange Blossom Special"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Orange Blossom Special"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Orange Blossom Special"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Orange Blossom Special",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 3,
+              "center_qty": 3,
+              "right_qty": 3,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": "V-Shaped Racks",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "song_23_1786194618759_tarqe",
+          "event_num": "S23",
+          "timestamp_offset_ms": 757000,
+          "title": "Tainted Love - Soft Cell",
+          "song": "Tainted Love - Soft Cell",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244128549_kszc2",
+          "event_num": "23.1",
+          "title": "LCR - Flood Red",
+          "timestamp_offset_ms": 757000,
+          "desired_time_ms": 757000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Flood Red"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Flood Red"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Flood Red"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Flood Red",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244163650_zl95c",
+          "event_num": "23.2",
+          "title": "LCR - Forged of Fire",
+          "timestamp_offset_ms": 762000,
+          "desired_time_ms": 762000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Forged of Fire",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_24_1786194618759_261vk",
+          "event_num": "S24",
+          "timestamp_offset_ms": 783000,
+          "title": "Come On Eileen - Dexys Midnight Runners",
+          "song": "Come On Eileen - Dexys Midnight Runners",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244193256_70x1s",
+          "event_num": "24.1",
+          "title": "LCR - American Gemstones",
+          "timestamp_offset_ms": 783000,
+          "desired_time_ms": 783000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "American Gemstones",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244213395_quf9k",
+          "event_num": "24.2",
+          "title": "LCR - Fire over Water",
+          "timestamp_offset_ms": 795000,
+          "desired_time_ms": 795000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire over Water"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire over Water"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire over Water"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fire over Water",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244229311_4o1io",
+          "event_num": "24.3",
+          "title": "LCR - Taste The Rainbow",
+          "timestamp_offset_ms": 808000,
+          "desired_time_ms": 808000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Taste The Rainbow"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Taste The Rainbow",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244264578_i7q7x",
+          "event_num": "24.4",
+          "title": "LCR - Galaxy Quest",
+          "timestamp_offset_ms": 816000,
+          "desired_time_ms": 816000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Galaxy Quest",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244288181_4qer6",
+          "event_num": "24.5",
+          "title": "LCR - (MOD - Flash Fuse) Future All American",
+          "timestamp_offset_ms": 817000,
+          "desired_time_ms": 817000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Future All American",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244344142_obfv2",
+          "event_num": "24.6",
+          "title": "LCR - Galaxy Quest & LCR - Hyped Up x2",
+          "timestamp_offset_ms": 824000,
+          "desired_time_ms": 824000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Galaxy Quest"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Hyped Up"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Galaxy Quest",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Hyped Up",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_25_1786194618759_9y2vk",
+          "event_num": "S25",
+          "timestamp_offset_ms": 854000,
+          "title": "Funkytown - Lipps Inc",
+          "song": "Funkytown - Lipps Inc",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244380660_q2rcz",
+          "event_num": "25.1",
+          "title": "FIELD LCR Star Spangled Smackdown",
+          "timestamp_offset_ms": 854000,
+          "desired_time_ms": 854000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Star Spangled Smackdown",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_26_1786194618759_cws7n",
+          "event_num": "S26",
+          "timestamp_offset_ms": 895000,
+          "title": "It's Raining Men - The Weather Girls",
+          "song": "It's Raining Men - The Weather Girls",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244430155_0fpq2",
+          "event_num": "26.1",
+          "title": "FIELD LCR Amber Waves of Flame",
+          "timestamp_offset_ms": 895000,
+          "desired_time_ms": 895000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Amber Waves of Flame"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Amber Waves of Flame"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Amber Waves of Flame"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Amber Waves of Flame",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244454486_dshy4",
+          "event_num": "26.2",
+          "title": "LCR - Golden Fury",
+          "timestamp_offset_ms": 904000,
+          "desired_time_ms": 904000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Golden Fury",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244475899_1qmkg",
+          "event_num": "26.3",
+          "title": "LCR - (MOD - Flash Fuse) Golden Fury",
+          "timestamp_offset_ms": 915000,
+          "desired_time_ms": 915000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Golden Fury",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244516934_tgxq3",
+          "event_num": "26.4",
+          "title": "LCR - Trigger Pull & LCR - Broadsword",
+          "timestamp_offset_ms": 921000,
+          "desired_time_ms": 921000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Trigger Pull"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Trigger Pull"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Trigger Pull"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Broadsword"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Broadsword"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Broadsword"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Trigger Pull",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Broadsword",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244537283_mypmt",
+          "event_num": "26.5",
+          "title": "LCR - Golden Fury",
+          "timestamp_offset_ms": 924000,
+          "desired_time_ms": 924000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Golden Fury",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_27_1786194618759_aeahg",
+          "event_num": "S27",
+          "timestamp_offset_ms": 950000,
+          "title": "For What It's Worth - Buffalo Springfield",
+          "song": "For What It's Worth - Buffalo Springfield",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244562056_eb0vd",
+          "event_num": "27.1",
+          "title": "LCR - FB Red Comet W/Tail",
+          "timestamp_offset_ms": 951000,
+          "desired_time_ms": 951000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Red Comet W/Tail",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244578745_rw9os",
+          "event_num": "27.2",
+          "title": "LCR - Dawn Of Time",
+          "timestamp_offset_ms": 961000,
+          "desired_time_ms": 961000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Dawn Of Time",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_28_1786194618759_ci7ll",
+          "event_num": "S28",
+          "timestamp_offset_ms": 993000,
+          "title": "Louie Louie - The Kingsmen",
+          "song": "Louie Louie - The Kingsmen",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244603931_6fqmn",
+          "event_num": "28.1",
+          "title": "LCR - One Jacked Quacker",
+          "timestamp_offset_ms": 993000,
+          "desired_time_ms": 993000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "One Jacked Quacker"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "One Jacked Quacker"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "One Jacked Quacker"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "One Jacked Quacker",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_29_1786194618759_8iifa",
+          "event_num": "S29",
+          "timestamp_offset_ms": 1037000,
+          "title": "Radar Love - Golden Earing",
+          "song": "Radar Love - Golden Earing",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244653928_h54ly",
+          "event_num": "29.1",
+          "title": "LCR - War Paint",
+          "timestamp_offset_ms": 1038000,
+          "desired_time_ms": 1038000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "War Paint"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "War Paint",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244688827_q3d8n",
+          "event_num": "29.2",
+          "title": "LCR - Jumbo Strobes x3",
+          "timestamp_offset_ms": 1065000,
+          "desired_time_ms": 1065000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Jumbo Strobes",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 3,
+              "center_qty": 3,
+              "right_qty": 3,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_30_1786194618759_bupla",
+          "event_num": "S30",
+          "timestamp_offset_ms": 1070000,
+          "title": "What Is Love - Haddaway",
+          "song": "What Is Love - Haddaway",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244712515_sd2bi",
+          "event_num": "30.1",
+          "title": "FIELD LCR American Gemstones",
+          "timestamp_offset_ms": 1071000,
+          "desired_time_ms": 1071000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "American Gemstones",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244734131_t0bn2",
+          "event_num": "30.2",
+          "title": "LCR - FB Golden Crown Waterfall",
+          "timestamp_offset_ms": 1079000,
+          "desired_time_ms": 1079000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Golden Crown Waterfall"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Golden Crown Waterfall"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Golden Crown Waterfall"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Golden Crown Waterfall",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244782741_0kt4u",
+          "event_num": "30.3",
+          "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
+          "timestamp_offset_ms": 1087000,
+          "desired_time_ms": 1087000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony – 12 Shot"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony – 12 shot"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Orange Peony- 12 Shot"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Purple Peony – 12 Shot",
+              "left_field": true,
+              "center_field": false,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Silver Peony – 12 shot",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Orange Peony- 12 Shot",
+              "left_field": false,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786244808144_dgn5i",
+          "event_num": "30.4",
+          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
+          "timestamp_offset_ms": 1102000,
+          "desired_time_ms": 1102000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_31_1786194618759_eq25b",
+          "event_num": "S31",
+          "timestamp_offset_ms": 1111000,
+          "title": "Tubthumping - Chumbawamba",
+          "song": "Tubthumping - Chumbawamba",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244955199_fenrx",
+          "event_num": "31.1",
+          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony – 12 Shot",
+          "timestamp_offset_ms": 1111000,
+          "desired_time_ms": 1111000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Forged of Fire"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Colossal Force"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Colossal Force"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Colossal Force"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony – 12 Shot"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony – 12 Shot"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony – 12 Shot"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Forged of Fire",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Colossal Force",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Purple Peony – 12 Shot",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_32_1786194618759_xc79a",
+          "event_num": "S32",
+          "timestamp_offset_ms": 1131000,
+          "title": "Black Betty - Ram Jam",
+          "song": "Black Betty - Ram Jam",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786244981742_jjiuh",
+          "event_num": "32.1",
+          "title": "FIELD LCR Revolutionary Roar",
+          "timestamp_offset_ms": 1134000,
+          "desired_time_ms": 1134000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Revolutionary Roar"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Revolutionary Roar"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Revolutionary Roar"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Revolutionary Roar",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245000119_xnvpe",
+          "event_num": "32.2",
+          "title": "FIELD LCR Fanfare of America",
+          "timestamp_offset_ms": 1163000,
+          "desired_time_ms": 1163000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fanfare of America"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fanfare of America",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "song_33_1786194618759_6s4pm",
+          "event_num": "S33",
+          "timestamp_offset_ms": 1182000,
+          "title": "Sandstorm - Darude",
+          "song": "Sandstorm - Darude",
+          "relays": []
+        },
+        {
+          "event_id": "evt_1786245086904_l9qzy",
+          "event_num": "33.1",
+          "title": "FIELD LCR Staff of Ra Racks (L:x16, C:x20, R:x16)",
+          "timestamp_offset_ms": 1182000,
+          "desired_time_ms": 1187000,
+          "fuse_delay_sec": 5,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Staff of Ra"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Staff of Ra"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Staff of Ra"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Staff of Ra",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 16,
+              "center_qty": 20,
+              "right_qty": 16,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 5,
+              "setup_notes": "",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245142526_hwq99",
+          "event_num": "33.2",
+          "title": "FIELD LCR Fire Up the 4th!",
+          "timestamp_offset_ms": 1189000,
+          "desired_time_ms": 1189000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Up the 4th!"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Up the 4th!"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Fire Up the 4th!"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Fire Up the 4th!",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245175223_r1wn4",
+          "event_num": "33.3",
+          "title": "LCR - Founder's Vision & LCR - American Gemstones & LCR - Detonation of Independence x2",
+          "timestamp_offset_ms": 1201000,
+          "desired_time_ms": 1201000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Founder's Vision"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Founder's Vision"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Founder's Vision"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "American Gemstones"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Founder's Vision",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "American Gemstones",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "Detonation of Independence",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245279995_i6bib",
+          "event_num": "33.4",
+          "title": "FIELD LCR Star Spangled Smackdown",
+          "timestamp_offset_ms": 1211000,
+          "desired_time_ms": 1211000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Star Spangled Smackdown"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Star Spangled Smackdown",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245330144_40xxo",
+          "event_num": "33.5",
+          "title": "LCR - FB RWB Peony- 12 Shot & LR - FB Blue Comet W/Tail & C - FB Red Comet W/Tail",
+          "timestamp_offset_ms": 1233000,
+          "desired_time_ms": 1233000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB RWB Peony- 12 Shot"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB RWB Peony- 12 Shot"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB RWB Peony- 12 Shot"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB RWB Peony- 12 Shot",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Blue Comet W/Tail",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            },
+            {
+              "firework_name": "FB Red Comet W/Tail",
+              "left_field": false,
+              "center_field": true,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245383436_zaeu2",
+          "event_num": "33.6",
+          "title": "LCR - TUBES Killer Willow – 5\" shells x80",
+          "timestamp_offset_ms": 1239000,
+          "desired_time_ms": 1239000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Killer Willow – 5\" shells"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Killer Willow – 5\" shells"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "Killer Willow – 5\" shells"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Killer Willow – 5\" shells",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 80,
+              "center_qty": 80,
+              "right_qty": 80,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": "",
+              "is_fused": true
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245446047_td1f6",
+          "event_num": "33.7",
+          "title": "FIELD CURTAIN CALL LCR (MOD - Flash Fuse) FB Red Comet W/Tail (L:x2, C:x3, R:x2) & FIELD LCR (MOD - Flash Fuse) FB Blue Comet W/Tail x2",
+          "timestamp_offset_ms": 1258000,
+          "desired_time_ms": 1258000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Red Comet W/Tail"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "C1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            },
+            {
+              "location_id": "R1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Red Comet W/Tail",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 3,
+              "right_qty": 2,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": "alternate r/b spread out wide"
+            },
+            {
+              "firework_name": "FB Blue Comet W/Tail",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": true,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": "alternate r/b spread out wide"
+            }
+          ]
+        },
+        {
+          "event_id": "song_34_1786194618759_yj8h9",
+          "event_num": "S34",
+          "timestamp_offset_ms": 1273000,
+          "title": "Closing Time - Semisonic",
+          "song": "Closing Time - Semisonic",
+          "relays": []
+        }
+      ],
+      "songTracks": [],
+      "locations": [
+        {
+          "location_id": "L1",
+          "x_coordinate": 1,
+          "y_coordinate": 2,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L2",
+          "x_coordinate": 1,
+          "y_coordinate": 5,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L3",
+          "x_coordinate": 1,
+          "y_coordinate": 8,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C1",
+          "x_coordinate": 5,
+          "y_coordinate": 2,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C2",
+          "x_coordinate": 5,
+          "y_coordinate": 5,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C3",
+          "x_coordinate": 5,
+          "y_coordinate": 8,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R1",
+          "x_coordinate": 9,
+          "y_coordinate": 2,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R2",
+          "x_coordinate": 9,
+          "y_coordinate": 5,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R3",
+          "x_coordinate": 9,
+          "y_coordinate": 8,
+          "node_hostname": "",
+          "mac_addr": ""
+        }
+      ],
+      "lastEdited": "2026-08-09T20:00:56.928Z"
+    }
+  ]
+}
