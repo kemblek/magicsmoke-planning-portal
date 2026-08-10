@@ -809,12 +809,12 @@
               "location_id": "C1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot"
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -1974,7 +1974,7 @@
         {
           "event_id": "evt_1786243620663_r3evy",
           "event_num": "17.1",
-          "title": "LR - FB Silver Peony – 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
+          "title": "LR - FB Silver Peony \u2013 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
           "timestamp_offset_ms": 541000,
           "desired_time_ms": 541000,
           "fuse_delay_sec": 0,
@@ -1984,13 +1984,13 @@
               "location_id": "L1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Silver Peony – 12 shot"
+              "firework_name": "FB Silver Peony \u2013 12 shot"
             },
             {
               "location_id": "R1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Silver Peony – 12 shot"
+              "firework_name": "FB Silver Peony \u2013 12 shot"
             },
             {
               "location_id": "C1",
@@ -2007,7 +2007,7 @@
           ],
           "fireworks": [
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": true,
               "center_field": false,
               "right_field": true,
@@ -3690,7 +3690,7 @@
         {
           "event_id": "evt_1786244782741_0kt4u",
           "event_num": "30.3",
-          "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
+          "title": "L - FB Purple Peony \u2013 12 Shot & C - FB Silver Peony \u2013 12 shot & R - FB Orange Peony- 12 Shot",
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
           "fuse_delay_sec": 0,
@@ -3700,13 +3700,13 @@
               "location_id": "L1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Purple Peony – 12 Shot"
+              "firework_name": "FB Purple Peony \u2013 12 Shot"
             },
             {
               "location_id": "C1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Silver Peony – 12 shot"
+              "firework_name": "FB Silver Peony \u2013 12 shot"
             },
             {
               "location_id": "R1",
@@ -3717,7 +3717,7 @@
           ],
           "fireworks": [
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": false,
               "right_field": false,
@@ -3731,7 +3731,7 @@
               "setup_notes": ""
             },
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -3763,7 +3763,7 @@
         {
           "event_id": "evt_1786244808144_dgn5i",
           "event_num": "30.4",
-          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
+          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs \u2013 12 shot",
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
           "fuse_delay_sec": 0,
@@ -3773,24 +3773,24 @@
               "location_id": "L1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot"
             },
             {
               "location_id": "C1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot"
             },
             {
               "location_id": "R1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot"
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot"
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -3816,7 +3816,7 @@
         {
           "event_id": "evt_1786244955199_fenrx",
           "event_num": "31.1",
-          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony – 12 Shot",
+          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony \u2013 12 Shot",
           "timestamp_offset_ms": 1111000,
           "desired_time_ms": 1111000,
           "fuse_delay_sec": 0,
@@ -3862,19 +3862,19 @@
               "location_id": "L1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Purple Peony – 12 Shot"
+              "firework_name": "FB Purple Peony \u2013 12 Shot"
             },
             {
               "location_id": "C1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Purple Peony – 12 Shot"
+              "firework_name": "FB Purple Peony \u2013 12 Shot"
             },
             {
               "location_id": "R1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "FB Purple Peony – 12 Shot"
+              "firework_name": "FB Purple Peony \u2013 12 Shot"
             }
           ],
           "fireworks": [
@@ -3907,7 +3907,7 @@
               "setup_notes": ""
             },
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -4385,7 +4385,7 @@
         {
           "event_id": "evt_1786245383436_zaeu2",
           "event_num": "33.6",
-          "title": "LCR - TUBES Killer Willow – 5\" shells x80",
+          "title": "LCR - TUBES Killer Willow \u2013 5\" shells x80",
           "timestamp_offset_ms": 1239000,
           "desired_time_ms": 1239000,
           "fuse_delay_sec": 0,
@@ -4395,24 +4395,24 @@
               "location_id": "L1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells"
+              "firework_name": "Killer Willow \u2013 5\" shells"
             },
             {
               "location_id": "C1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells"
+              "firework_name": "Killer Willow \u2013 5\" shells"
             },
             {
               "location_id": "R1",
               "relay_idx": 0,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells"
+              "firework_name": "Killer Willow \u2013 5\" shells"
             }
           ],
           "fireworks": [
             {
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -4623,6 +4623,6095 @@
         }
       ],
       "lastEdited": "2026-08-09T20:00:56.928Z"
+    }
+  ],
+  "catalog": [
+    {
+      "name": "#BESTFIREWORKSEVER!",
+      "shots": 294,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "Assortments",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/bestfireworksever/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 1
+    },
+    {
+      "name": "#PYROROCKSTAR!",
+      "shots": 202,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "Assortments",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyrorockstar/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 2
+    },
+    {
+      "name": "#TOTALLYWORTHIT!",
+      "shots": 304,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "Assortments",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/totallyworthit/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 3
+    },
+    {
+      "name": ".38 Special",
+      "shots": 36,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/38-special/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 4
+    },
+    {
+      "name": "10 Ball Baby Shot Roman Candle",
+      "shots": 10,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/10-ball-baby-shot/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 5
+    },
+    {
+      "name": "10 Ball Exploding Roman Candle",
+      "shots": 10,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/10-ball-exploding/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 6
+    },
+    {
+      "name": "10 Ball Red Rhino Candle",
+      "shots": 10,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/10-ball-red-rhino-candle/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 7
+    },
+    {
+      "name": "100 Shot Saturn Missile Battery",
+      "shots": 100,
+      "duration_s": 10.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/100-shot-saturn-missile-battery/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 8
+    },
+    {
+      "name": "2 Time World War Champs!",
+      "shots": 250,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "500 gram Z cakes",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/2-time-world-war-champs/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 9
+    },
+    {
+      "name": "25 Gun Salute",
+      "shots": 25,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/25-gun-salute/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 10
+    },
+    {
+      "name": "25 Shot Saturn  Missile Battery",
+      "shots": 25,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/25-shot-saturn-missile-battery/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 11
+    },
+    {
+      "name": "300 Shot Saturn Missile Battery",
+      "shots": 300,
+      "duration_s": 50.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/300-shot-saturn-missile-battery/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 12
+    },
+    {
+      "name": "325 Shot Saturn Missile Battery round",
+      "shots": 325,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/325-shot-saturn-missile-battery-round/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 13
+    },
+    {
+      "name": "4 Ever America",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/4-ever-america/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 14
+    },
+    {
+      "name": "4th Of July Cocktail",
+      "shots": 30,
+      "duration_s": 13.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/4th-of-july-cocktail/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 15
+    },
+    {
+      "name": "4th of July Independence Day",
+      "shots": 36,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "Hybrid Multi-Shots",
+        "250th Anniversary of America"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/4th-of-july-independence-day/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 16
+    },
+    {
+      "name": "5 Ball Exploding",
+      "shots": 5,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/5-ball-exploding/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 17
+    },
+    {
+      "name": "5 Ball with tail",
+      "shots": 5,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/5-ball-with-tail/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 18
+    },
+    {
+      "name": "50 Star Storm",
+      "shots": 50,
+      "duration_s": 36.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/50-star-storm/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 19
+    },
+    {
+      "name": "Aerial Attack",
+      "shots": 25,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/aerial-attack/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 20
+    },
+    {
+      "name": "Age Of Dragons",
+      "shots": 16,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/age-of-dragons/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 21
+    },
+    {
+      "name": "Agent Of Chaos",
+      "shots": 24,
+      "duration_s": 50.0,
+      "description": "",
+      "categories": [
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/agent-of-chaos/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 22
+    },
+    {
+      "name": "Air Power",
+      "shots": 9,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/air-power/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 23
+    },
+    {
+      "name": "Air Supremacy",
+      "shots": 25,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/air-supremacy/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 24
+    },
+    {
+      "name": "Alien Generation",
+      "shots": 25,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/alien-generation/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 25
+    },
+    {
+      "name": "All-Father",
+      "shots": 9,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-all-father/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 26
+    },
+    {
+      "name": "Amber Waves of Flame",
+      "shots": 250,
+      "duration_s": 55.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "500 gram Z cakes",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/amber-waves-of-flame/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 27
+    },
+    {
+      "name": "America First",
+      "shots": 12,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/america-first/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 28
+    },
+    {
+      "name": "America's Battery \u2013 1000 Shot Saturn Missile Battery",
+      "shots": 1000,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/americas-battery-1000-shot-saturn-missile-battery/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 29
+    },
+    {
+      "name": "America's Candle",
+      "shots": 5,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Roman Candles",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/americas-candle/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 30
+    },
+    {
+      "name": "American Arsenal",
+      "shots": 100,
+      "duration_s": 52.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-arsenal/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 31
+    },
+    {
+      "name": "American Attitude",
+      "shots": 36,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-attitude/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 32
+    },
+    {
+      "name": "American Backroads",
+      "shots": 25,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-backroads/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 33
+    },
+    {
+      "name": "American Gemstones",
+      "shots": 72,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "500 gram Z cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-gemstones/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 34
+    },
+    {
+      "name": "American Glory",
+      "shots": 58,
+      "duration_s": 55.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-glory/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 35
+    },
+    {
+      "name": "American Heart",
+      "shots": 24,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-heart/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 36
+    },
+    {
+      "name": "American Made",
+      "shots": 9,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/american-made/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 37
+    },
+    {
+      "name": "Apocalypse Artillery \u2013 4\" shells",
+      "shots": 24,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/apocalypse-artillery/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 38
+    },
+    {
+      "name": "Archangel",
+      "shots": 12,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/archangel/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 39
+    },
+    {
+      "name": "Assassin",
+      "shots": 9,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/assassin/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 40
+    },
+    {
+      "name": "Atomizer",
+      "shots": 9,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/atomizer/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 41
+    },
+    {
+      "name": "Backroad Rebel",
+      "shots": 24,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/backroad-rebel/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 42
+    },
+    {
+      "name": "Backstreet Diva",
+      "shots": 112,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/backstreet-diva/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 43
+    },
+    {
+      "name": "Batter Up!",
+      "shots": 53,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/batter-up/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 44
+    },
+    {
+      "name": "Beach Nut",
+      "shots": 16,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/beach-nut/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 45
+    },
+    {
+      "name": "Beacon of Liberty",
+      "shots": 250,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/beacon-of-liberty/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 46
+    },
+    {
+      "name": "Bearing Arms",
+      "shots": 16,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/bearing-arms/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 47
+    },
+    {
+      "name": "Betty Rocket",
+      "shots": 18,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/betty-rocket-2/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 48
+    },
+    {
+      "name": "Big Bad Wolf",
+      "shots": 9,
+      "duration_s": 44.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/big-bad-wolf/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 49
+    },
+    {
+      "name": "Big Red",
+      "shots": 36,
+      "duration_s": 48.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/big-red/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 50
+    },
+    {
+      "name": "Black Hole Escape",
+      "shots": 9,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/black-hole-escape/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 51
+    },
+    {
+      "name": "Blazin Gun",
+      "shots": 30,
+      "duration_s": 57.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/blazin-gun/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 52
+    },
+    {
+      "name": "Blown Away",
+      "shots": 42,
+      "duration_s": 19.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/blown-away/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 53
+    },
+    {
+      "name": "Born on the Bayou",
+      "shots": 16,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/born-on-the-bayou/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 54
+    },
+    {
+      "name": "Born to Ride",
+      "shots": 16,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/born-to-ride/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 55
+    },
+    {
+      "name": "Boss Frog",
+      "shots": 12,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/boss-frog/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 56
+    },
+    {
+      "name": "Breaking Chains",
+      "shots": 25,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "New",
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/breaking-chains/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 57
+    },
+    {
+      "name": "Broadsword",
+      "shots": 9,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/broadsword/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 58
+    },
+    {
+      "name": "Brute Force",
+      "shots": 7,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/brute-force/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 59
+    },
+    {
+      "name": "Bull Whip",
+      "shots": 5,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/bull-whip/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 60
+    },
+    {
+      "name": "Card Tricks",
+      "shots": 170,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/card-tricks/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 61
+    },
+    {
+      "name": "Carnage Artillery \u2013 4\" shells",
+      "shots": 24,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/carnage-artillery/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 62
+    },
+    {
+      "name": "Cat Fight",
+      "shots": 9,
+      "duration_s": 17.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cat-fight/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 63
+    },
+    {
+      "name": "Cheers!",
+      "shots": 27,
+      "duration_s": 54.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cheers/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 64
+    },
+    {
+      "name": "Cherry Drop",
+      "shots": 25,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cherry-drop/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 65
+    },
+    {
+      "name": "Chillin' in America",
+      "shots": 25,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "New",
+        "Hybrid Multi-Shots",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/chillin-in-american/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 66
+    },
+    {
+      "name": "Christmas Lights",
+      "shots": 25,
+      "duration_s": 46.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/christmas-lights/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 67
+    },
+    {
+      "name": "Classic Intensity",
+      "shots": 16,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/classic-intensity/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 68
+    },
+    {
+      "name": "Clocked Out",
+      "shots": 33,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/clocked-out/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 69
+    },
+    {
+      "name": "Coco Loco",
+      "shots": 9,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/coco-loco/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 70
+    },
+    {
+      "name": "Coconut Grove Song",
+      "shots": 19,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/coconut-grove-song/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 71
+    },
+    {
+      "name": "Color Pearl \u2013 48 Shot",
+      "shots": 48,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/color-pearl-48-shot/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 72
+    },
+    {
+      "name": "Color Pearl \u2013 96 Shot",
+      "shots": 96,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/color-pearl-96-shot/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 73
+    },
+    {
+      "name": "Color Rain",
+      "shots": 16,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/color-rain/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 74
+    },
+    {
+      "name": "Colorful Skies",
+      "shots": 25,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/colorful-skies/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 75
+    },
+    {
+      "name": "Colossal Force",
+      "shots": 9,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/colossal-force/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 76
+    },
+    {
+      "name": "Constitution Candle",
+      "shots": 9,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/constitution-candle/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 77
+    },
+    {
+      "name": "Cook it Up",
+      "shots": 9,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cook-it-up/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 78
+    },
+    {
+      "name": "Copper Blue",
+      "shots": 16,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/copper-blue/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 79
+    },
+    {
+      "name": "Cosmic Samurai",
+      "shots": 32,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cosmic-samurai/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 80
+    },
+    {
+      "name": "Cosmic Titan",
+      "shots": 158,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cosmic-titan/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 81
+    },
+    {
+      "name": "Cowboy Up!",
+      "shots": 16,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cowboy-up/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 82
+    },
+    {
+      "name": "Crackling Candle \u2013 10 Ball",
+      "shots": 10,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crackling-candle-10-ball/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 83
+    },
+    {
+      "name": "Crackling Tail Saturn 200 Shot",
+      "shots": 200,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crackling-tail-saturn-200-shot/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 84
+    },
+    {
+      "name": "Crazy Cajun",
+      "shots": 16,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crazy-cajun/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 85
+    },
+    {
+      "name": "Crazy Cat",
+      "shots": 12,
+      "duration_s": 17.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crazy-cat/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 86
+    },
+    {
+      "name": "Crossfire",
+      "shots": 45,
+      "duration_s": 43.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crossfire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 87
+    },
+    {
+      "name": "Cruiser",
+      "shots": 16,
+      "duration_s": 42.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cruiser/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 88
+    },
+    {
+      "name": "Crusher",
+      "shots": 16,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crusher/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 89
+    },
+    {
+      "name": "Cyber Strike",
+      "shots": 30,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cyber-strike/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 90
+    },
+    {
+      "name": "Cyber Vision",
+      "shots": 41,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/cyber-vision/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 91
+    },
+    {
+      "name": "Dang It, Carl!!",
+      "shots": 28,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dang-it-carl/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 92
+    },
+    {
+      "name": "Dawn Of Time",
+      "shots": 37,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dawn-of-time/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 93
+    },
+    {
+      "name": "Death By Stereo",
+      "shots": 48,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/death-by-stereo/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 94
+    },
+    {
+      "name": "Decimator",
+      "shots": 35,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/decimator/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 95
+    },
+    {
+      "name": "Desert At Night",
+      "shots": 7,
+      "duration_s": 9.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/desert-at-night/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 96
+    },
+    {
+      "name": "Detonation of Independence",
+      "shots": 180,
+      "duration_s": 53.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/detonation-of-independence/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 97
+    },
+    {
+      "name": "Digital Vice",
+      "shots": 30,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/digital-vice/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 98
+    },
+    {
+      "name": "DJ Nights",
+      "shots": 16,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dj-nights/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 99
+    },
+    {
+      "name": "Dogs Days of Summer",
+      "shots": 16,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dogs-days-of-summer/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 100
+    },
+    {
+      "name": "Don't Be Chicken",
+      "shots": 25,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dont-be-chicken/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 101
+    },
+    {
+      "name": "Doomsday Machine",
+      "shots": 1,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "Multi Shot Cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/doomsday-machine/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 102
+    },
+    {
+      "name": "Double Blast",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/double-blast/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 103
+    },
+    {
+      "name": "Double Blast 12 Pack Box",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/double-blast-12-pack-box/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 104
+    },
+    {
+      "name": "Double Blast Blister Pack 6",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/double-blast-blister-pack-6/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 105
+    },
+    {
+      "name": "Double Tap",
+      "shots": 25,
+      "duration_s": 60.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/double-tap/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 106
+    },
+    {
+      "name": "Double Team",
+      "shots": 9,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/double-team/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 107
+    },
+    {
+      "name": "Drift Racer",
+      "shots": 90,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/drift-racer/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 108
+    },
+    {
+      "name": "Duck And Cover",
+      "shots": 68,
+      "duration_s": 12.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/duck-and-cover/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 109
+    },
+    {
+      "name": "Dumpster Fire",
+      "shots": 24,
+      "duration_s": 41.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dumpster-fire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 110
+    },
+    {
+      "name": "Eagle Command",
+      "shots": 7,
+      "duration_s": 14.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/eagle-command/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 111
+    },
+    {
+      "name": "Eagles Nest",
+      "shots": 25,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/eagles-nest/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 112
+    },
+    {
+      "name": "Edge of Oblivion \u2013 6\" shells",
+      "shots": 18,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "New",
+        "60 gram Canister shells",
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/dark-oblivion/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 113
+    },
+    {
+      "name": "El Toro",
+      "shots": 9,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/el-toro/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 114
+    },
+    {
+      "name": "Eminent Domain",
+      "shots": 19,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/eminent-domain/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 115
+    },
+    {
+      "name": "Enraged",
+      "shots": 9,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/enraged/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 116
+    },
+    {
+      "name": "Eye Candy",
+      "shots": 8,
+      "duration_s": 17.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/eye-candy/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 117
+    },
+    {
+      "name": "Eye in the Sky",
+      "shots": 12,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/eye-in-the-sky/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 118
+    },
+    {
+      "name": "F1 Outlaw",
+      "shots": 9,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/f1-outlaw/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 119
+    },
+    {
+      "name": "Faded Not Jaded",
+      "shots": 25,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/faded-not-jaded/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 120
+    },
+    {
+      "name": "Fanfare of America",
+      "shots": 90,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fanfare-of-freedom/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 121
+    },
+    {
+      "name": "Fat & Sassy",
+      "shots": 9,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fat-sassy/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 122
+    },
+    {
+      "name": "FB Blue Comet W/Tail",
+      "shots": 16,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/blue-comet-w-tail/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 123
+    },
+    {
+      "name": "FB Crackling Dragon Eggs \u2013 12 shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/crackling-dragon-eggs-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 124
+    },
+    {
+      "name": "FB Gold Willow",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/gold-willow/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 125
+    },
+    {
+      "name": "FB Golden Crown Waterfall",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/golden-crown-waterfall/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 126
+    },
+    {
+      "name": "FB Orange Peony- 12 Shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/orange-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 127
+    },
+    {
+      "name": "FB Purple Peony \u2013 12 Shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/purple-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 128
+    },
+    {
+      "name": "FB Red Comet W/Tail",
+      "shots": 16,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-comet-w-tail/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 129
+    },
+    {
+      "name": "FB Red Peony- 12 Shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 130
+    },
+    {
+      "name": "FB RWB Peony- 12 Shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rwb-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 131
+    },
+    {
+      "name": "FB Silver Peony \u2013 12 shot",
+      "shots": 12,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Full Blown Fireworks"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/silver-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 132
+    },
+    {
+      "name": "Fire Assault",
+      "shots": 25,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fire-assault/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 133
+    },
+    {
+      "name": "Fire Horse",
+      "shots": 36,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fire-horse/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 134
+    },
+    {
+      "name": "Fire Of Battle",
+      "shots": 23,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fire-of-battle/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 135
+    },
+    {
+      "name": "Fire over Water",
+      "shots": 145,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fire-over-water/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 136
+    },
+    {
+      "name": "Fire Up the 4th!",
+      "shots": 100,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fire-up-the-4th/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 137
+    },
+    {
+      "name": "Firenado",
+      "shots": 10,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/firenado/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 138
+    },
+    {
+      "name": "Fireworks Are Awesome",
+      "shots": 25,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fireworks-are-awesome/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 139
+    },
+    {
+      "name": "Fireworks Spectacular",
+      "shots": 36,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fireworks-spectacular/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 140
+    },
+    {
+      "name": "Fists of Independence",
+      "shots": 16,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fists-of-independence/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 141
+    },
+    {
+      "name": "Fizz Off!",
+      "shots": 25,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/fizz-off/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 142
+    },
+    {
+      "name": "Flying Firecrackers",
+      "shots": 81,
+      "duration_s": 43.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/flying-firecrackers/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 143
+    },
+    {
+      "name": "For Our Flag",
+      "shots": 16,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/for-our-flag/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 144
+    },
+    {
+      "name": "Forged of Fire",
+      "shots": 8,
+      "duration_s": 21.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/forged-of-fire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 145
+    },
+    {
+      "name": "Founder's Vision",
+      "shots": 128,
+      "duration_s": 57.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/founders-vision/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 146
+    },
+    {
+      "name": "Free Ride",
+      "shots": 9,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/free-ride/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 147
+    },
+    {
+      "name": "Freebird",
+      "shots": 28,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/freebird/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 148
+    },
+    {
+      "name": "Freedom Isn't Free",
+      "shots": 24,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "500 gram multi-directional cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/freedom-isnt-free/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 149
+    },
+    {
+      "name": "Freedom Stick",
+      "shots": 135,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/freedom-stick/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 150
+    },
+    {
+      "name": "Freedom's Wings",
+      "shots": 12,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/freedoms-wings/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 151
+    },
+    {
+      "name": "French Quarter Frenzy",
+      "shots": 50,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/french-quarter-frenzy/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 152
+    },
+    {
+      "name": "From the Deep",
+      "shots": 9,
+      "duration_s": 12.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/from-the-deep/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 153
+    },
+    {
+      "name": "Future All American",
+      "shots": 21,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/future-all-american/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 154
+    },
+    {
+      "name": "Galaxy Quest",
+      "shots": 90,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/galaxy-quest/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 155
+    },
+    {
+      "name": "Gambler",
+      "shots": 5,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/gambler/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 156
+    },
+    {
+      "name": "GameFish",
+      "shots": 15,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/gamefish/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 157
+    },
+    {
+      "name": "Garden in Spring",
+      "shots": 7,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/garden-in-spring/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 158
+    },
+    {
+      "name": "Ghost Rail",
+      "shots": 12,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/ghost-rail/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 159
+    },
+    {
+      "name": "Go Time",
+      "shots": 12,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/go-time/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 160
+    },
+    {
+      "name": "God Bless Boomerica!",
+      "shots": 100,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/god-bless-boomerica/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 161
+    },
+    {
+      "name": "Goddess",
+      "shots": 16,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/goddess/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 162
+    },
+    {
+      "name": "Golden Fury",
+      "shots": 25,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/golden-fury/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 163
+    },
+    {
+      "name": "Golden Girl",
+      "shots": 180,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/golden-girl/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 164
+    },
+    {
+      "name": "Good Times",
+      "shots": 16,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "New",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/good-times/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 165
+    },
+    {
+      "name": "Gun Fighter",
+      "shots": 10,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/gun-fighter/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 166
+    },
+    {
+      "name": "Gun Safe",
+      "shots": 9,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "Assortments"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/gun-safe/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 167
+    },
+    {
+      "name": "Hallow's Eve",
+      "shots": 25,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hallows-eve/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 168
+    },
+    {
+      "name": "Happy Fireworks 25",
+      "shots": 25,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/happy-fireworks-25/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 169
+    },
+    {
+      "name": "Happy Fireworks 49",
+      "shots": 49,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/happy-fireworks-49/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 170
+    },
+    {
+      "name": "Hard Hitter",
+      "shots": 16,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hard-hitter/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 171
+    },
+    {
+      "name": "Haulin' Ass",
+      "shots": 125,
+      "duration_s": 11.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/haulin-ass/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 172
+    },
+    {
+      "name": "Hell Fire",
+      "shots": 25,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hell-fire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 173
+    },
+    {
+      "name": "High Velocity",
+      "shots": 25,
+      "duration_s": 21.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/high-velocity/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 174
+    },
+    {
+      "name": "Hog Wild Pyro",
+      "shots": 60,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hog-wild-pyro/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 175
+    },
+    {
+      "name": "Holy Moly",
+      "shots": 12,
+      "duration_s": 45.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/holy-moly/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 176
+    },
+    {
+      "name": "Horsepower",
+      "shots": 45,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/horsepower/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 177
+    },
+    {
+      "name": "Hound Dog Blues",
+      "shots": 80,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hound-dog-blues/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 178
+    },
+    {
+      "name": "Howling Duel",
+      "shots": 25,
+      "duration_s": 46.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/howling-duel/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 179
+    },
+    {
+      "name": "Huntress",
+      "shots": 9,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/huntress/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 180
+    },
+    {
+      "name": "Hyped Up",
+      "shots": 160,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hyped-up/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 181
+    },
+    {
+      "name": "Hyper II",
+      "shots": 96,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hyper-ii/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 182
+    },
+    {
+      "name": "Hypnotized",
+      "shots": 16,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/hypnotized/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 183
+    },
+    {
+      "name": "In My Sights",
+      "shots": 24,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/in-my-sights/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 184
+    },
+    {
+      "name": "In Tribute",
+      "shots": 16,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/in-tribute/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 185
+    },
+    {
+      "name": "Jet Fire",
+      "shots": 25,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/jet-fire/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 186
+    },
+    {
+      "name": "Jumbo Strobes",
+      "shots": 3,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "Novelties"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/jumbo-strobes/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Fountain",
+      "id": 187
+    },
+    {
+      "name": "Just Light It",
+      "shots": 19,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/just-light-it/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 188
+    },
+    {
+      "name": "Killer Willow \u2013 5\" shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/killer-willow-5-shell/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 189
+    },
+    {
+      "name": "King of the Ring",
+      "shots": 15,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/king-of-the-ring/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 190
+    },
+    {
+      "name": "Lady Samurai",
+      "shots": 82,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/lady-samurai/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 191
+    },
+    {
+      "name": "Legendary Beast",
+      "shots": 16,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/legendary-beast/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 192
+    },
+    {
+      "name": "Let Freedom Ring",
+      "shots": 36,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/let-freedom-ring/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 193
+    },
+    {
+      "name": "Let's Go Bro!",
+      "shots": 126,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/lets-go-bro/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 194
+    },
+    {
+      "name": "Let's Rumble!",
+      "shots": 207,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/lets-rumble/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 195
+    },
+    {
+      "name": "Liberty Belle",
+      "shots": 20,
+      "duration_s": 49.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/liberty-belle/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 196
+    },
+    {
+      "name": "Liberty Celebration",
+      "shots": 36,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/liberty-celebration/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 197
+    },
+    {
+      "name": "Little Nemo",
+      "shots": 19,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/little-nemo/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 198
+    },
+    {
+      "name": "Living It Up",
+      "shots": 36,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/living-it-up/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 199
+    },
+    {
+      "name": "Loaded Gun",
+      "shots": 30,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/loaded-gun/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 200
+    },
+    {
+      "name": "Lord of War",
+      "shots": 84,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/lord-of-war/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 201
+    },
+    {
+      "name": "Loyal to All",
+      "shots": 25,
+      "duration_s": 46.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/loyal-to-all/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 202
+    },
+    {
+      "name": "Mad Crackers",
+      "shots": 180,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mad-crackers/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 203
+    },
+    {
+      "name": "Mad Maxine",
+      "shots": 25,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mad-maxine/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 204
+    },
+    {
+      "name": "Made to Order",
+      "shots": 16,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/made-to-order/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 205
+    },
+    {
+      "name": "Magical Barrage",
+      "shots": 100,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/magical-barrage/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 206
+    },
+    {
+      "name": "Masquerade",
+      "shots": 16,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/masquerade/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 207
+    },
+    {
+      "name": "MAX'D OUT SIX \u2013 4\" shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mini-maxd-out/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 208
+    },
+    {
+      "name": "MAX'D OUT \u2013 4\" shells",
+      "shots": 18,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/maxd-out/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 209
+    },
+    {
+      "name": "Mechanized",
+      "shots": 25,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mechanized/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 210
+    },
+    {
+      "name": "Merica Mode On",
+      "shots": 250,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/merica-mode-on/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 211
+    },
+    {
+      "name": "Metal Monster",
+      "shots": 25,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/metal-monster/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 212
+    },
+    {
+      "name": "Mighty Cobra",
+      "shots": 19,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mighty-cobra/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 213
+    },
+    {
+      "name": "Mini Bombs",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mini-bombs/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 214
+    },
+    {
+      "name": "Miss-Direction",
+      "shots": 42,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/miss-direction/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 215
+    },
+    {
+      "name": "Mondays Suck",
+      "shots": 16,
+      "duration_s": 19.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/mondays-suck/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 216
+    },
+    {
+      "name": "Monkey Business",
+      "shots": 10,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/monkey-business/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 217
+    },
+    {
+      "name": "Monstrous",
+      "shots": 10,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/monstrous/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 218
+    },
+    {
+      "name": "Moto Madness",
+      "shots": 7,
+      "duration_s": 13.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/moto-madness/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 219
+    },
+    {
+      "name": "Muscle Car Classics",
+      "shots": 16,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/muscle-car-classics/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 220
+    },
+    {
+      "name": "Natural Born Pyros",
+      "shots": 16,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Assortments"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/natural-born-pyros/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 221
+    },
+    {
+      "name": "Neighborhood Party",
+      "shots": 50,
+      "duration_s": 51.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/neighborhood-party/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 222
+    },
+    {
+      "name": "Neon Streak",
+      "shots": 36,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/neon-streak/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 223
+    },
+    {
+      "name": "Night Race",
+      "shots": 16,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/night-race/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 224
+    },
+    {
+      "name": "Night Raven",
+      "shots": 38,
+      "duration_s": 44.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/night-raven/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 225
+    },
+    {
+      "name": "Night Shadow",
+      "shots": 22,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/night-shadow/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 226
+    },
+    {
+      "name": "No Trespassing",
+      "shots": 16,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/no-trespassing/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 227
+    },
+    {
+      "name": "Nude Beach",
+      "shots": 18,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/nude-beach/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 228
+    },
+    {
+      "name": "Nut Buster",
+      "shots": 10,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/nut-buster/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 229
+    },
+    {
+      "name": "One Jacked Quacker",
+      "shots": 30,
+      "duration_s": 56.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/one-jacked-quarter/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 230
+    },
+    {
+      "name": "Open Carry",
+      "shots": 25,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/open-carry/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 231
+    },
+    {
+      "name": "Orange Blossom Special",
+      "shots": 80,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/orange-blossom-special/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 232
+    },
+    {
+      "name": "Original Gangster",
+      "shots": 16,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/original-gangster/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 233
+    },
+    {
+      "name": "Our Baby Reveal",
+      "shots": 12,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/our-baby-reveal/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 234
+    },
+    {
+      "name": "Outlaw 12",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Single Shot Artillery Tubes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/outlaw-12/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 235
+    },
+    {
+      "name": "Outlaw Bullets",
+      "shots": 9,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/outlaw-bullets/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 236
+    },
+    {
+      "name": "Outlaw Gold",
+      "shots": 42,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/outlaw-gold/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 237
+    },
+    {
+      "name": "Outlaw Trucker",
+      "shots": 16,
+      "duration_s": 49.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/outlaw-trucker/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 238
+    },
+    {
+      "name": "Outlaw Woman",
+      "shots": 36,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/outlaw-woman/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 239
+    },
+    {
+      "name": "Overlord",
+      "shots": 25,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/overlord/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 240
+    },
+    {
+      "name": "Painted Lady",
+      "shots": 24,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/painted-lady/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 241
+    },
+    {
+      "name": "Pardi Gras",
+      "shots": 15,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pardi-gras/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 242
+    },
+    {
+      "name": "Party Cake",
+      "shots": 129,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/party-cake/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 243
+    },
+    {
+      "name": "Patriot Arms",
+      "shots": 25,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/patriot-arms/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 244
+    },
+    {
+      "name": "Patriot Reign",
+      "shots": 64,
+      "duration_s": 52.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/patriot-reign/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 245
+    },
+    {
+      "name": "Patriot Torch",
+      "shots": 120,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/patriot-torch/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 246
+    },
+    {
+      "name": "Peacemaker Blister Pack \u2013 4\" shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/peacemaker-blister-pack/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 247
+    },
+    {
+      "name": "Pirates Code",
+      "shots": 16,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pirates-code/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 248
+    },
+    {
+      "name": "Playing For Keeps",
+      "shots": 25,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/playing-for-keeps/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 249
+    },
+    {
+      "name": "Polar Divide",
+      "shots": 9,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/polar-divide/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 250
+    },
+    {
+      "name": "Polar Iced",
+      "shots": 18,
+      "duration_s": 17.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/polar-iced/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 251
+    },
+    {
+      "name": "Pool Party",
+      "shots": 16,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pool-party/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 252
+    },
+    {
+      "name": "Poppin' for the People",
+      "shots": 25,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "New",
+        "Hybrid Multi-Shots",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/poppin-for-the-people/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 253
+    },
+    {
+      "name": "Power of Pride",
+      "shots": 48,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/power-of-pride/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 254
+    },
+    {
+      "name": "Powerball 140 shot",
+      "shots": 140,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/powerball-140-shot/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 255
+    },
+    {
+      "name": "Premium Artillery Canister Shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/premium-artillery-canister-shells/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 256
+    },
+    {
+      "name": "Premium Crackling Canister Shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/premium-crackling-canister-shells/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 257
+    },
+    {
+      "name": "Premium Festival Canister Shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/premium-festival-canister-shells/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 258
+    },
+    {
+      "name": "Premium Whistling Canister Shells",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/premimum-whistling-canister-shells/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 259
+    },
+    {
+      "name": "Presidential Series",
+      "shots": 16,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/presidential-series/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 260
+    },
+    {
+      "name": "Pride of Texas",
+      "shots": 53,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pride-of-texas/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 261
+    },
+    {
+      "name": "Profit Box : Bel Air \u2013 Super Selfie \u2013 Top Gun",
+      "shots": 7,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/profit-box-bel-air-super-selfie-top-gun/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 262
+    },
+    {
+      "name": "Psychedelic Jellyfish",
+      "shots": 9,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/psychedelic-jellyfish/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 263
+    },
+    {
+      "name": "Psycho Therapy",
+      "shots": 49,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/psycho-therapy/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 264
+    },
+    {
+      "name": "Pullin G's",
+      "shots": 9,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pullin-gs/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 265
+    },
+    {
+      "name": "Pure Country",
+      "shots": 22,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pure-country/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 266
+    },
+    {
+      "name": "Pyro Darts",
+      "shots": 36,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-darts/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 267
+    },
+    {
+      "name": "Pyro Dynamics",
+      "shots": 220,
+      "duration_s": 19.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-dynamics/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 268
+    },
+    {
+      "name": "Pyro Gal",
+      "shots": 12,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-gal/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 269
+    },
+    {
+      "name": "Pyro Lips",
+      "shots": 15,
+      "duration_s": 12.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-lips/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 270
+    },
+    {
+      "name": "Pyro Maestro",
+      "shots": 24,
+      "duration_s": 55.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-maestro/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 271
+    },
+    {
+      "name": "Pyro Sunset",
+      "shots": 30,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-sunset/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 272
+    },
+    {
+      "name": "Pyro World",
+      "shots": 50,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/pyro-world/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 273
+    },
+    {
+      "name": "Race Maker",
+      "shots": 15,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/race-maker/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 274
+    },
+    {
+      "name": "Raging Rhino",
+      "shots": 5,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/raging-rhino/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 275
+    },
+    {
+      "name": "Ravaged",
+      "shots": 30,
+      "duration_s": 21.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/ravaged/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 276
+    },
+    {
+      "name": "Real Wild One",
+      "shots": 25,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/real-wild-one/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 277
+    },
+    {
+      "name": "Red Moon Rising",
+      "shots": 83,
+      "duration_s": 52.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-moon-rising/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 278
+    },
+    {
+      "name": "Red Saber",
+      "shots": 80,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-saber/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 279
+    },
+    {
+      "name": "Red White & Boom",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-white-boom/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 280
+    },
+    {
+      "name": "Reel Catch",
+      "shots": 53,
+      "duration_s": 49.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/reel-catch/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 281
+    },
+    {
+      "name": "Revolutionary Roar",
+      "shots": 88,
+      "duration_s": 47.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/revolutionary-roar/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 282
+    },
+    {
+      "name": "Revolver",
+      "shots": 9,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/revolver/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 283
+    },
+    {
+      "name": "Rifle",
+      "shots": 9,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rifle/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 284
+    },
+    {
+      "name": "Righteous Warrior",
+      "shots": 9,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/righteous-warrior/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 285
+    },
+    {
+      "name": "Ring of Fire",
+      "shots": 16,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/ring-of-fire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 286
+    },
+    {
+      "name": "Ring the Bell",
+      "shots": 10,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/ring-the-bell/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 287
+    },
+    {
+      "name": "Rise Of Power",
+      "shots": 12,
+      "duration_s": 17.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rise-of-power/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 288
+    },
+    {
+      "name": "Road Construction",
+      "shots": 7,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/road-construction/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 289
+    },
+    {
+      "name": "Roadshow",
+      "shots": 25,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/roadshow/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 290
+    },
+    {
+      "name": "Rockin' The Free World",
+      "shots": 30,
+      "duration_s": 21.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rockin-the-free-world/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 291
+    },
+    {
+      "name": "Roping",
+      "shots": 9,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/roping/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 292
+    },
+    {
+      "name": "Roswell Reborn",
+      "shots": 20,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/roswell-reborn/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 293
+    },
+    {
+      "name": "Rumbling Bumble",
+      "shots": 0,
+      "duration_s": 50.0,
+      "description": "",
+      "categories": [
+        "New",
+        "200 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rumbling-bumble/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 294
+    },
+    {
+      "name": "Rustlers Reunion",
+      "shots": 16,
+      "duration_s": 15.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/rustlers-reunion/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 295
+    },
+    {
+      "name": "Sack Race",
+      "shots": 37,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sack-race/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 296
+    },
+    {
+      "name": "Sapphire Rain",
+      "shots": 72,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sapphire-rain/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 297
+    },
+    {
+      "name": "Search & Destroy",
+      "shots": 53,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/search-destroy/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 298
+    },
+    {
+      "name": "Season of Change",
+      "shots": 9,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/season-of-change/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 299
+    },
+    {
+      "name": "Second Amendment",
+      "shots": 42,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/second-amendment/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 300
+    },
+    {
+      "name": "Semi Auto",
+      "shots": 9,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/semi-auto/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 301
+    },
+    {
+      "name": "Shades of Summer",
+      "shots": 129,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/shades-of-summer/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 302
+    },
+    {
+      "name": "Shock Trooper",
+      "shots": 9,
+      "duration_s": 45.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/shock-trooper/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 303
+    },
+    {
+      "name": "Shotgun",
+      "shots": 9,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/shotgun/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 304
+    },
+    {
+      "name": "Show Of Force",
+      "shots": 13,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/show-of-force/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 305
+    },
+    {
+      "name": "Showbox",
+      "shots": 25,
+      "duration_s": 21.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/showbox/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 306
+    },
+    {
+      "name": "Showstopper",
+      "shots": 20,
+      "duration_s": 16.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/showstopper/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 307
+    },
+    {
+      "name": "Silver Beauty",
+      "shots": 24,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/silver-beauty/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 308
+    },
+    {
+      "name": "Sinister",
+      "shots": 10,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sinister/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 309
+    },
+    {
+      "name": "Sky Shooter",
+      "shots": 15,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sky-shooter/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 310
+    },
+    {
+      "name": "Skyfire",
+      "shots": 278,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/skyfire/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 311
+    },
+    {
+      "name": "Slingshot",
+      "shots": 9,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/slingshot/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 312
+    },
+    {
+      "name": "Smoke of Liberty",
+      "shots": 135,
+      "duration_s": 14.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/smoke-of-liberty/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 313
+    },
+    {
+      "name": "Smooth Criminal",
+      "shots": 9,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/smooth-criminal/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 314
+    },
+    {
+      "name": "Sniper Shot",
+      "shots": 23,
+      "duration_s": 48.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sniper-shot/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 315
+    },
+    {
+      "name": "Snub Nose 38 Roman Candle",
+      "shots": 10,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/snub-nose-38-roman-candle/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 316
+    },
+    {
+      "name": "Sons of Thunder and Liberty",
+      "shots": 100,
+      "duration_s": 41.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sons-of-thunder-and-liberty/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 317
+    },
+    {
+      "name": "Sorcerer's Stone",
+      "shots": 56,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/sorcerers-stone/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 318
+    },
+    {
+      "name": "Southern Comfort",
+      "shots": 49,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/southern-comfort/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 319
+    },
+    {
+      "name": "Southern Storm",
+      "shots": 25,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/southern-storm/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 320
+    },
+    {
+      "name": "Spark of Rebellion",
+      "shots": 100,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/spark-of-rebellion/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 321
+    },
+    {
+      "name": "Spartan",
+      "shots": 25,
+      "duration_s": 19.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/spartan/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 322
+    },
+    {
+      "name": "Speedshow",
+      "shots": 25,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/speedshow/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 323
+    },
+    {
+      "name": "Staff of Ra",
+      "shots": 10,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/staff-of-ra/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 324
+    },
+    {
+      "name": "Standing United",
+      "shots": 25,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/standing-united/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 325
+    },
+    {
+      "name": "Star Fighter",
+      "shots": 20,
+      "duration_s": 36.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/star-fighter/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 326
+    },
+    {
+      "name": "Star Racer",
+      "shots": 57,
+      "duration_s": 39.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/star-racer/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 327
+    },
+    {
+      "name": "Star Spangled Smackdown",
+      "shots": 100,
+      "duration_s": 42.0,
+      "description": "",
+      "categories": [
+        "New",
+        "500 gram fan cakes",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/star-spangled-smackdown/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 328
+    },
+    {
+      "name": "Stars and Stripes",
+      "shots": 25,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/stars-and-stripes/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 329
+    },
+    {
+      "name": "Steel Fury",
+      "shots": 33,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/steel-fury/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 330
+    },
+    {
+      "name": "Stereophonic",
+      "shots": 25,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/stereophonic/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 331
+    },
+    {
+      "name": "Stone Breaker",
+      "shots": 9,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "New"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/stone-breaker/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 332
+    },
+    {
+      "name": "Storm Chaser",
+      "shots": 14,
+      "duration_s": 34.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/storm-chaser/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 333
+    },
+    {
+      "name": "Street Outlaw",
+      "shots": 25,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/street-outlaw/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 334
+    },
+    {
+      "name": "Super Beast",
+      "shots": 9,
+      "duration_s": 43.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/super-beast-3/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 335
+    },
+    {
+      "name": "Super Charged",
+      "shots": 16,
+      "duration_s": 37.0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Hybrid Multi-Shots"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/super-charged/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 336
+    },
+    {
+      "name": "Surfer Girl",
+      "shots": 30,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/surfer-girl/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 337
+    },
+    {
+      "name": "Swordplay",
+      "shots": 18,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/swordplay/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 338
+    },
+    {
+      "name": "Talk to the Beak",
+      "shots": 30,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/talk-to-the-beak/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 339
+    },
+    {
+      "name": "Taste The Rainbow",
+      "shots": 115,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/taste-the-rainbow/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 340
+    },
+    {
+      "name": "Texas Battery \u2013 504 Shot Saturn Missile",
+      "shots": 504,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Multi Shot Cakes",
+        "Saturn Missile Battery"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/texas-battery-504-shot-saturn-missile/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 341
+    },
+    {
+      "name": "Texas Loud Texas Proud Cans",
+      "shots": 6,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/texas-loud-texas-proud-cans/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 342
+    },
+    {
+      "name": "Texas Rooter",
+      "shots": 25,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/texas-rooter/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 343
+    },
+    {
+      "name": "The American Heartbeat",
+      "shots": 250,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-american-heartbeat/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 344
+    },
+    {
+      "name": "The Assassin of Artillery \u2013 5\" shells",
+      "shots": 24,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-assassin-of-artillery-5-shell/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 345
+    },
+    {
+      "name": "The Dude",
+      "shots": 16,
+      "duration_s": 32.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-dude/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 346
+    },
+    {
+      "name": "The Eagle's Scream",
+      "shots": 50,
+      "duration_s": 27.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-eagles-scream/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 347
+    },
+    {
+      "name": "The Garage",
+      "shots": 9,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "Assortments"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-garage/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 348
+    },
+    {
+      "name": "The Hammer",
+      "shots": 24,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-hammer/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 349
+    },
+    {
+      "name": "The Judge Artillery \u2013 4\" shells",
+      "shots": 24,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-judge-artillery/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 350
+    },
+    {
+      "name": "The Protector",
+      "shots": 9,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-protector/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 351
+    },
+    {
+      "name": "The United States Salute to 250!",
+      "shots": 16,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/the-united-states-salute-to-250/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 352
+    },
+    {
+      "name": "Thunder in the Republic",
+      "shots": 120,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "New",
+        "RWB Patriotic",
+        "250th Anniversary of America",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/thunder-in-the-republic/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 353
+    },
+    {
+      "name": "Titanium Fire",
+      "shots": 100,
+      "duration_s": 19.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/titanium-fire/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 354
+    },
+    {
+      "name": "Tommy Girl",
+      "shots": 25,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/tommy-girl/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 355
+    },
+    {
+      "name": "Topping Out",
+      "shots": 23,
+      "duration_s": 24.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/topping-out/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 356
+    },
+    {
+      "name": "Trigger Pull",
+      "shots": 9,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/trigger-pull/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 357
+    },
+    {
+      "name": "Triple Threat",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/triple-threat/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 358
+    },
+    {
+      "name": "Tropical Chaos",
+      "shots": 92,
+      "duration_s": 23.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram Z cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/tropical-chaos/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 359
+    },
+    {
+      "name": "True Rebel",
+      "shots": 15,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/True-rebel/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 360
+    },
+    {
+      "name": "Tuned Up",
+      "shots": 29,
+      "duration_s": 53.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/tuned-up/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 361
+    },
+    {
+      "name": "Ultimate Outlaw",
+      "shots": 36,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "Reloadable Multi-break shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/ultimate-outlaw/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 362
+    },
+    {
+      "name": "Undertaker Blister Pack",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/undertaker-blister-pack/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 363
+    },
+    {
+      "name": "Universal Darkness",
+      "shots": 12,
+      "duration_s": 33.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "RWB Patriotic"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/universal-darkness/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 364
+    },
+    {
+      "name": "Urban Jedi",
+      "shots": 16,
+      "duration_s": 18.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/urban-jedi/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 365
+    },
+    {
+      "name": "USA! USA!",
+      "shots": 9,
+      "duration_s": 40.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram 3&quot; Cakes",
+        "RWB Patriotic",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/usa-usa/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 366
+    },
+    {
+      "name": "V-8 Redline",
+      "shots": 25,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/v-8-redline/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 367
+    },
+    {
+      "name": "Vacation Destination",
+      "shots": 24,
+      "duration_s": 41.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/vacation-destination/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 368
+    },
+    {
+      "name": "Venom Artillery \u2013 4\" shells",
+      "shots": 12,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/venom-artillery/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 369
+    },
+    {
+      "name": "Walk the Line",
+      "shots": 49,
+      "duration_s": 25.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/walk-the-line/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 370
+    },
+    {
+      "name": "War Paint",
+      "shots": 42,
+      "duration_s": 38.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/war-paint/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 371
+    },
+    {
+      "name": "Warrior's Realm",
+      "shots": 9,
+      "duration_s": 28.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/warriors-realm/",
+      "size": "N/A",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 372
+    },
+    {
+      "name": "Whistlin' Dixie",
+      "shots": 42,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "500 gram fan cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/whistlin-dixie/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 373
+    },
+    {
+      "name": "White Stag",
+      "shots": 9,
+      "duration_s": 30.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/white-stag/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 374
+    },
+    {
+      "name": "White Tiger",
+      "shots": 9,
+      "duration_s": 10.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/white-tiger/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 375
+    },
+    {
+      "name": "Widows Kiss",
+      "shots": 25,
+      "duration_s": 35.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/widows-kiss/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 376
+    },
+    {
+      "name": "Wild Boar \u2013 4\" shells",
+      "shots": 18,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Reloadable Artillery Kits",
+        "60 gram Canister shells"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/wild-boar/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Shell",
+      "id": 377
+    },
+    {
+      "name": "Wild Side Candle Pack",
+      "shots": 10,
+      "duration_s": 0,
+      "description": "",
+      "categories": [
+        "Roman Candles"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/wild-side-candle-pack/",
+      "size": "N/A",
+      "shape": "",
+      "type": "Roman Candle",
+      "id": 378
+    },
+    {
+      "name": "Willow Maker",
+      "shots": 12,
+      "duration_s": 44.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/willow-maker/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 379
+    },
+    {
+      "name": "Winner's Seat",
+      "shots": 12,
+      "duration_s": 26.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/winners-seat/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 380
+    },
+    {
+      "name": "Witch Blade",
+      "shots": 25,
+      "duration_s": 22.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/witch-blade/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 381
+    },
+    {
+      "name": "Wooly Bully",
+      "shots": 16,
+      "duration_s": 31.0,
+      "description": "",
+      "categories": [
+        "500 gram cakes",
+        "500 gram multi-directional cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/wooly-bully/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 382
+    },
+    {
+      "name": "Xtreme Energy",
+      "shots": 9,
+      "duration_s": 36.0,
+      "description": "",
+      "categories": [
+        "500 gram 3&quot; Cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "500 gram straight up cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/xtreme-energy/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 383
+    },
+    {
+      "name": "Yo Vito!",
+      "shots": 16,
+      "duration_s": 20.0,
+      "description": "",
+      "categories": [
+        "200 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/yo-vito/",
+      "size": "200g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 384
+    },
+    {
+      "name": "Zeroed In",
+      "shots": 25,
+      "duration_s": 29.0,
+      "description": "",
+      "categories": [
+        "500 gram straight up cakes",
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/zeroed-in/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "id": 385
+    },
+    {
+      "name": "Flood Red",
+      "shots": 25,
+      "duration_s": 25.0,
+      "description": "Red tails to red stars and silver glitter. Fan cake by Brothers Pyrotechnics.",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes",
+        "Fan Cakes"
+      ],
+      "wholesaler_link": "https://www.brotherspyrotechnics.com/ProductDetails/1074",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "id": 386
     }
   ]
 }
