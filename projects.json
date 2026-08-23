@@ -25,12 +25,10 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "L1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 4000,
-              "firework_name": "FB Blue Comet W/Tail",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
             }
           ],
           "fireworks": [
@@ -46,19 +44,7 @@
               "modification": "None",
               "flash_fused": true,
               "fuse_delay_sec": 0,
-              "setup_notes": "Angle to Right Field",
-              "left_pallet_list": [
-                "L1"
-              ],
-              "left_board_list": [
-                ""
-              ],
-              "left_relay_list": [
-                -1
-              ],
-              "left_pallet": "L1",
-              "left_board": "",
-              "left_relay": -1
+              "setup_notes": "Angle to Right Field"
             }
           ]
         },
@@ -72,76 +58,58 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "L1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "L1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "L1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "C1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "C1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "C1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "R1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "R1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             },
             {
-              "location_id": "R1",
-              "node_hostname": "",
+              "location_id": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
+              "duration_ms": 2000,
+              "firework_name": "Jumbo Strobes"
             }
           ],
           "fireworks": [
@@ -157,61 +125,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "distribute across field",
-              "left_pallet_list": [
-                "L1",
-                "L1",
-                "L1"
-              ],
-              "left_board_list": [
-                "",
-                "",
-                ""
-              ],
-              "left_relay_list": [
-                -1,
-                -1,
-                -1
-              ],
-              "left_pallet": "L1",
-              "left_board": "",
-              "left_relay": -1,
-              "center_pallet_list": [
-                "C1",
-                "C1",
-                "C1"
-              ],
-              "center_board_list": [
-                "",
-                "",
-                ""
-              ],
-              "center_relay_list": [
-                -1,
-                -1,
-                -1
-              ],
-              "center_pallet": "C1",
-              "center_board": "",
-              "center_relay": -1,
-              "right_pallet_list": [
-                "R1",
-                "R1",
-                "R1"
-              ],
-              "right_board_list": [
-                "",
-                "",
-                ""
-              ],
-              "right_relay_list": [
-                -1,
-                -1,
-                -1
-              ],
-              "right_pallet": "R1",
-              "right_board": "",
-              "right_relay": -1
+              "setup_notes": "distribute across field"
             }
           ]
         },
@@ -1112,16 +1026,8 @@
           ]
         },
         {
-          "event_id": "song_10_1786194618759_77sch",
-          "event_num": "S10",
-          "timestamp_offset_ms": 311000,
-          "title": "99 Red Balloons - NENA",
-          "song": "99 Red Balloons - NENA",
-          "relays": []
-        },
-        {
           "event_id": "evt_1786225178438_cmd6j",
-          "event_num": "10.1",
+          "event_num": "9.4",
           "title": "LR - Red Saber x3",
           "timestamp_offset_ms": 307000,
           "desired_time_ms": 312000,
@@ -1160,8 +1066,16 @@
           ]
         },
         {
+          "event_id": "song_10_1786194618759_77sch",
+          "event_num": "S10",
+          "timestamp_offset_ms": 311000,
+          "title": "99 Red Balloons - NENA",
+          "song": "99 Red Balloons - NENA",
+          "relays": []
+        },
+        {
           "event_id": "evt_1786225111768_efvc3",
-          "event_num": "10.2",
+          "event_num": "10.1",
           "title": "LCR - Cherry Drop x2 & LCR - 4th Of July Cocktail",
           "timestamp_offset_ms": 312000,
           "desired_time_ms": 312000,
@@ -1256,7 +1170,7 @@
         },
         {
           "event_id": "evt_1786225294770_yaa5s",
-          "event_num": "10.3",
+          "event_num": "10.2",
           "title": "LCR - Cherry Drop x2 & LCR - FB Red Peony",
           "timestamp_offset_ms": 328000,
           "desired_time_ms": 328000,
@@ -1351,7 +1265,7 @@
         },
         {
           "event_id": "evt_1786225421014_pfb06",
-          "event_num": "10.4",
+          "event_num": "10.3",
           "title": "FIELD Peacock C FB Red Comet x7",
           "timestamp_offset_ms": 330000,
           "desired_time_ms": 330000,
@@ -1742,16 +1656,8 @@
           ]
         },
         {
-          "event_id": "song_14_1786194618759_zfowi",
-          "event_num": "S14",
-          "timestamp_offset_ms": 443000,
-          "title": "Truly Madly Deeply - Savage Garden",
-          "song": "Truly Madly Deeply - Savage Garden",
-          "relays": []
-        },
-        {
           "event_id": "evt_1786243358608_rrrl9",
-          "event_num": "14.1",
+          "event_num": "13.4",
           "title": "FIELD C Bellagio Staff of Ra x25",
           "timestamp_offset_ms": 439000,
           "desired_time_ms": 444000,
@@ -1784,8 +1690,16 @@
           ]
         },
         {
+          "event_id": "song_14_1786194618759_zfowi",
+          "event_num": "S14",
+          "timestamp_offset_ms": 443000,
+          "title": "Truly Madly Deeply - Savage Garden",
+          "song": "Truly Madly Deeply - Savage Garden",
+          "relays": []
+        },
+        {
           "event_id": "evt_1786243393087_p62y8",
-          "event_num": "14.2",
+          "event_num": "14.1",
           "title": "LCR - Silver Beauty x2",
           "timestamp_offset_ms": 454000,
           "desired_time_ms": 454000,
@@ -4967,7 +4881,7 @@
           "mac_addr": ""
         }
       ],
-      "lastEdited": "2026-08-23T20:25:01.171Z"
+      "lastEdited": "2026-08-23T20:24:37.026Z"
     }
   ],
   "catalog": [
