@@ -4559,65 +4559,324 @@
       "songTracks": [],
       "locations": [
         {
-          "location_id": "L1",
-          "x_coordinate": 1,
-          "y_coordinate": 2,
+          "location_id": "HP",
+          "x_coordinate": 11,
+          "y_coordinate": 0,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
-          "location_id": "L2",
-          "x_coordinate": 1,
-          "y_coordinate": 5,
-          "node_hostname": "",
-          "mac_addr": ""
-        },
-        {
-          "location_id": "L3",
-          "x_coordinate": 1,
-          "y_coordinate": 8,
+          "location_id": "CMD",
+          "x_coordinate": 11,
+          "y_coordinate": 7,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "C1",
-          "x_coordinate": 5,
-          "y_coordinate": 2,
+          "x_coordinate": 11,
+          "y_coordinate": 3,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "C2",
-          "x_coordinate": 5,
-          "y_coordinate": 5,
+          "x_coordinate": 11,
+          "y_coordinate": 4,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "C3",
-          "x_coordinate": 5,
-          "y_coordinate": 8,
+          "x_coordinate": 10,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C4",
+          "x_coordinate": 10,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C5",
+          "x_coordinate": 12,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C6",
+          "x_coordinate": 12,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C7",
+          "x_coordinate": 9,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C8",
+          "x_coordinate": 9,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C9",
+          "x_coordinate": 13,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C10",
+          "x_coordinate": 13,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C11",
+          "x_coordinate": 8,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "C12",
+          "x_coordinate": 8,
+          "y_coordinate": 4,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "R1",
-          "x_coordinate": 9,
-          "y_coordinate": 2,
+          "x_coordinate": 15,
+          "y_coordinate": 3,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "R2",
-          "x_coordinate": 9,
-          "y_coordinate": 5,
+          "x_coordinate": 15,
+          "y_coordinate": 4,
           "node_hostname": "",
           "mac_addr": ""
         },
         {
           "location_id": "R3",
-          "x_coordinate": 9,
-          "y_coordinate": 8,
+          "x_coordinate": 16,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R4",
+          "x_coordinate": 16,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R5",
+          "x_coordinate": 17,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R6",
+          "x_coordinate": 17,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R7",
+          "x_coordinate": 18,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R8",
+          "x_coordinate": 18,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R9",
+          "x_coordinate": 19,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R10",
+          "x_coordinate": 19,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R11",
+          "x_coordinate": 20,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "R12",
+          "x_coordinate": 20,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "RF 1",
+          "x_coordinate": 15,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "RF 2",
+          "x_coordinate": 16,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "RB 1",
+          "x_coordinate": 15,
+          "y_coordinate": 6,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "RB 2",
+          "x_coordinate": 16,
+          "y_coordinate": 6,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L1",
+          "x_coordinate": 6,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L2",
+          "x_coordinate": 6,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L3",
+          "x_coordinate": 5,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L4",
+          "x_coordinate": 5,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L5",
+          "x_coordinate": 4,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L6",
+          "x_coordinate": 4,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L7",
+          "x_coordinate": 3,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L8",
+          "x_coordinate": 3,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L9",
+          "x_coordinate": 2,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L10",
+          "x_coordinate": 2,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L11",
+          "x_coordinate": 1,
+          "y_coordinate": 3,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "L12",
+          "x_coordinate": 1,
+          "y_coordinate": 4,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "LF 2",
+          "x_coordinate": 5,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "LF 1",
+          "x_coordinate": 6,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "LB 2",
+          "x_coordinate": 5,
+          "y_coordinate": 6,
+          "node_hostname": "",
+          "mac_addr": ""
+        },
+        {
+          "location_id": "LB 1",
+          "x_coordinate": 6,
+          "y_coordinate": 6,
           "node_hostname": "",
           "mac_addr": ""
         }
