@@ -722,28 +722,32 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "C1",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Good Times"
+              "firework_name": "Good Times",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "C1",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Good Times"
+              "firework_name": "Good Times",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "C1",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Good Times"
+              "firework_name": "Good Times",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "C1",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Good Times"
+              "firework_name": "Good Times",
+              "node_hostname": ""
             }
           ],
           "fireworks": [
@@ -5066,7 +5070,7 @@
           "mac_addr": ""
         }
       ],
-      "lastEdited": "2026-08-29T13:12:04.805Z"
+      "lastEdited": "2026-08-29T13:12:27.847Z"
     },
     {
       "id": "proj_1787843867160",
