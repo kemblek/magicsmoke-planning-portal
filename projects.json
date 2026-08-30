@@ -75,7 +75,7 @@
             {
               "location_id": "C1",
               "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 20000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
@@ -83,7 +83,7 @@
             {
               "location_id": "C1",
               "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 20000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
@@ -91,7 +91,7 @@
             {
               "location_id": "C1",
               "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 20000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
@@ -188,9 +188,9 @@
                 "PorqueNoLosDos"
               ],
               "center_relay_list": [
-                -1,
-                -1,
-                -1
+                0,
+                0,
+                0
               ],
               "center_pallet": "C1",
               "center_board": "PorqueNoLosDos",
@@ -5120,7 +5120,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-08-30T01:52:57.472Z"
+      "lastEdited": "2026-08-30T13:26:19.180Z"
     },
     {
       "id": "proj_1787843867160",
