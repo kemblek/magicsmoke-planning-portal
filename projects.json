@@ -4545,12 +4545,9 @@
           "location_id": "C1",
           "x_coordinate": 11,
           "y_coordinate": 3,
-          "node_hostname": "PorqueNoLosDos",
-          "mac_addr": "AC:A7:04:2D:1B:34",
-          "assigned_node": {
-            "hostname": "PorqueNoLosDos",
-            "mac_addr": "AC:A7:04:2D:1B:34"
-          }
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
         },
         {
           "location_id": "C2",
@@ -4897,7 +4894,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-08-30T18:02:24.473Z"
+      "lastEdited": "2026-08-30T18:02:29.229Z"
     },
     {
       "id": "proj_1787843867160",
