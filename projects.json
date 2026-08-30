@@ -73,6 +73,30 @@
           "repeat_count": 1,
           "relays": [
             {
+              "location_id": "C1",
+              "node_hostname": "PorqueNoLosDos",
+              "relay_idx": 0,
+              "duration_ms": 20000,
+              "firework_name": "Jumbo Strobes",
+              "firework_count": 1
+            },
+            {
+              "location_id": "C1",
+              "node_hostname": "PorqueNoLosDos",
+              "relay_idx": 0,
+              "duration_ms": 20000,
+              "firework_name": "Jumbo Strobes",
+              "firework_count": 1
+            },
+            {
+              "location_id": "C1",
+              "node_hostname": "PorqueNoLosDos",
+              "relay_idx": 0,
+              "duration_ms": 20000,
+              "firework_name": "Jumbo Strobes",
+              "firework_count": 1
+            },
+            {
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -91,30 +115,6 @@
             {
               "location_id": "L1",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
-              "duration_ms": 20000,
-              "firework_name": "Jumbo Strobes",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "Jumbo Strobes",
@@ -188,13 +188,13 @@
                 "PorqueNoLosDos"
               ],
               "center_relay_list": [
-                -1,
-                -1,
-                -1
+                0,
+                0,
+                0
               ],
               "center_pallet": "C1",
               "center_board": "PorqueNoLosDos",
-              "center_relay": -1,
+              "center_relay": 0,
               "right_pallet_list": [
                 "R1",
                 "R1",
@@ -5120,7 +5120,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-08-30T01:52:16.905Z"
+      "lastEdited": "2026-08-30T01:52:43.306Z"
     },
     {
       "id": "proj_1787843867160",
