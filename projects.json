@@ -17,52 +17,8 @@
           "fireworks": []
         },
         {
-          "event_id": "evt_1786243521071_jwh16",
-          "event_num": "1.1",
-          "title": "L - (MOD - Flash Fuse) FB Blue Comet W/Tail",
-          "timestamp_offset_ms": 0,
-          "desired_time_ms": 0,
-          "fuse_delay_sec": 0,
-          "repeat_count": 1,
-          "relays": [],
-          "fireworks": [
-            {
-              "firework_name": "FB Blue Comet W/Tail",
-              "left_field": true,
-              "center_field": false,
-              "right_field": false,
-              "left_qty": 1,
-              "center_qty": 1,
-              "right_qty": 1,
-              "is_field_effect": false,
-              "modification": "None",
-              "flash_fused": true,
-              "fuse_delay_sec": 0,
-              "setup_notes": "Angle to Right Field",
-              "left_pallet_list": [],
-              "left_board_list": [],
-              "left_relay_list": [],
-              "left_pallet": "",
-              "left_board": "",
-              "left_relay": 0,
-              "center_pallet": "",
-              "center_board": "",
-              "center_relay": 0,
-              "center_pallet_list": [],
-              "center_board_list": [],
-              "center_relay_list": [],
-              "right_pallet": "",
-              "right_board": "",
-              "right_relay": 0,
-              "right_pallet_list": [],
-              "right_board_list": [],
-              "right_relay_list": []
-            }
-          ]
-        },
-        {
           "event_id": "evt_1786212593248_uf3ha",
-          "event_num": "1.2",
+          "event_num": "1.1",
           "title": "LCR - Jumbo Strobe x3",
           "timestamp_offset_ms": 219,
           "desired_time_ms": 219,
@@ -106,7 +62,7 @@
         },
         {
           "event_id": "evt_1786212687460_ko7a8",
-          "event_num": "1.3",
+          "event_num": "1.2",
           "title": "LCR - Loaded Gun & LCR - (MOD - Flash Fuse) Future All American x2",
           "timestamp_offset_ms": 17000,
           "desired_time_ms": 17000,
@@ -1891,8 +1847,59 @@
           ]
         },
         {
-          "event_id": "evt_1786243549349_cvdzb",
+          "event_id": "evt_1786243521071_jwh16",
           "event_num": "16.2",
+          "title": "L - (MOD - Flash Fuse) FB Blue Comet W/Tail",
+          "timestamp_offset_ms": 538000,
+          "desired_time_ms": 538000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "location_id": "L1",
+              "relay_idx": 0,
+              "duration_ms": 2000,
+              "firework_name": "FB Blue Comet W/Tail"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "FB Blue Comet W/Tail",
+              "left_field": true,
+              "center_field": false,
+              "right_field": false,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": true,
+              "fuse_delay_sec": 0,
+              "setup_notes": "Angle to Right Field",
+              "left_pallet_list": [],
+              "left_board_list": [],
+              "left_relay_list": [],
+              "left_pallet": "",
+              "left_board": "",
+              "left_relay": 0,
+              "center_pallet": "",
+              "center_board": "",
+              "center_relay": 0,
+              "center_pallet_list": [],
+              "center_board_list": [],
+              "center_relay_list": [],
+              "right_pallet": "",
+              "right_board": "",
+              "right_relay": 0,
+              "right_pallet_list": [],
+              "right_board_list": [],
+              "right_relay_list": []
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786243549349_cvdzb",
+          "event_num": "16.3",
           "title": "R - (MOD - Flash Fuse) FB Red Comet W/Tail",
           "timestamp_offset_ms": 538000,
           "desired_time_ms": 538000,
@@ -4890,7 +4897,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-08-30T13:46:20.452Z"
+      "lastEdited": "2026-08-30T17:58:43.679Z"
     },
     {
       "id": "proj_1787843867160",
