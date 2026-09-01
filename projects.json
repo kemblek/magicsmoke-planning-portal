@@ -1123,28 +1123,25 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "L2",
-              "node_hostname": "",
+              "location_id": "C2",
               "relay_idx": -1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
-              "firework_count": 1
+              "node_hostname": ""
             },
             {
               "location_id": "C2",
-              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
-              "firework_count": 1
+              "node_hostname": ""
             },
             {
-              "location_id": "R2",
-              "node_hostname": "KimiKaiju",
+              "location_id": "C2",
               "relay_idx": -1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
-              "firework_count": 1
+              "node_hostname": ""
             }
           ],
           "fireworks": [
@@ -1169,34 +1166,10 @@
               "center_board_list": [
                 ""
               ],
-              "center_relay": -1,
+              "center_relay": 0,
               "center_relay_list": [
                 -1
-              ],
-              "left_pallet_list": [
-                "L2"
-              ],
-              "left_board_list": [
-                ""
-              ],
-              "left_relay_list": [
-                -1
-              ],
-              "left_pallet": "L2",
-              "left_board": "",
-              "left_relay": -1,
-              "right_pallet_list": [
-                "R2"
-              ],
-              "right_board_list": [
-                "KimiKaiju"
-              ],
-              "right_relay_list": [
-                -1
-              ],
-              "right_pallet": "R2",
-              "right_board": "KimiKaiju",
-              "right_relay": -1
+              ]
             }
           ]
         },
@@ -5481,7 +5454,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:19:22.141Z"
+      "lastEdited": "2026-09-01T01:19:10.493Z"
     },
     {
       "id": "proj_1787843867160",
