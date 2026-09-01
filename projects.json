@@ -26,7 +26,7 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "L12",
+              "location_id": "R12",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -34,7 +34,7 @@
               "firework_count": 1
             },
             {
-              "location_id": "L12",
+              "location_id": "R12",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -42,7 +42,7 @@
               "firework_count": 1
             },
             {
-              "location_id": "L12",
+              "location_id": "R12",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -88,10 +88,22 @@
               "center_pallet": "",
               "center_board": "",
               "center_relay": 0,
-              "right_pallet_list": [],
-              "right_board_list": [],
-              "right_relay_list": [],
-              "right_pallet": "",
+              "right_pallet_list": [
+                "R12",
+                "R12",
+                "R12"
+              ],
+              "right_board_list": [
+                "",
+                "",
+                ""
+              ],
+              "right_relay_list": [
+                -1,
+                -1,
+                -1
+              ],
+              "right_pallet": "R12",
               "right_board": "",
               "right_relay": 0
             }
@@ -4931,7 +4943,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T00:42:14.074Z"
+      "lastEdited": "2026-09-01T00:42:24.867Z"
     },
     {
       "id": "proj_1787843867160",
