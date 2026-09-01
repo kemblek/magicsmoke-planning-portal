@@ -3386,6 +3386,15 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall"
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -3401,7 +3410,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "right_pallet": "R4",
+              "right_board": "",
+              "right_pallet_list": [
+                "R4"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay": 0,
+              "right_relay_list": [
+                -1
+              ]
             },
             {
               "firework_name": "Showstopper",
@@ -3681,6 +3702,24 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Golden Fury"
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Silver Beauty",
+              "firework_count": 1
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Golden Fury",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -3696,7 +3735,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "right_pallet": "R4",
+              "right_board": "",
+              "right_pallet_list": [
+                "R4"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay": 0,
+              "right_relay_list": [
+                -1
+              ]
             },
             {
               "firework_name": "Golden Fury",
@@ -3710,7 +3761,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "right_pallet": "R4",
+              "right_board": "",
+              "right_pallet_list": [
+                "R4"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay": 0,
+              "right_relay_list": [
+                -1
+              ]
             }
           ]
         },
@@ -4255,6 +4318,15 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Future All American"
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Future All American",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -4270,7 +4342,19 @@
               "modification": "None",
               "flash_fused": true,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "right_pallet": "R4",
+              "right_board": "",
+              "right_pallet_list": [
+                "R4"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay": 0,
+              "right_relay_list": [
+                -1
+              ]
             }
           ]
         },
@@ -6310,7 +6394,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:35:37.386Z"
+      "lastEdited": "2026-09-01T01:36:23.941Z"
     },
     {
       "id": "proj_1787843867160",
