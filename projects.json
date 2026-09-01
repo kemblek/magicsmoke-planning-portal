@@ -2523,22 +2523,28 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "L3",
+              "node_hostname": "BringInTheWomens",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Loaded Gun"
+              "duration_ms": 15000,
+              "firework_name": "Loaded Gun",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "C3",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Loaded Gun"
+              "duration_ms": 15000,
+              "firework_name": "Loaded Gun",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "R3",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Loaded Gun"
+              "duration_ms": 15000,
+              "firework_name": "Loaded Gun",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -2554,7 +2560,43 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "left_pallet_list": [
+                "L3"
+              ],
+              "left_board_list": [
+                "BringInTheWomens"
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L3",
+              "left_board": "BringInTheWomens",
+              "left_relay": -1,
+              "center_pallet_list": [
+                "C3"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay_list": [
+                -1
+              ],
+              "center_pallet": "C3",
+              "center_board": "",
+              "center_relay": -1,
+              "right_pallet_list": [
+                "R3"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R3",
+              "right_board": "",
+              "right_relay": -1
             }
           ]
         },
@@ -6142,7 +6184,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:25:16.770Z"
+      "lastEdited": "2026-09-01T01:25:26.969Z"
     },
     {
       "id": "proj_1787843867160",
