@@ -780,21 +780,21 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "L2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "L2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "L2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
@@ -839,12 +839,18 @@
               "center_relay_list": [
                 -1
               ],
-              "left_pallet": "",
+              "left_pallet": "L2",
               "left_board": "",
-              "left_pallet_list": [],
-              "left_board_list": [],
+              "left_pallet_list": [
+                "L2"
+              ],
+              "left_board_list": [
+                ""
+              ],
               "left_relay": 0,
-              "left_relay_list": []
+              "left_relay_list": [
+                -1
+              ]
             }
           ]
         },
@@ -5283,7 +5289,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:14:07.513Z"
+      "lastEdited": "2026-09-01T01:14:22.268Z"
     },
     {
       "id": "proj_1787843867160",
