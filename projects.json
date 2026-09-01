@@ -5267,22 +5267,31 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "field": "left",
+              "location_id": "L6",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Flood Red"
+              "duration_ms": 25000,
+              "firework_name": "Flood Red",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "field": "center",
+              "location_id": "C6",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Flood Red"
+              "duration_ms": 25000,
+              "firework_name": "Flood Red",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "field": "right",
+              "location_id": "R6",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Flood Red"
+              "duration_ms": 25000,
+              "firework_name": "Flood Red",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -5298,7 +5307,43 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "left_pallet_list": [
+                "L6"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L6",
+              "left_board": "",
+              "left_relay": -1,
+              "center_pallet_list": [
+                "C6"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay_list": [
+                -1
+              ],
+              "center_pallet": "C6",
+              "center_board": "",
+              "center_relay": -1,
+              "right_pallet_list": [
+                "R6"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R6",
+              "right_board": "",
+              "right_relay": -1
             }
           ]
         },
@@ -7760,7 +7805,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T02:02:41.165Z"
+      "lastEdited": "2026-09-01T02:03:07.730Z"
     },
     {
       "id": "proj_1787843867160",
