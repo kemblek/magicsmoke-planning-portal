@@ -689,21 +689,21 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "node_hostname": ""
             },
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "node_hostname": ""
             },
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Fire Assault",
@@ -735,6 +735,18 @@
               "right_relay": 0,
               "right_relay_list": [
                 -1
+              ],
+              "center_pallet": "C2",
+              "center_board": "",
+              "center_pallet_list": [
+                "C2"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay": 0,
+              "center_relay_list": [
+                -1
               ]
             }
           ]
@@ -757,21 +769,21 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Backstreet Diva",
               "node_hostname": ""
             },
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Backstreet Diva",
               "node_hostname": ""
             },
             {
-              "location_id": "R2",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Liberty Force",
@@ -817,7 +829,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "center_pallet": "C2",
+              "center_board": "",
+              "center_pallet_list": [
+                "C2"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay": 0,
+              "center_relay_list": [
+                -1
+              ]
             }
           ]
         },
@@ -831,22 +855,25 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Let's Go Bro!"
+              "firework_name": "Let's Go Bro!",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Let's Go Bro!"
+              "firework_name": "Let's Go Bro!",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "C2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Let's Go Bro!"
+              "firework_name": "Let's Go Bro!",
+              "node_hostname": ""
             }
           ],
           "fireworks": [
@@ -862,7 +889,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "center_pallet": "C2",
+              "center_board": "",
+              "center_pallet_list": [
+                "C2"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay": 0,
+              "center_relay_list": [
+                -1
+              ]
             }
           ]
         },
@@ -5101,7 +5140,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T00:45:49.813Z"
+      "lastEdited": "2026-09-01T00:46:15.774Z"
     },
     {
       "id": "proj_1787843867160",
