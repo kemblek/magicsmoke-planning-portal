@@ -6605,24 +6605,6 @@
               "duration_ms": 2000,
               "firework_name": "Broadsword",
               "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Trigger Pull",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Broadsword",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6662,18 +6644,6 @@
               "left_relay": 0,
               "left_relay_list": [
                 -1
-              ],
-              "right_pallet": "R7",
-              "right_board": "",
-              "right_pallet_list": [
-                "R7"
-              ],
-              "right_board_list": [
-                ""
-              ],
-              "right_relay": 0,
-              "right_relay_list": [
-                -1
               ]
             },
             {
@@ -6711,18 +6681,6 @@
               ],
               "left_relay": 0,
               "left_relay_list": [
-                -1
-              ],
-              "right_pallet": "R7",
-              "right_board": "",
-              "right_pallet_list": [
-                "R7"
-              ],
-              "right_board_list": [
-                ""
-              ],
-              "right_relay": 0,
-              "right_relay_list": [
                 -1
               ]
             }
@@ -6772,15 +6730,6 @@
               "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6819,18 +6768,6 @@
               ],
               "left_relay": 0,
               "left_relay_list": [
-                -1
-              ],
-              "right_pallet": "R7",
-              "right_board": "",
-              "right_pallet_list": [
-                "R7"
-              ],
-              "right_board_list": [
-                ""
-              ],
-              "right_relay": 0,
-              "right_relay_list": [
                 -1
               ]
             }
@@ -6888,15 +6825,6 @@
               "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "FB Red Comet W/Tail",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6935,18 +6863,6 @@
               ],
               "left_relay": 0,
               "left_relay_list": [
-                -1
-              ],
-              "right_pallet": "R7",
-              "right_board": "",
-              "right_pallet_list": [
-                "R7"
-              ],
-              "right_board_list": [
-                ""
-              ],
-              "right_relay": 0,
-              "right_relay_list": [
                 -1
               ]
             }
@@ -6996,15 +6912,6 @@
               "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Dawn Of Time",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -7043,18 +6950,6 @@
               ],
               "left_relay": 0,
               "left_relay_list": [
-                -1
-              ],
-              "right_pallet": "R7",
-              "right_board": "",
-              "right_pallet_list": [
-                "R7"
-              ],
-              "right_board_list": [
-                ""
-              ],
-              "right_relay": 0,
-              "right_relay_list": [
                 -1
               ]
             }
@@ -8666,7 +8561,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T02:14:06.250Z"
+      "lastEdited": "2026-09-01T02:13:51.699Z"
     },
     {
       "id": "proj_1787843867160",
