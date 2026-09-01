@@ -134,23 +134,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 15000,
-              "firework_name": "Loaded Gun",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
-              "duration_ms": 15000,
-              "firework_name": "Loaded Gun",
-              "firework_count": 1
-            },
-            {
-              "location_id": "R1",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -158,7 +142,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -166,39 +150,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 4000,
-              "firework_name": "Future All American",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
-              "duration_ms": 4000,
-              "firework_name": "Future All American",
-              "firework_count": 1
-            },
-            {
-              "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
-              "relay_idx": -1,
-              "duration_ms": 4000,
-              "firework_name": "Future All American",
-              "firework_count": 1
-            },
-            {
-              "location_id": "R1",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 4000,
-              "firework_name": "Future All American",
-              "firework_count": 1
-            },
-            {
-              "location_id": "R1",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             }
@@ -228,19 +180,13 @@
               ],
               "left_pallet": "L1",
               "left_board": "",
-              "left_relay": -1,
-              "center_pallet_list": [
-                "C1"
-              ],
-              "center_board_list": [
-                "PorqueNoLosDos"
-              ],
-              "center_relay_list": [
-                -1
-              ],
-              "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
-              "center_relay": -1,
+              "left_relay": 0,
+              "center_pallet_list": [],
+              "center_board_list": [],
+              "center_relay_list": [],
+              "center_pallet": "",
+              "center_board": "",
+              "center_relay": 0,
               "right_pallet_list": [
                 "R1"
               ],
@@ -252,7 +198,7 @@
               ],
               "right_pallet": "R1",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             },
             {
               "firework_name": "Future All American",
@@ -281,22 +227,13 @@
               ],
               "left_pallet": "L1",
               "left_board": "",
-              "left_relay": -1,
-              "center_pallet_list": [
-                "C1",
-                "C1"
-              ],
-              "center_board_list": [
-                "PorqueNoLosDos",
-                "PorqueNoLosDos"
-              ],
-              "center_relay_list": [
-                -1,
-                -1
-              ],
-              "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
-              "center_relay": -1,
+              "left_relay": 0,
+              "center_pallet_list": [],
+              "center_board_list": [],
+              "center_relay_list": [],
+              "center_pallet": "",
+              "center_board": "",
+              "center_relay": 0,
               "right_pallet_list": [
                 "R1",
                 "R1"
@@ -311,7 +248,7 @@
               ],
               "right_pallet": "R1",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             }
           ]
         },
@@ -5822,7 +5759,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:22:48.503Z"
+      "lastEdited": "2026-09-01T01:22:36.435Z"
     },
     {
       "id": "proj_1787843867160",
