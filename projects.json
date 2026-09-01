@@ -6188,7 +6188,7 @@
             },
             {
               "field": "center",
-              "location_id": "C7",
+              "location_id": "",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -6216,19 +6216,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             }
           ]
         },
@@ -6311,15 +6299,6 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Golden Fury"
-            },
-            {
-              "field": "center",
-              "location_id": "C7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6335,19 +6314,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             }
           ]
         },
@@ -6377,15 +6344,6 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Golden Fury"
-            },
-            {
-              "field": "center",
-              "location_id": "C7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6401,19 +6359,7 @@
               "modification": "None",
               "flash_fused": true,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             }
           ]
         },
@@ -6461,24 +6407,6 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Broadsword"
-            },
-            {
-              "field": "center",
-              "location_id": "C7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Trigger Pull",
-              "firework_count": 1
-            },
-            {
-              "field": "center",
-              "location_id": "C7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Broadsword",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6494,19 +6422,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             },
             {
               "firework_name": "Broadsword",
@@ -6520,19 +6436,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             }
           ]
         },
@@ -6562,15 +6466,6 @@
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Golden Fury"
-            },
-            {
-              "field": "center",
-              "location_id": "C7",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6586,19 +6481,7 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": "",
-              "center_pallet": "C7",
-              "center_board": "",
-              "center_pallet_list": [
-                "C7"
-              ],
-              "center_board_list": [
-                ""
-              ],
-              "center_relay": 0,
-              "center_relay_list": [
-                -1
-              ]
+              "setup_notes": ""
             }
           ]
         },
@@ -8306,7 +8189,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T02:12:31.245Z"
+      "lastEdited": "2026-09-01T02:11:33.780Z"
     },
     {
       "id": "proj_1787843867160",
