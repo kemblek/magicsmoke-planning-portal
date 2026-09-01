@@ -615,21 +615,21 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Night Shadow",
               "node_hostname": ""
             },
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Night Shadow",
               "node_hostname": ""
             },
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Night Shadow",
@@ -661,6 +661,18 @@
               "right_relay": 0,
               "right_relay_list": [
                 -1
+              ],
+              "left_pallet": "L1",
+              "left_board": "",
+              "left_pallet_list": [
+                "L1"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay": 0,
+              "left_relay_list": [
+                -1
               ]
             }
           ]
@@ -675,28 +687,28 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Good Times",
               "node_hostname": ""
             },
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Good Times",
               "node_hostname": ""
             },
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Good Times",
               "node_hostname": ""
             },
             {
-              "location_id": "R1",
+              "location_id": "L1",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Good Times",
@@ -729,6 +741,21 @@
               ],
               "right_relay": 0,
               "right_relay_list": [
+                -1,
+                -1
+              ],
+              "left_pallet": "L1",
+              "left_board": "",
+              "left_pallet_list": [
+                "L1",
+                "L1"
+              ],
+              "left_board_list": [
+                "",
+                ""
+              ],
+              "left_relay": 0,
+              "left_relay_list": [
                 -1,
                 -1
               ]
@@ -5262,7 +5289,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:13:05.297Z"
+      "lastEdited": "2026-09-01T01:13:18.043Z"
     },
     {
       "id": "proj_1787843867160",
