@@ -6849,6 +6849,15 @@
               "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
+            },
+            {
+              "field": "left",
+              "location_id": "L7",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Dawn Of Time",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6875,6 +6884,18 @@
               ],
               "center_relay": 0,
               "center_relay_list": [
+                -1
+              ],
+              "left_pallet": "L7",
+              "left_board": "",
+              "left_pallet_list": [
+                "L7"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay": 0,
+              "left_relay_list": [
                 -1
               ]
             }
@@ -8486,7 +8507,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T02:13:29.551Z"
+      "lastEdited": "2026-09-01T02:13:32.184Z"
     },
     {
       "id": "proj_1787843867160",
