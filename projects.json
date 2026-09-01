@@ -1455,25 +1455,28 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "C2",
+              "location_id": "L2",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
+              "duration_ms": 26000,
               "firework_name": "Taste The Rainbow",
-              "node_hostname": ""
+              "firework_count": 1
             },
             {
               "location_id": "C2",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
+              "duration_ms": 26000,
               "firework_name": "Taste The Rainbow",
-              "node_hostname": ""
+              "firework_count": 1
             },
             {
-              "location_id": "C2",
+              "location_id": "R2",
+              "node_hostname": "KimiKaiju",
               "relay_idx": -1,
-              "duration_ms": 2000,
+              "duration_ms": 26000,
               "firework_name": "Taste The Rainbow",
-              "node_hostname": ""
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -1498,10 +1501,34 @@
               "center_board_list": [
                 ""
               ],
-              "center_relay": 0,
+              "center_relay": -1,
               "center_relay_list": [
                 -1
-              ]
+              ],
+              "left_pallet_list": [
+                "L2"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L2",
+              "left_board": "",
+              "left_relay": -1,
+              "right_pallet_list": [
+                "R2"
+              ],
+              "right_board_list": [
+                "KimiKaiju"
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R2",
+              "right_board": "KimiKaiju",
+              "right_relay": -1
             }
           ]
         },
@@ -1515,22 +1542,28 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "L3",
+              "node_hostname": "BringInTheWomens",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Tropical Chaos"
+              "duration_ms": 23000,
+              "firework_name": "Tropical Chaos",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "C3",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Tropical Chaos"
+              "duration_ms": 23000,
+              "firework_name": "Tropical Chaos",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "R3",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Tropical Chaos"
+              "duration_ms": 23000,
+              "firework_name": "Tropical Chaos",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -1546,7 +1579,43 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "left_pallet_list": [
+                "L3"
+              ],
+              "left_board_list": [
+                "BringInTheWomens"
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L3",
+              "left_board": "BringInTheWomens",
+              "left_relay": -1,
+              "center_pallet_list": [
+                "C3"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay_list": [
+                -1
+              ],
+              "center_pallet": "C3",
+              "center_board": "",
+              "center_relay": -1,
+              "right_pallet_list": [
+                "R3"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R3",
+              "right_board": "",
+              "right_relay": -1
             }
           ]
         },
@@ -5564,7 +5633,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:20:15.110Z"
+      "lastEdited": "2026-09-01T01:20:40.334Z"
     },
     {
       "id": "proj_1787843867160",
