@@ -2618,22 +2618,28 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "L10",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Fanfare of America"
+              "duration_ms": 20000,
+              "firework_name": "Fanfare of America",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "C10",
+              "node_hostname": "PorqueNoLosDos",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Fanfare of America"
+              "duration_ms": 20000,
+              "firework_name": "Fanfare of America",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "location_id": "R10",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Fanfare of America"
+              "duration_ms": 20000,
+              "firework_name": "Fanfare of America",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -2649,7 +2655,43 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "left_pallet_list": [
+                "L10"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L10",
+              "left_board": "",
+              "left_relay": -1,
+              "center_pallet_list": [
+                "C10"
+              ],
+              "center_board_list": [
+                "PorqueNoLosDos"
+              ],
+              "center_relay_list": [
+                -1
+              ],
+              "center_pallet": "C10",
+              "center_board": "PorqueNoLosDos",
+              "center_relay": -1,
+              "right_pallet_list": [
+                "R10"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R10",
+              "right_board": "",
+              "right_relay": -1
             }
           ]
         },
@@ -6184,7 +6226,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T01:25:26.969Z"
+      "lastEdited": "2026-09-01T01:25:53.786Z"
     },
     {
       "id": "proj_1787843867160",
