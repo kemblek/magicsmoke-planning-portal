@@ -6170,6 +6170,57 @@
           ]
         },
         {
+          "event_id": "evt_1788228687480_5fk5w",
+          "event_num": "25.2",
+          "title": "LCR - Future All American",
+          "timestamp_offset_ms": 876000,
+          "desired_time_ms": 876000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "field": "left",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "field": "center",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            },
+            {
+              "field": "right",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Future All American"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Future All American",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 1,
+              "center_qty": 1,
+              "right_qty": 1,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
           "event_id": "song_26_1786194618759_cws7n",
           "event_num": "S26",
           "timestamp_offset_ms": 895000,
@@ -8138,7 +8189,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T02:10:28.952Z"
+      "lastEdited": "2026-09-01T02:11:33.780Z"
     },
     {
       "id": "proj_1787843867160",
