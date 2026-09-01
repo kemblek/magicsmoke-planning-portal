@@ -757,22 +757,25 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "location_id": "R2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Backstreet Diva"
+              "firework_name": "Backstreet Diva",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "R2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Backstreet Diva"
+              "firework_name": "Backstreet Diva",
+              "node_hostname": ""
             },
             {
-              "location_id": "",
+              "location_id": "R2",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Liberty Force"
+              "firework_name": "Liberty Force",
+              "node_hostname": ""
             }
           ],
           "fireworks": [
@@ -788,7 +791,19 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "right_pallet": "R2",
+              "right_board": "",
+              "right_pallet_list": [
+                "R2"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay": 0,
+              "right_relay_list": [
+                -1
+              ]
             },
             {
               "firework_name": "Liberty Force",
@@ -5086,7 +5101,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-01T00:45:40.033Z"
+      "lastEdited": "2026-09-01T00:45:49.813Z"
     },
     {
       "id": "proj_1787843867160",
