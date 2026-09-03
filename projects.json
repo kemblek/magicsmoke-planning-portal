@@ -8752,7 +8752,7 @@
         {
           "event_id": "evt_1786245175223_r1wn4",
           "event_num": "33.3",
-          "title": "LCR - Founder's Vision & LCR - American Gemstones",
+          "title": "LCR - Founder's Vision & LCR - American Gemstones & LCR - Detonation of Independence x2",
           "timestamp_offset_ms": 1201000,
           "desired_time_ms": 1201000,
           "fuse_delay_sec": 0,
@@ -12822,7 +12822,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:11:37.459Z"
+      "lastEdited": "2026-09-03T02:11:32.735Z"
     },
     {
       "id": "proj_1787843867160",
