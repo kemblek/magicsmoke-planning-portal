@@ -7257,19 +7257,11 @@
           ]
         },
         {
-          "event_id": "song_30_1786194618759_bupla",
-          "event_num": "S30",
-          "timestamp_offset_ms": 1070000,
-          "title": "What Is Love - Haddaway",
-          "song": "What Is Love - Haddaway",
-          "relays": []
-        },
-        {
           "event_id": "evt_1786244688827_q3d8n",
-          "event_num": "30.1",
+          "event_num": "29.2",
           "title": "LCR - Jumbo Strobes x3",
-          "timestamp_offset_ms": 1065000,
-          "desired_time_ms": 1070000,
+          "timestamp_offset_ms": 1060000,
+          "desired_time_ms": 1065000,
           "fuse_delay_sec": 5,
           "repeat_count": 1,
           "relays": [
@@ -7291,30 +7283,6 @@
             },
             {
               "field": "left",
-              "location_id": "",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Jumbo Strobes"
-            },
-            {
-              "field": "center",
-              "location_id": "",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Jumbo Strobes"
-            },
-            {
-              "field": "center",
-              "location_id": "",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Jumbo Strobes"
-            },
-            {
-              "field": "center",
               "location_id": "",
               "node_hostname": "",
               "relay_idx": -1,
@@ -7350,7 +7318,7 @@
             {
               "firework_name": "Jumbo Strobes",
               "left_field": true,
-              "center_field": true,
+              "center_field": false,
               "right_field": true,
               "left_qty": 3,
               "center_qty": 3,
@@ -7364,8 +7332,16 @@
           ]
         },
         {
+          "event_id": "song_30_1786194618759_bupla",
+          "event_num": "S30",
+          "timestamp_offset_ms": 1070000,
+          "title": "What Is Love - Haddaway",
+          "song": "What Is Love - Haddaway",
+          "relays": []
+        },
+        {
           "event_id": "evt_1786244712515_sd2bi",
-          "event_num": "30.2",
+          "event_num": "30.1",
           "title": "FIELD LCR American Gemstones",
           "timestamp_offset_ms": 1071000,
           "desired_time_ms": 1071000,
@@ -7410,7 +7386,7 @@
         },
         {
           "event_id": "evt_1786244734131_t0bn2",
-          "event_num": "30.3",
+          "event_num": "30.2",
           "title": "LCR - FB Golden Crown Waterfall",
           "timestamp_offset_ms": 1079000,
           "desired_time_ms": 1079000,
@@ -7455,7 +7431,7 @@
         },
         {
           "event_id": "evt_1786244782741_0kt4u",
-          "event_num": "30.4",
+          "event_num": "30.3",
           "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
@@ -7528,7 +7504,7 @@
         },
         {
           "event_id": "evt_1786244808144_dgn5i",
-          "event_num": "30.5",
+          "event_num": "30.4",
           "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
@@ -8756,7 +8732,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T01:53:16.012Z"
+      "lastEdited": "2026-09-03T01:54:20.071Z"
     },
     {
       "id": "proj_1787843867160",
