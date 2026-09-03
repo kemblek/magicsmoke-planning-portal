@@ -12259,7 +12259,7 @@
           "relays": [
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12268,7 +12268,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12277,7 +12277,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12286,7 +12286,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12295,7 +12295,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12304,7 +12304,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "RB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12313,7 +12313,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "RB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12322,7 +12322,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12331,7 +12331,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12340,7 +12340,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12349,7 +12349,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "LB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12358,7 +12358,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "RB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12367,7 +12367,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "RB1",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12390,8 +12390,8 @@
               "fuse_delay_sec": 0,
               "setup_notes": "alternate r/b spread out wide",
               "left_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "LB1",
+                "LB1"
               ],
               "left_board_list": [
                 "",
@@ -12401,13 +12401,13 @@
                 -1,
                 -1
               ],
-              "left_pallet": "LB 1",
+              "left_pallet": "LB1",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "LB 1",
-                "LB 1",
-                "LB 1"
+                "LB1",
+                "LB1",
+                "LB1"
               ],
               "center_board_list": [
                 "",
@@ -12419,12 +12419,12 @@
                 -1,
                 -1
               ],
-              "center_pallet": "LB 1",
+              "center_pallet": "LB1",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "RB 1",
-                "RB 1"
+                "RB1",
+                "RB1"
               ],
               "right_board_list": [
                 "",
@@ -12434,7 +12434,7 @@
                 -1,
                 -1
               ],
-              "right_pallet": "RB 1",
+              "right_pallet": "RB1",
               "right_board": "",
               "right_relay": -1
             },
@@ -12452,8 +12452,8 @@
               "fuse_delay_sec": 0,
               "setup_notes": "alternate r/b spread out wide",
               "left_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "LB1",
+                "LB1"
               ],
               "left_board_list": [
                 "",
@@ -12463,12 +12463,12 @@
                 -1,
                 -1
               ],
-              "left_pallet": "LB 1",
+              "left_pallet": "LB1",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "LB1",
+                "LB1"
               ],
               "center_board_list": [
                 "",
@@ -12478,12 +12478,12 @@
                 -1,
                 -1
               ],
-              "center_pallet": "LB 1",
+              "center_pallet": "LB1",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "RB 1",
-                "RB 1"
+                "RB1",
+                "RB1"
               ],
               "right_board_list": [
                 "",
@@ -12493,7 +12493,7 @@
                 -1,
                 -1
               ],
-              "right_pallet": "RB 1",
+              "right_pallet": "RB1",
               "right_board": "",
               "right_relay": -1
             }
@@ -12879,7 +12879,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:15:11.935Z"
+      "lastEdited": "2026-09-03T02:15:05.688Z"
     },
     {
       "id": "proj_1787843867160",
