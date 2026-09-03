@@ -9053,7 +9053,7 @@
           "relays": [
             {
               "field": "left",
-              "location_id": "L6",
+              "location_id": "L11",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 42000,
@@ -9062,7 +9062,7 @@
             },
             {
               "field": "center",
-              "location_id": "C6",
+              "location_id": "C11",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 42000,
@@ -9071,7 +9071,7 @@
             },
             {
               "field": "right",
-              "location_id": "R6",
+              "location_id": "R11",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 42000,
@@ -9094,7 +9094,7 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "left_pallet_list": [
-                "L6"
+                "L11"
               ],
               "left_board_list": [
                 ""
@@ -9102,11 +9102,11 @@
               "left_relay_list": [
                 -1
               ],
-              "left_pallet": "L6",
+              "left_pallet": "L11",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "C6"
+                "C11"
               ],
               "center_board_list": [
                 ""
@@ -9114,11 +9114,11 @@
               "center_relay_list": [
                 -1
               ],
-              "center_pallet": "C6",
+              "center_pallet": "C11",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "R6"
+                "R11"
               ],
               "right_board_list": [
                 ""
@@ -9126,7 +9126,7 @@
               "right_relay_list": [
                 -1
               ],
-              "right_pallet": "R6",
+              "right_pallet": "R11",
               "right_board": "",
               "right_relay": -1
             }
@@ -9143,7 +9143,7 @@
           "relays": [
             {
               "field": "left",
-              "location_id": "L11",
+              "location_id": "L8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
@@ -9152,7 +9152,7 @@
             },
             {
               "field": "center",
-              "location_id": "C11",
+              "location_id": "C8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
@@ -9161,7 +9161,7 @@
             },
             {
               "field": "right",
-              "location_id": "R11",
+              "location_id": "R8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
@@ -9170,7 +9170,7 @@
             },
             {
               "field": "left",
-              "location_id": "L11",
+              "location_id": "L8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
@@ -9179,7 +9179,7 @@
             },
             {
               "field": "right",
-              "location_id": "R11",
+              "location_id": "R8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
@@ -9188,7 +9188,7 @@
             },
             {
               "field": "center",
-              "location_id": "C11",
+              "location_id": "C8",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
@@ -9211,7 +9211,7 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "left_pallet_list": [
-                "L11"
+                "L8"
               ],
               "left_board_list": [
                 ""
@@ -9219,11 +9219,11 @@
               "left_relay_list": [
                 -1
               ],
-              "left_pallet": "L11",
+              "left_pallet": "L8",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "C11"
+                "C8"
               ],
               "center_board_list": [
                 ""
@@ -9231,11 +9231,11 @@
               "center_relay_list": [
                 -1
               ],
-              "center_pallet": "C11",
+              "center_pallet": "C8",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "R11"
+                "R8"
               ],
               "right_board_list": [
                 ""
@@ -9243,7 +9243,7 @@
               "right_relay_list": [
                 -1
               ],
-              "right_pallet": "R11",
+              "right_pallet": "R8",
               "right_board": "",
               "right_relay": -1
             },
@@ -9261,7 +9261,7 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "left_pallet_list": [
-                "L11"
+                "L8"
               ],
               "left_board_list": [
                 ""
@@ -9269,11 +9269,11 @@
               "left_relay_list": [
                 -1
               ],
-              "left_pallet": "L11",
+              "left_pallet": "L8",
               "left_board": "",
               "left_relay": -1,
               "right_pallet_list": [
-                "R11"
+                "R8"
               ],
               "right_board_list": [
                 ""
@@ -9281,7 +9281,7 @@
               "right_relay_list": [
                 -1
               ],
-              "right_pallet": "R11",
+              "right_pallet": "R8",
               "right_board": "",
               "right_relay": -1
             },
@@ -9299,7 +9299,7 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "center_pallet_list": [
-                "C11"
+                "C8"
               ],
               "center_board_list": [
                 ""
@@ -9307,7 +9307,7 @@
               "center_relay_list": [
                 -1
               ],
-              "center_pallet": "C11",
+              "center_pallet": "C8",
               "center_board": "",
               "center_relay": -1
             }
@@ -12879,7 +12879,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:11:58.348Z"
+      "lastEdited": "2026-09-03T02:12:26.638Z"
     },
     {
       "id": "proj_1787843867160",
