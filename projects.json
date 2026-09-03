@@ -8763,48 +8763,54 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Founder's Vision"
+              "duration_ms": 57000,
+              "firework_name": "Founder's Vision",
+              "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Founder's Vision"
+              "duration_ms": 57000,
+              "firework_name": "Founder's Vision",
+              "firework_count": 1
             },
             {
               "field": "right",
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Founder's Vision"
+              "duration_ms": 57000,
+              "firework_name": "Founder's Vision",
+              "firework_count": 1
             },
             {
               "field": "left",
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "American Gemstones"
+              "duration_ms": 40000,
+              "firework_name": "American Gemstones",
+              "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "American Gemstones"
+              "duration_ms": 40000,
+              "firework_name": "American Gemstones",
+              "firework_count": 1
             },
             {
               "field": "right",
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "American Gemstones"
+              "duration_ms": 40000,
+              "firework_name": "American Gemstones",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -12873,7 +12879,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:11:53.837Z"
+      "lastEdited": "2026-09-03T02:11:58.348Z"
     },
     {
       "id": "proj_1787843867160",
