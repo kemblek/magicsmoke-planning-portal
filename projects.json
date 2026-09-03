@@ -6134,22 +6134,31 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "",
+              "field": "left",
+              "location_id": "L10",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Star Spangled Smackdown"
+              "duration_ms": 42000,
+              "firework_name": "Star Spangled Smackdown",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "field": "center",
+              "location_id": "C10",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Star Spangled Smackdown"
+              "duration_ms": 42000,
+              "firework_name": "Star Spangled Smackdown",
+              "firework_count": 1
             },
             {
-              "location_id": "",
+              "field": "right",
+              "location_id": "R10",
+              "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Star Spangled Smackdown"
+              "duration_ms": 42000,
+              "firework_name": "Star Spangled Smackdown",
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -6165,7 +6174,43 @@
               "modification": "None",
               "flash_fused": false,
               "fuse_delay_sec": 0,
-              "setup_notes": ""
+              "setup_notes": "",
+              "left_pallet_list": [
+                "L10"
+              ],
+              "left_board_list": [
+                ""
+              ],
+              "left_relay_list": [
+                -1
+              ],
+              "left_pallet": "L10",
+              "left_board": "",
+              "left_relay": -1,
+              "center_pallet_list": [
+                "C10"
+              ],
+              "center_board_list": [
+                ""
+              ],
+              "center_relay_list": [
+                -1
+              ],
+              "center_pallet": "C10",
+              "center_board": "",
+              "center_relay": -1,
+              "right_pallet_list": [
+                "R10"
+              ],
+              "right_board_list": [
+                ""
+              ],
+              "right_relay_list": [
+                -1
+              ],
+              "right_pallet": "R10",
+              "right_board": "",
+              "right_relay": -1
             }
           ]
         },
@@ -7302,11 +7347,19 @@
           ]
         },
         {
+          "event_id": "song_30_1786194618759_bupla",
+          "event_num": "S30",
+          "timestamp_offset_ms": 1070000,
+          "title": "What Is Love - Haddaway",
+          "song": "What Is Love - Haddaway",
+          "relays": []
+        },
+        {
           "event_id": "evt_1786244688827_q3d8n",
-          "event_num": "29.2",
+          "event_num": "30.1",
           "title": "LCR - Jumbo Strobes x3",
-          "timestamp_offset_ms": 1060000,
-          "desired_time_ms": 1065000,
+          "timestamp_offset_ms": 1065000,
+          "desired_time_ms": 1070000,
           "fuse_delay_sec": 5,
           "repeat_count": 1,
           "relays": [
@@ -7413,16 +7466,8 @@
           ]
         },
         {
-          "event_id": "song_30_1786194618759_bupla",
-          "event_num": "S30",
-          "timestamp_offset_ms": 1070000,
-          "title": "What Is Love - Haddaway",
-          "song": "What Is Love - Haddaway",
-          "relays": []
-        },
-        {
           "event_id": "evt_1786244712515_sd2bi",
-          "event_num": "30.1",
+          "event_num": "30.2",
           "title": "FIELD LCR American Gemstones",
           "timestamp_offset_ms": 1071000,
           "desired_time_ms": 1071000,
@@ -7512,7 +7557,7 @@
         },
         {
           "event_id": "evt_1786244734131_t0bn2",
-          "event_num": "30.2",
+          "event_num": "30.3",
           "title": "LCR - FB Golden Crown Waterfall",
           "timestamp_offset_ms": 1079000,
           "desired_time_ms": 1079000,
@@ -7602,7 +7647,7 @@
         },
         {
           "event_id": "evt_1786244782741_0kt4u",
-          "event_num": "30.3",
+          "event_num": "30.4",
           "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
@@ -7720,7 +7765,7 @@
         },
         {
           "event_id": "evt_1786244808144_dgn5i",
-          "event_num": "30.4",
+          "event_num": "30.5",
           "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
@@ -12924,7 +12969,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:21:35.389Z"
+      "lastEdited": "2026-09-03T02:25:19.057Z"
     },
     {
       "id": "proj_1787843867160",
