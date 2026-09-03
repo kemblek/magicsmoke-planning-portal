@@ -7389,13 +7389,8 @@
         },
         {
           "event_id": "evt_1786244782741_0kt4u",
-<<<<<<< Updated upstream
           "event_num": "30.4",
-          "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
-=======
-          "event_num": "30.3",
           "title": "L - FB Purple Peony \u2013 12 Shot & C - FB Silver Peony \u2013 12 shot & R - FB Orange Peony- 12 Shot",
->>>>>>> Stashed changes
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
           "fuse_delay_sec": 0,
@@ -7512,13 +7507,8 @@
         },
         {
           "event_id": "evt_1786244808144_dgn5i",
-<<<<<<< Updated upstream
           "event_num": "30.5",
-          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
-=======
-          "event_num": "30.4",
           "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs \u2013 12 shot",
->>>>>>> Stashed changes
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
           "fuse_delay_sec": 0,
