@@ -9030,8 +9030,83 @@
           ]
         },
         {
-          "event_id": "evt_1786245279995_i6bib",
+          "event_id": "evt_1788401477984_yld2c",
           "event_num": "33.4",
+          "title": "LCR - Detonation of Independence x2",
+          "timestamp_offset_ms": 1201000,
+          "desired_time_ms": 1201000,
+          "fuse_delay_sec": 0,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "field": "left",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "field": "left",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "field": "center",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "field": "center",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "field": "right",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            },
+            {
+              "field": "right",
+              "location_id": "",
+              "node_hostname": "",
+              "relay_idx": -1,
+              "duration_ms": 2000,
+              "firework_name": "Detonation of Independence"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Detonation of Independence",
+              "left_field": true,
+              "center_field": true,
+              "right_field": true,
+              "left_qty": 2,
+              "center_qty": 2,
+              "right_qty": 2,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 0,
+              "setup_notes": ""
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786245279995_i6bib",
+          "event_num": "33.5",
           "title": "FIELD LCR Star Spangled Smackdown",
           "timestamp_offset_ms": 1211000,
           "desired_time_ms": 1211000,
@@ -9121,7 +9196,7 @@
         },
         {
           "event_id": "evt_1786245330144_40xxo",
-          "event_num": "33.5",
+          "event_num": "33.6",
           "title": "LCR - FB RWB Peony- 12 Shot & LR - FB Blue Comet W/Tail & C - FB Red Comet W/Tail",
           "timestamp_offset_ms": 1233000,
           "desired_time_ms": 1233000,
@@ -9302,7 +9377,7 @@
         },
         {
           "event_id": "evt_1786245383436_zaeu2",
-          "event_num": "33.6",
+          "event_num": "33.7",
           "title": "LCR - TUBES Killer Willow – 5\" shells x80",
           "timestamp_offset_ms": 1239000,
           "desired_time_ms": 1239000,
@@ -12237,7 +12312,7 @@
         },
         {
           "event_id": "evt_1786245446047_td1f6",
-          "event_num": "33.7",
+          "event_num": "33.8",
           "title": "FIELD CURTAIN CALL LCR (MOD - Flash Fuse) FB Red Comet W/Tail (L:x2, C:x3, R:x2) & FIELD LCR (MOD - Flash Fuse) FB Blue Comet W/Tail x2",
           "timestamp_offset_ms": 1258000,
           "desired_time_ms": 1258000,
@@ -12866,7 +12941,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:08:56.531Z"
+      "lastEdited": "2026-09-03T02:11:17.986Z"
     },
     {
       "id": "proj_1787843867160",
