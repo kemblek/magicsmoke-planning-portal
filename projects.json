@@ -8233,25 +8233,23 @@
           "event_id": "evt_1786245086904_l9qzy",
           "event_num": "33.1",
           "title": "FIELD LCR Staff of Ra Racks (L:x16, C:x20, R:x16)",
-          "timestamp_offset_ms": 1182000,
-          "desired_time_ms": 1187000,
+          "timestamp_offset_ms": 1177000,
+          "desired_time_ms": 1182000,
           "fuse_delay_sec": 5,
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Staff of Ra"
             },
             {
+              "field": "right",
               "location_id": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Staff of Ra"
-            },
-            {
-              "location_id": "",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Staff of Ra"
@@ -8261,7 +8259,7 @@
             {
               "firework_name": "Staff of Ra",
               "left_field": true,
-              "center_field": true,
+              "center_field": false,
               "right_field": true,
               "left_qty": 16,
               "center_qty": 20,
@@ -9128,7 +9126,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-03T02:05:48.573Z"
+      "lastEdited": "2026-09-03T02:06:21.193Z"
     },
     {
       "id": "proj_1787843867160",
