@@ -6069,7 +6069,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6078,7 +6078,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6087,7 +6087,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6114,11 +6114,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                2
               ],
               "left_pallet": "L6",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 2,
               "center_pallet_list": [
                 "C6"
               ],
@@ -6126,11 +6126,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                2
               ],
               "center_pallet": "C6",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 2,
               "right_pallet_list": [
                 "R6"
               ],
@@ -6138,11 +6138,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                2
               ],
               "right_pallet": "R6",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 2
             }
           ]
         },
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:46:21.880Z"
+      "lastEdited": "2026-09-05T16:46:33.016Z"
     },
     {
       "id": "proj_1787843867160",
