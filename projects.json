@@ -1557,25 +1557,28 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 6,
               "duration_ms": 38000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 6,
               "duration_ms": 38000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 6,
               "duration_ms": 38000,
               "firework_name": "War Paint",
               "firework_count": 1
@@ -1599,14 +1602,14 @@
                 "L3"
               ],
               "left_board_list": [
-                "BringInTheWomens"
+                ""
               ],
               "left_relay_list": [
-                -1
+                6
               ],
               "left_pallet": "L3",
-              "left_board": "BringInTheWomens",
-              "left_relay": -1,
+              "left_board": "",
+              "left_relay": 6,
               "center_pallet_list": [
                 "C3"
               ],
@@ -1614,11 +1617,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                6
               ],
               "center_pallet": "C3",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 6,
               "right_pallet_list": [
                 "R3"
               ],
@@ -1626,11 +1629,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                6
               ],
               "right_pallet": "R3",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 6
             }
           ]
         },
@@ -12899,7 +12902,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:23:11.967Z"
+      "lastEdited": "2026-09-05T16:23:29.287Z"
     },
     {
       "id": "proj_1787843867160",
