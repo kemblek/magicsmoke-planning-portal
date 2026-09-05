@@ -2896,29 +2896,29 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "right",
-              "location_id": "R4",
+              "field": "left",
+              "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 6,
+              "duration_ms": 46000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "node_hostname": "",
+              "relay_idx": 6,
+              "duration_ms": 46000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             },
             {
-              "field": "left",
-              "location_id": "L4",
+              "field": "right",
+              "location_id": "R4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 6,
+              "duration_ms": 46000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             }
@@ -2945,21 +2945,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 6,
               "right_relay_list": [
-                -1
+                6
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 6,
               "center_relay_list": [
-                -1
+                6
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -2969,9 +2969,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 6,
               "left_relay_list": [
-                -1
+                6
               ]
             }
           ]
@@ -12963,7 +12963,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:39:00.597Z"
+      "lastEdited": "2026-09-05T16:39:12.800Z"
     },
     {
       "id": "proj_1787843867160",
