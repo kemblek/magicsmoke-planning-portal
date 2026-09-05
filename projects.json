@@ -454,11 +454,13 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L1",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 4000,
               "firework_name": "Smoke of Liberty",
-              "node_hostname": ""
+              "firework_count": 1
             }
           ],
           "fireworks": [
@@ -483,9 +485,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 1,
               "left_relay_list": [
-                -1
+                1
               ],
               "center_board": "",
               "center_board_list": [
@@ -12874,7 +12876,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:21:42.369Z"
+      "lastEdited": "2026-09-05T16:21:58.944Z"
     },
     {
       "id": "proj_1787843867160",
