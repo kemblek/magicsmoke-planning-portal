@@ -153,6 +153,7 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -161,6 +162,7 @@
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -169,6 +171,7 @@
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -177,6 +180,7 @@
               "firework_count": 1
             },
             {
+              "field": "left",
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -185,6 +189,7 @@
               "firework_count": 1
             },
             {
+              "field": "left",
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -193,6 +198,7 @@
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -201,6 +207,7 @@
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -209,6 +216,7 @@
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -217,6 +225,7 @@
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": -1,
@@ -12862,7 +12871,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:05:08.704Z"
+      "lastEdited": "2026-09-05T16:05:26.553Z"
     },
     {
       "id": "proj_1787843867160",
