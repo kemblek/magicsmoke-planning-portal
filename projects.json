@@ -3925,8 +3925,8 @@
             {
               "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3934,8 +3934,8 @@
             {
               "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3944,7 +3944,7 @@
               "field": "center",
               "location_id": "C3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3953,7 +3953,7 @@
               "field": "center",
               "location_id": "C3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3962,7 +3962,7 @@
               "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3971,7 +3971,7 @@
               "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
@@ -3996,16 +3996,16 @@
                 "L3"
               ],
               "left_board_list": [
-                "BringInTheWomens",
-                "BringInTheWomens"
+                "",
+                ""
               ],
               "left_relay_list": [
-                -1,
-                -1
+                5,
+                5
               ],
               "left_pallet": "L3",
-              "left_board": "BringInTheWomens",
-              "left_relay": -1,
+              "left_board": "",
+              "left_relay": 5,
               "center_pallet_list": [
                 "C3",
                 "C3"
@@ -4015,12 +4015,12 @@
                 ""
               ],
               "center_relay_list": [
-                -1,
-                -1
+                5,
+                5
               ],
               "center_pallet": "C3",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 5,
               "right_pallet_list": [
                 "R3",
                 "R3"
@@ -4030,12 +4030,12 @@
                 ""
               ],
               "right_relay_list": [
-                -1,
-                -1
+                5,
+                5
               ],
               "right_pallet": "R3",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 5
             }
           ]
         },
@@ -4060,7 +4060,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 40000,
               "firework_name": "USA! USA!",
               "firework_count": 1
@@ -4069,7 +4069,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 40000,
               "firework_name": "USA! USA!",
               "firework_count": 1
@@ -4078,7 +4078,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 40000,
               "firework_name": "USA! USA!",
               "firework_count": 1
@@ -4087,7 +4087,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 40000,
               "firework_name": "American Gemstones",
               "firework_count": 1
@@ -4096,7 +4096,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 40000,
               "firework_name": "American Gemstones",
               "firework_count": 1
@@ -4105,7 +4105,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 40000,
               "firework_name": "American Gemstones",
               "firework_count": 1
@@ -4132,11 +4132,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                4
               ],
               "left_pallet": "L6",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 4,
               "center_pallet_list": [
                 "C6"
               ],
@@ -4144,11 +4144,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                5
               ],
               "center_pallet": "C6",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 5,
               "right_pallet_list": [
                 "R6"
               ],
@@ -4156,11 +4156,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                5
               ],
               "right_pallet": "R6",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 5
             },
             {
               "firework_name": "American Gemstones",
@@ -4182,11 +4182,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                4
               ],
               "left_pallet": "L6",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 4,
               "center_pallet_list": [
                 "C6"
               ],
@@ -4194,11 +4194,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                5
               ],
               "center_pallet": "C6",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 5,
               "right_pallet_list": [
                 "R6"
               ],
@@ -4206,11 +4206,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                5
               ],
               "right_pallet": "R6",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 5
             }
           ]
         },
@@ -4232,47 +4232,29 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "right",
-              "location_id": "R4",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Rise Of Power",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R4",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Cyber Vision",
-              "firework_count": 1
-            },
-            {
-              "field": "center",
-              "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Rise Of Power",
-              "firework_count": 1
-            },
-            {
-              "field": "center",
-              "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Cyber Vision",
-              "firework_count": 1
-            },
-            {
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 1,
+              "duration_ms": 17000,
+              "firework_name": "Rise Of Power",
+              "firework_count": 1
+            },
+            {
+              "field": "center",
+              "location_id": "C4",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 17000,
+              "firework_name": "Rise Of Power",
+              "firework_count": 1
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 17000,
               "firework_name": "Rise Of Power",
               "firework_count": 1
             },
@@ -4280,8 +4262,26 @@
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 1,
+              "duration_ms": 15000,
+              "firework_name": "Cyber Vision",
+              "firework_count": 1
+            },
+            {
+              "field": "center",
+              "location_id": "C4",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 15000,
+              "firework_name": "Cyber Vision",
+              "firework_count": 1
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 15000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             }
@@ -4308,21 +4308,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 1,
               "right_relay_list": [
-                -1
+                1
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 1,
               "center_relay_list": [
-                -1
+                1
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -4332,9 +4332,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 1,
               "left_relay_list": [
-                -1
+                1
               ]
             },
             {
@@ -4358,21 +4358,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 1,
               "right_relay_list": [
-                -1
+                1
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 1,
               "center_relay_list": [
-                -1
+                1
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -4382,9 +4382,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 1,
               "left_relay_list": [
-                -1
+                1
               ]
             }
           ]
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:41:41.563Z"
+      "lastEdited": "2026-09-05T16:42:40.029Z"
     },
     {
       "id": "proj_1787843867160",
