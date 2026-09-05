@@ -2461,57 +2461,64 @@
           "repeat_count": 1,
           "relays": [
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
             {
-              "location_id": "C12",
+              "field": "center",
+              "location_id": "RB 1",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
@@ -2533,13 +2540,13 @@
               "setup_notes": "Peacock",
               "is_fused": true,
               "center_pallet_list": [
-                "C12",
-                "C12",
-                "C12",
-                "C12",
-                "C12",
-                "C12",
-                "C12"
+                "RB 1",
+                "RB 1",
+                "RB 1",
+                "RB 1",
+                "RB 1",
+                "RB 1",
+                "RB 1"
               ],
               "center_board_list": [
                 "",
@@ -2551,17 +2558,17 @@
                 ""
               ],
               "center_relay_list": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
               ],
-              "center_pallet": "C12",
+              "center_pallet": "RB 1",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 4,
               "left_board": "",
               "left_board_list": [
                 ""
@@ -12935,7 +12942,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:26:02.446Z"
+      "lastEdited": "2026-09-05T16:26:40.148Z"
     },
     {
       "id": "proj_1787843867160",
