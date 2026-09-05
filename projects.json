@@ -6648,7 +6648,7 @@
               "field": "left",
               "location_id": "L10",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 55000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
@@ -6657,7 +6657,7 @@
               "field": "center",
               "location_id": "C10",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 55000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
@@ -6666,7 +6666,7 @@
               "field": "right",
               "location_id": "R10",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 55000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
@@ -6693,11 +6693,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                4
               ],
               "left_pallet": "L10",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 4,
               "center_pallet_list": [
                 "C10"
               ],
@@ -6705,11 +6705,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                4
               ],
               "center_pallet": "C10",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 4,
               "right_pallet_list": [
                 "R10"
               ],
@@ -6717,11 +6717,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                4
               ],
               "right_pallet": "R10",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 4
             }
           ]
         },
@@ -6735,20 +6735,20 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "center",
-              "location_id": "C7",
+              "field": "left",
+              "location_id": "L7",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 0,
+              "duration_ms": 23000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
             {
-              "field": "left",
-              "location_id": "L7",
+              "field": "center",
+              "location_id": "C7",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 0,
+              "duration_ms": 23000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -6756,8 +6756,8 @@
               "field": "right",
               "location_id": "R7",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 0,
+              "duration_ms": 23000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -6786,7 +6786,7 @@
               ],
               "center_relay": 0,
               "center_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L7",
               "left_board": "",
@@ -6798,7 +6798,7 @@
               ],
               "left_relay": 0,
               "left_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R7",
               "right_board": "",
@@ -6810,7 +6810,7 @@
               ],
               "right_relay": 0,
               "right_relay_list": [
-                -1
+                0
               ]
             }
           ]
@@ -13216,7 +13216,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:47:21.043Z"
+      "lastEdited": "2026-09-05T16:47:51.790Z"
     },
     {
       "id": "proj_1787843867160",
