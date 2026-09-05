@@ -720,28 +720,25 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "left",
               "location_id": "L1",
               "node_hostname": "",
-              "relay_idx": 3,
+              "relay_idx": -1,
               "duration_ms": 15000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
             {
-              "field": "center",
               "location_id": "C1",
               "node_hostname": "",
-              "relay_idx": 3,
+              "relay_idx": -1,
               "duration_ms": 15000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
             {
-              "field": "right",
               "location_id": "R1",
               "node_hostname": "",
-              "relay_idx": 3,
+              "relay_idx": -1,
               "duration_ms": 15000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
@@ -769,9 +766,9 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 3,
+              "right_relay": -1,
               "right_relay_list": [
-                3
+                -1
               ],
               "left_pallet": "L1",
               "left_board": "",
@@ -781,9 +778,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 3,
+              "left_relay": -1,
               "left_relay_list": [
-                3
+                -1
               ],
               "center_pallet_list": [
                 "C1"
@@ -792,11 +789,11 @@
                 ""
               ],
               "center_relay_list": [
-                3
+                -1
               ],
               "center_pallet": "C1",
               "center_board": "",
-              "center_relay": 3
+              "center_relay": -1
             }
           ]
         },
@@ -12885,7 +12882,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:22:21.542Z"
+      "lastEdited": "2026-09-05T16:22:16.968Z"
     },
     {
       "id": "proj_1787843867160",
