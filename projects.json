@@ -4787,7 +4787,7 @@
               "field": "left",
               "location_id": "L5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 30000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
@@ -4796,7 +4796,7 @@
               "field": "center",
               "location_id": "C5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 30000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
@@ -4805,7 +4805,7 @@
               "field": "right",
               "location_id": "R5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 30000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
@@ -4832,11 +4832,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L5",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 0,
               "center_pallet_list": [
                 "C5"
               ],
@@ -4844,11 +4844,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                0
               ],
               "center_pallet": "C5",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 0,
               "right_pallet_list": [
                 "R5"
               ],
@@ -4856,11 +4856,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R5",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             }
           ]
         },
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:43:25.640Z"
+      "lastEdited": "2026-09-05T16:43:37.096Z"
     },
     {
       "id": "proj_1787843867160",
