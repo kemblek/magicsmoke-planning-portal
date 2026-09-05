@@ -30,7 +30,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -39,7 +39,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -48,7 +48,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -57,7 +57,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -66,7 +66,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -75,7 +75,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             }
@@ -157,7 +157,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -166,7 +166,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -175,7 +175,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -184,7 +184,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -193,7 +193,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -202,7 +202,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -211,7 +211,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -220,7 +220,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -229,7 +229,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             }
@@ -368,7 +368,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 41000,
+              "duration_ms": 2000,
               "firework_name": "Dumpster Fire",
               "firework_count": 1
             },
@@ -377,7 +377,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 41000,
+              "duration_ms": 2000,
               "firework_name": "Dumpster Fire",
               "firework_count": 1
             },
@@ -386,7 +386,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 41000,
+              "duration_ms": 2000,
               "firework_name": "Dumpster Fire",
               "firework_count": 1
             }
@@ -458,7 +458,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Smoke of Liberty",
               "firework_count": 1
             }
@@ -514,7 +514,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Smoke of Liberty",
               "firework_count": 1
             }
@@ -570,7 +570,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Smoke of Liberty",
               "firework_count": 1
             }
@@ -634,7 +634,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Freedom Isn't Free",
               "firework_count": 1
             },
@@ -643,7 +643,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Freedom Isn't Free",
               "firework_count": 1
             },
@@ -652,7 +652,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Freedom Isn't Free",
               "firework_count": 1
             }
@@ -724,7 +724,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -733,7 +733,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -742,7 +742,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             }
@@ -822,7 +822,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Night Shadow",
               "firework_count": 1
             },
@@ -831,7 +831,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Night Shadow",
               "firework_count": 1
             },
@@ -840,7 +840,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Night Shadow",
               "firework_count": 1
             }
@@ -901,7 +901,7 @@
         {
           "event_id": "evt_1788225482035_317vx",
           "event_num": "4.2",
-          "title": "LCR - (MOD - Flash Fuse) (MOD – 1/3 seg) FB Blue Comet W/Tail",
+          "title": "LCR - (MOD - Flash Fuse) (MOD \u2013 1/3 seg) FB Blue Comet W/Tail",
           "timestamp_offset_ms": 125000,
           "desired_time_ms": 125000,
           "fuse_delay_sec": 0,
@@ -912,7 +912,7 @@
               "location_id": "L1",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -921,7 +921,7 @@
               "location_id": "C1",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -930,7 +930,7 @@
               "location_id": "R1",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             }
@@ -1107,7 +1107,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "firework_count": 1
             },
@@ -1116,7 +1116,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "firework_count": 1
             },
@@ -1125,7 +1125,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fire Assault",
               "firework_count": 1
             }
@@ -1214,7 +1214,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Backstreet Diva",
               "firework_count": 1
             },
@@ -1223,7 +1223,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Backstreet Diva",
               "firework_count": 1
             }
@@ -1321,7 +1321,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
               "firework_count": 1
             },
@@ -1330,7 +1330,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
               "firework_count": 1
             },
@@ -1339,7 +1339,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Let's Go Bro!",
               "firework_count": 1
             }
@@ -1419,7 +1419,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Neon Streak",
               "firework_count": 1
             },
@@ -1428,7 +1428,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Neon Streak",
               "firework_count": 1
             },
@@ -1437,7 +1437,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Neon Streak",
               "firework_count": 1
             }
@@ -1509,14 +1509,14 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -1573,7 +1573,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
@@ -1582,7 +1582,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
@@ -1591,7 +1591,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             }
@@ -1671,7 +1671,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             },
@@ -1680,7 +1680,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             },
@@ -1689,7 +1689,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             }
@@ -1761,7 +1761,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
@@ -1770,7 +1770,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
@@ -1779,7 +1779,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             }
@@ -1851,7 +1851,7 @@
               "location_id": "L2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -1860,7 +1860,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -1869,7 +1869,7 @@
               "location_id": "R2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             }
@@ -1949,7 +1949,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -1958,7 +1958,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -1967,7 +1967,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -1976,7 +1976,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -1985,7 +1985,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -1994,7 +1994,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2003,7 +2003,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 13000,
+              "duration_ms": 2000,
               "firework_name": "4th Of July Cocktail",
               "firework_count": 1
             },
@@ -2012,7 +2012,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 13000,
+              "duration_ms": 2000,
               "firework_name": "4th Of July Cocktail",
               "firework_count": 1
             },
@@ -2021,7 +2021,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 13000,
+              "duration_ms": 2000,
               "firework_name": "4th Of July Cocktail",
               "firework_count": 1
             }
@@ -2152,7 +2152,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
@@ -2161,7 +2161,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
@@ -2170,7 +2170,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
@@ -2179,7 +2179,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
@@ -2188,7 +2188,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
@@ -2197,7 +2197,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "Red Saber",
               "firework_count": 1
             }
@@ -2274,7 +2274,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2283,7 +2283,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2292,7 +2292,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2301,7 +2301,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2310,7 +2310,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2319,7 +2319,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Cherry Drop",
               "firework_count": 1
             },
@@ -2477,7 +2477,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2486,7 +2486,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2495,7 +2495,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2504,7 +2504,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2513,7 +2513,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2522,7 +2522,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -2531,7 +2531,7 @@
               "location_id": "C13",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             }
@@ -2614,7 +2614,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Fireworks Are Awesome",
               "firework_count": 1
             },
@@ -2623,7 +2623,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Fireworks Are Awesome",
               "firework_count": 1
             },
@@ -2632,7 +2632,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Fireworks Are Awesome",
               "firework_count": 1
             }
@@ -2704,7 +2704,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -2713,7 +2713,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             },
@@ -2722,7 +2722,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Loaded Gun",
               "firework_count": 1
             }
@@ -2802,7 +2802,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             },
@@ -2811,7 +2811,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             },
@@ -2820,7 +2820,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             }
@@ -2900,7 +2900,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 46000,
+              "duration_ms": 2000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             },
@@ -2909,7 +2909,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 46000,
+              "duration_ms": 2000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             },
@@ -2918,7 +2918,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 46000,
+              "duration_ms": 2000,
               "firework_name": "Howling Duel",
               "firework_count": 1
             }
@@ -2990,7 +2990,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
             },
@@ -2999,7 +2999,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
             },
@@ -3008,7 +3008,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
             },
@@ -3017,7 +3017,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
             },
@@ -3026,7 +3026,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
             },
@@ -3035,7 +3035,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 34000,
+              "duration_ms": 2000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
             },
@@ -3044,7 +3044,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
             },
@@ -3053,7 +3053,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
             },
@@ -3062,7 +3062,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
             }
@@ -3234,7 +3234,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": -1,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Spark of Rebellion",
               "firework_count": 1
             },
@@ -3243,7 +3243,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Spark of Rebellion",
               "firework_count": 1
             },
@@ -3252,7 +3252,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Spark of Rebellion",
               "firework_count": 1
             }
@@ -3332,7 +3332,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3341,7 +3341,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3350,7 +3350,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3359,7 +3359,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3368,7 +3368,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3377,7 +3377,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3386,7 +3386,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3395,7 +3395,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3404,7 +3404,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3413,7 +3413,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3422,7 +3422,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3431,7 +3431,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3440,7 +3440,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3449,7 +3449,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3458,7 +3458,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3467,7 +3467,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3476,7 +3476,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3485,7 +3485,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3494,7 +3494,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3503,7 +3503,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3512,7 +3512,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3521,7 +3521,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3530,7 +3530,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3539,7 +3539,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3548,7 +3548,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3557,7 +3557,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3566,7 +3566,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3575,7 +3575,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3584,7 +3584,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3593,7 +3593,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3602,7 +3602,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3611,7 +3611,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3620,7 +3620,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3629,7 +3629,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3638,7 +3638,7 @@
               "location_id": "C2",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3647,7 +3647,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3656,7 +3656,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3665,7 +3665,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3674,7 +3674,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3683,7 +3683,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3692,7 +3692,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3701,7 +3701,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3710,7 +3710,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3719,7 +3719,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -3728,7 +3728,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             }
@@ -3927,7 +3927,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -3936,7 +3936,7 @@
               "location_id": "L3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -3945,7 +3945,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -3954,7 +3954,7 @@
               "location_id": "C3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -3963,7 +3963,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -3972,7 +3972,7 @@
               "location_id": "R3",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             }
@@ -4061,7 +4061,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "USA! USA!",
               "firework_count": 1
             },
@@ -4070,7 +4070,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "USA! USA!",
               "firework_count": 1
             },
@@ -4079,7 +4079,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "USA! USA!",
               "firework_count": 1
             },
@@ -4088,7 +4088,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -4097,7 +4097,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -4106,7 +4106,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             }
@@ -4236,7 +4236,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 17000,
+              "duration_ms": 2000,
               "firework_name": "Rise Of Power",
               "firework_count": 1
             },
@@ -4245,7 +4245,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 17000,
+              "duration_ms": 2000,
               "firework_name": "Rise Of Power",
               "firework_count": 1
             },
@@ -4254,7 +4254,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 17000,
+              "duration_ms": 2000,
               "firework_name": "Rise Of Power",
               "firework_count": 1
             },
@@ -4263,7 +4263,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -4272,7 +4272,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -4281,7 +4281,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             }
@@ -4403,7 +4403,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             }
@@ -4467,7 +4467,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             }
@@ -4520,7 +4520,7 @@
         {
           "event_id": "evt_1786243620663_r3evy",
           "event_num": "17.1",
-          "title": "LR - FB Silver Peony – 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
+          "title": "LR - FB Silver Peony \u2013 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
           "timestamp_offset_ms": 541000,
           "desired_time_ms": 541000,
           "fuse_delay_sec": 0,
@@ -4531,8 +4531,8 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -4540,8 +4540,8 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -4549,7 +4549,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 16000,
+              "duration_ms": 2000,
               "firework_name": "Showstopper",
               "firework_count": 1
             },
@@ -4558,14 +4558,14 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": true,
               "center_field": false,
               "right_field": true,
@@ -4690,7 +4690,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -4699,7 +4699,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -4708,7 +4708,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             }
@@ -4788,7 +4788,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             },
@@ -4797,7 +4797,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             },
@@ -4806,7 +4806,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             }
@@ -4886,7 +4886,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -4895,7 +4895,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             },
@@ -4904,7 +4904,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "Cyber Vision",
               "firework_count": 1
             }
@@ -4976,7 +4976,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "God Bless Boomerica!",
               "firework_count": 1
             },
@@ -4985,7 +4985,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "God Bless Boomerica!",
               "firework_count": 1
             },
@@ -4994,7 +4994,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "God Bless Boomerica!",
               "firework_count": 1
             }
@@ -5074,7 +5074,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -5083,7 +5083,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -5092,7 +5092,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -5101,7 +5101,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -5110,7 +5110,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -5119,7 +5119,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -5249,7 +5249,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
             },
@@ -5258,7 +5258,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
             },
@@ -5267,7 +5267,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
             },
@@ -5276,7 +5276,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
@@ -5285,7 +5285,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
@@ -5294,7 +5294,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             }
@@ -5416,7 +5416,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -5425,7 +5425,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -5434,7 +5434,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             }
@@ -5514,7 +5514,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Mechanized",
               "firework_count": 1
             },
@@ -5523,7 +5523,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Mechanized",
               "firework_count": 1
             },
@@ -5532,7 +5532,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Mechanized",
               "firework_count": 1
             }
@@ -5612,7 +5612,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "Flood Red",
               "firework_count": 1
             },
@@ -5621,7 +5621,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "Flood Red",
               "firework_count": 1
             },
@@ -5630,7 +5630,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 25000,
+              "duration_ms": 2000,
               "firework_name": "Flood Red",
               "firework_count": 1
             }
@@ -5702,7 +5702,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             },
@@ -5711,7 +5711,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             },
@@ -5720,7 +5720,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             }
@@ -5800,7 +5800,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -5809,7 +5809,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -5818,7 +5818,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             }
@@ -5890,7 +5890,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire over Water",
               "firework_count": 1
             },
@@ -5899,7 +5899,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire over Water",
               "firework_count": 1
             },
@@ -5908,7 +5908,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire over Water",
               "firework_count": 1
             }
@@ -5980,7 +5980,7 @@
               "location_id": "L5",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             },
@@ -5989,7 +5989,7 @@
               "location_id": "C5",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             },
@@ -5998,7 +5998,7 @@
               "location_id": "R5",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 26000,
+              "duration_ms": 2000,
               "firework_name": "Taste The Rainbow",
               "firework_count": 1
             }
@@ -6070,7 +6070,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -6079,7 +6079,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -6088,7 +6088,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             }
@@ -6160,7 +6160,7 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -6169,7 +6169,7 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -6178,7 +6178,7 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             }
@@ -6250,7 +6250,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -6259,7 +6259,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -6268,7 +6268,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 18000,
+              "duration_ms": 2000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
@@ -6277,7 +6277,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             },
@@ -6286,7 +6286,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             },
@@ -6295,7 +6295,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             },
@@ -6304,7 +6304,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             },
@@ -6313,7 +6313,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             },
@@ -6322,7 +6322,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Hyped Up",
               "firework_count": 1
             }
@@ -6461,7 +6461,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             },
@@ -6470,7 +6470,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             },
@@ -6479,7 +6479,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             }
@@ -6551,7 +6551,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 28000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -6560,7 +6560,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 28000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             },
@@ -6569,7 +6569,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 28000,
+              "duration_ms": 2000,
               "firework_name": "Future All American",
               "firework_count": 1
             }
@@ -6649,7 +6649,7 @@
               "location_id": "C10",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 55000,
+              "duration_ms": 2000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
             },
@@ -6658,7 +6658,7 @@
               "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 55000,
+              "duration_ms": 2000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
             },
@@ -6667,7 +6667,7 @@
               "location_id": "L10",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 55000,
+              "duration_ms": 2000,
               "firework_name": "Amber Waves of Flame",
               "firework_count": 1
             }
@@ -6739,7 +6739,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -6748,7 +6748,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -6757,7 +6757,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -6829,7 +6829,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -6838,7 +6838,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -6847,7 +6847,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -6919,7 +6919,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Trigger Pull",
               "firework_count": 1
             },
@@ -6928,7 +6928,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Trigger Pull",
               "firework_count": 1
             },
@@ -6937,7 +6937,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 31000,
+              "duration_ms": 2000,
               "firework_name": "Trigger Pull",
               "firework_count": 1
             },
@@ -6946,7 +6946,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Broadsword",
               "firework_count": 1
             },
@@ -6955,7 +6955,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Broadsword",
               "firework_count": 1
             },
@@ -6964,7 +6964,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 29000,
+              "duration_ms": 2000,
               "firework_name": "Broadsword",
               "firework_count": 1
             }
@@ -7086,7 +7086,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -7095,7 +7095,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             },
@@ -7104,7 +7104,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 23000,
+              "duration_ms": 2000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -7184,7 +7184,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -7193,7 +7193,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -7202,7 +7202,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             }
@@ -7274,7 +7274,7 @@
               "location_id": "L7",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             },
@@ -7283,7 +7283,7 @@
               "location_id": "C7",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             },
@@ -7292,7 +7292,7 @@
               "location_id": "R7",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Dawn Of Time",
               "firework_count": 1
             }
@@ -7372,7 +7372,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 56000,
+              "duration_ms": 2000,
               "firework_name": "One Jacked Quacker",
               "firework_count": 1
             },
@@ -7381,7 +7381,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 56000,
+              "duration_ms": 2000,
               "firework_name": "One Jacked Quacker",
               "firework_count": 1
             },
@@ -7390,7 +7390,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 56000,
+              "duration_ms": 2000,
               "firework_name": "One Jacked Quacker",
               "firework_count": 1
             }
@@ -7470,7 +7470,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
@@ -7479,7 +7479,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             },
@@ -7488,7 +7488,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 38000,
+              "duration_ms": 2000,
               "firework_name": "War Paint",
               "firework_count": 1
             }
@@ -7568,7 +7568,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -7577,7 +7577,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -7586,7 +7586,7 @@
               "location_id": "L12",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -7595,7 +7595,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -7604,7 +7604,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             },
@@ -7613,7 +7613,7 @@
               "location_id": "R12",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
             }
@@ -7691,7 +7691,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -7700,7 +7700,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -7709,7 +7709,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             }
@@ -7781,7 +7781,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall",
               "firework_count": 1
             },
@@ -7790,7 +7790,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall",
               "firework_count": 1
             },
@@ -7799,7 +7799,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall",
               "firework_count": 1
             }
@@ -7860,7 +7860,7 @@
         {
           "event_id": "evt_1786244782741_0kt4u",
           "event_num": "30.4",
-          "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
+          "title": "L - FB Purple Peony \u2013 12 Shot & C - FB Silver Peony \u2013 12 shot & R - FB Orange Peony- 12 Shot",
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
           "fuse_delay_sec": 0,
@@ -7871,8 +7871,8 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -7880,8 +7880,8 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -7889,14 +7889,14 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB Orange Peony- 12 Shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": false,
               "right_field": false,
@@ -7930,7 +7930,7 @@
               ]
             },
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -8002,7 +8002,7 @@
         {
           "event_id": "evt_1786244808144_dgn5i",
           "event_num": "30.5",
-          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
+          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs \u2013 12 shot",
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
           "fuse_delay_sec": 0,
@@ -8013,8 +8013,8 @@
               "location_id": "L4",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -8022,8 +8022,8 @@
               "location_id": "C4",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -8031,14 +8031,14 @@
               "location_id": "R4",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 4000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -8100,7 +8100,7 @@
         {
           "event_id": "evt_1786244955199_fenrx",
           "event_num": "31.1",
-          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony – 12 Shot",
+          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony \u2013 12 Shot",
           "timestamp_offset_ms": 1111000,
           "desired_time_ms": 1111000,
           "fuse_delay_sec": 0,
@@ -8111,7 +8111,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             },
@@ -8120,7 +8120,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             },
@@ -8129,7 +8129,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 21000,
+              "duration_ms": 2000,
               "firework_name": "Forged of Fire",
               "firework_count": 1
             },
@@ -8138,7 +8138,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Colossal Force",
               "firework_count": 1
             },
@@ -8147,7 +8147,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Colossal Force",
               "firework_count": 1
             },
@@ -8156,7 +8156,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 24000,
+              "duration_ms": 2000,
               "firework_name": "Colossal Force",
               "firework_count": 1
             },
@@ -8165,8 +8165,8 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -8174,8 +8174,8 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -8183,8 +8183,8 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "duration_ms": 2000,
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             }
           ],
@@ -8290,7 +8290,7 @@
               "right_relay": 3
             },
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -8363,7 +8363,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 47000,
+              "duration_ms": 2000,
               "firework_name": "Revolutionary Roar",
               "firework_count": 1
             },
@@ -8372,7 +8372,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 47000,
+              "duration_ms": 2000,
               "firework_name": "Revolutionary Roar",
               "firework_count": 1
             },
@@ -8381,7 +8381,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 47000,
+              "duration_ms": 2000,
               "firework_name": "Revolutionary Roar",
               "firework_count": 1
             }
@@ -8453,7 +8453,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             },
@@ -8462,7 +8462,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             },
@@ -8471,7 +8471,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "Fanfare of America",
               "firework_count": 1
             }
@@ -8551,7 +8551,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8560,7 +8560,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8569,7 +8569,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8578,7 +8578,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8587,7 +8587,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8596,7 +8596,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8605,7 +8605,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8614,7 +8614,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8623,7 +8623,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8632,7 +8632,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8641,7 +8641,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8650,7 +8650,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8659,7 +8659,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8668,7 +8668,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8677,7 +8677,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8686,7 +8686,7 @@
               "location_id": "L9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8695,7 +8695,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8704,7 +8704,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8713,7 +8713,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8722,7 +8722,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8731,7 +8731,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8740,7 +8740,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8749,7 +8749,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8758,7 +8758,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8767,7 +8767,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8776,7 +8776,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8785,7 +8785,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8794,7 +8794,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8803,7 +8803,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8812,7 +8812,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8821,7 +8821,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             },
@@ -8830,7 +8830,7 @@
               "location_id": "R9",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 22000,
+              "duration_ms": 2000,
               "firework_name": "Staff of Ra",
               "firework_count": 1
             }
@@ -9004,7 +9004,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire Up the 4th!",
               "firework_count": 1
             },
@@ -9013,7 +9013,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire Up the 4th!",
               "firework_count": 1
             },
@@ -9022,7 +9022,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 30000,
+              "duration_ms": 2000,
               "firework_name": "Fire Up the 4th!",
               "firework_count": 1
             }
@@ -9094,7 +9094,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 57000,
+              "duration_ms": 2000,
               "firework_name": "Founder's Vision",
               "firework_count": 1
             },
@@ -9103,7 +9103,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 57000,
+              "duration_ms": 2000,
               "firework_name": "Founder's Vision",
               "firework_count": 1
             },
@@ -9112,7 +9112,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 57000,
+              "duration_ms": 2000,
               "firework_name": "Founder's Vision",
               "firework_count": 1
             },
@@ -9121,7 +9121,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -9130,7 +9130,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             },
@@ -9139,7 +9139,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 40000,
+              "duration_ms": 2000,
               "firework_name": "American Gemstones",
               "firework_count": 1
             }
@@ -9261,7 +9261,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             },
@@ -9270,7 +9270,7 @@
               "location_id": "L6",
               "node_hostname": "",
               "relay_idx": 5,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             },
@@ -9279,7 +9279,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             },
@@ -9288,7 +9288,7 @@
               "location_id": "C6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             },
@@ -9297,7 +9297,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             },
@@ -9306,7 +9306,7 @@
               "location_id": "R6",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 53000,
+              "duration_ms": 2000,
               "firework_name": "Detonation of Independence",
               "firework_count": 1
             }
@@ -9387,7 +9387,7 @@
               "location_id": "L11",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             },
@@ -9396,7 +9396,7 @@
               "location_id": "C11",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             },
@@ -9405,7 +9405,7 @@
               "location_id": "R11",
               "node_hostname": "",
               "relay_idx": 3,
-              "duration_ms": 42000,
+              "duration_ms": 2000,
               "firework_name": "Star Spangled Smackdown",
               "firework_count": 1
             }
@@ -9477,7 +9477,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB RWB Peony- 12 Shot",
               "firework_count": 1
             },
@@ -9486,7 +9486,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB RWB Peony- 12 Shot",
               "firework_count": 1
             },
@@ -9495,7 +9495,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 15000,
+              "duration_ms": 2000,
               "firework_name": "FB RWB Peony- 12 Shot",
               "firework_count": 1
             },
@@ -9504,7 +9504,7 @@
               "location_id": "L8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -9513,7 +9513,7 @@
               "location_id": "R8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -9522,7 +9522,7 @@
               "location_id": "C8",
               "node_hostname": "",
               "relay_idx": 4,
-              "duration_ms": 20000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             }
@@ -9659,7 +9659,7 @@
         {
           "event_id": "evt_1786245383436_zaeu2",
           "event_num": "33.7",
-          "title": "LCR - TUBES Killer Willow – 5\" shells x80",
+          "title": "LCR - TUBES Killer Willow \u2013 5\" shells x80",
           "timestamp_offset_ms": 1239000,
           "desired_time_ms": 1239000,
           "fuse_delay_sec": 0,
@@ -9671,7 +9671,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9680,7 +9680,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9689,7 +9689,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9698,7 +9698,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9707,7 +9707,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9716,7 +9716,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9725,7 +9725,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9734,7 +9734,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9743,7 +9743,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9752,7 +9752,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9761,7 +9761,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9770,7 +9770,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9779,7 +9779,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9788,7 +9788,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9797,7 +9797,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9806,7 +9806,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9815,7 +9815,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9824,7 +9824,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9833,7 +9833,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9842,7 +9842,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9851,7 +9851,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9860,7 +9860,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9869,7 +9869,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9878,7 +9878,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9887,7 +9887,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9896,7 +9896,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9905,7 +9905,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9914,7 +9914,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9923,7 +9923,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9932,7 +9932,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9941,7 +9941,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9950,7 +9950,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9959,7 +9959,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9968,7 +9968,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9977,7 +9977,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9986,7 +9986,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9995,7 +9995,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10004,7 +10004,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10013,7 +10013,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10022,7 +10022,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10031,7 +10031,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10040,7 +10040,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10049,7 +10049,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10058,7 +10058,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10067,7 +10067,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10076,7 +10076,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10085,7 +10085,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10094,7 +10094,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10103,7 +10103,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10112,7 +10112,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10121,7 +10121,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10130,7 +10130,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10139,7 +10139,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10148,7 +10148,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10157,7 +10157,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10166,7 +10166,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10175,7 +10175,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10184,7 +10184,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10193,7 +10193,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10202,7 +10202,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10211,7 +10211,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10220,7 +10220,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10229,7 +10229,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10238,7 +10238,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10247,7 +10247,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10256,7 +10256,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10265,7 +10265,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10274,7 +10274,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10283,7 +10283,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10292,7 +10292,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10301,7 +10301,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10310,7 +10310,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10319,7 +10319,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10328,7 +10328,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10337,7 +10337,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10346,7 +10346,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10355,7 +10355,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10364,7 +10364,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10373,7 +10373,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10382,7 +10382,7 @@
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10391,7 +10391,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10400,7 +10400,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10409,7 +10409,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10418,7 +10418,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10427,7 +10427,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10436,7 +10436,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10445,7 +10445,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10454,7 +10454,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10463,7 +10463,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10472,7 +10472,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10481,7 +10481,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10490,7 +10490,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10499,7 +10499,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10508,7 +10508,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10517,7 +10517,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10526,7 +10526,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10535,7 +10535,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10544,7 +10544,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10553,7 +10553,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10562,7 +10562,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10571,7 +10571,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10580,7 +10580,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10589,7 +10589,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10598,7 +10598,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10607,7 +10607,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10616,7 +10616,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10625,7 +10625,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10634,7 +10634,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10643,7 +10643,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10652,7 +10652,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10661,7 +10661,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10670,7 +10670,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10679,7 +10679,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10688,7 +10688,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10697,7 +10697,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10706,7 +10706,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10715,7 +10715,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10724,7 +10724,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10733,7 +10733,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10742,7 +10742,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10751,7 +10751,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10760,7 +10760,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10769,7 +10769,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10778,7 +10778,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10787,7 +10787,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10796,7 +10796,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10805,7 +10805,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10814,7 +10814,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10823,7 +10823,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10832,7 +10832,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10841,7 +10841,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10850,7 +10850,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10859,7 +10859,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10868,7 +10868,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10877,7 +10877,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10886,7 +10886,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10895,7 +10895,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10904,7 +10904,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10913,7 +10913,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10922,7 +10922,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10931,7 +10931,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10940,7 +10940,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10949,7 +10949,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10958,7 +10958,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10967,7 +10967,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10976,7 +10976,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10985,7 +10985,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10994,7 +10994,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11003,7 +11003,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11012,7 +11012,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11021,7 +11021,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11030,7 +11030,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11039,7 +11039,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11048,7 +11048,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11057,7 +11057,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11066,7 +11066,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11075,7 +11075,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11084,7 +11084,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11093,7 +11093,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11102,7 +11102,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11111,7 +11111,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11120,7 +11120,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11129,7 +11129,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11138,7 +11138,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11147,7 +11147,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11156,7 +11156,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11165,7 +11165,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11174,7 +11174,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11183,7 +11183,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11192,7 +11192,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11201,7 +11201,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11210,7 +11210,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11219,7 +11219,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11228,7 +11228,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11237,7 +11237,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11246,7 +11246,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11255,7 +11255,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11264,7 +11264,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11273,7 +11273,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11282,7 +11282,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11291,7 +11291,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11300,7 +11300,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11309,7 +11309,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11318,7 +11318,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11327,7 +11327,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11336,7 +11336,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11345,7 +11345,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11354,7 +11354,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11363,7 +11363,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11372,7 +11372,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11381,7 +11381,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11390,7 +11390,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11399,7 +11399,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11408,7 +11408,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11417,7 +11417,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11426,7 +11426,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11435,7 +11435,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11444,7 +11444,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11453,7 +11453,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11462,7 +11462,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11471,7 +11471,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11480,7 +11480,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11489,7 +11489,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11498,7 +11498,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11507,7 +11507,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11516,7 +11516,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11525,7 +11525,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11534,7 +11534,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11543,7 +11543,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11552,7 +11552,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11561,7 +11561,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11570,7 +11570,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11579,7 +11579,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11588,7 +11588,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11597,7 +11597,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11606,7 +11606,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11615,7 +11615,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11624,7 +11624,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11633,7 +11633,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11642,7 +11642,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11651,7 +11651,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11660,7 +11660,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11669,7 +11669,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11678,7 +11678,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11687,7 +11687,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11696,7 +11696,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11705,7 +11705,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11714,7 +11714,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11723,7 +11723,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11732,7 +11732,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11741,7 +11741,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11750,7 +11750,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11759,7 +11759,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11768,7 +11768,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11777,7 +11777,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11786,7 +11786,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11795,7 +11795,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11804,7 +11804,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11813,7 +11813,7 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11822,13 +11822,13 @@
               "node_hostname": "",
               "relay_idx": 3,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -12605,7 +12605,7 @@
               "location_id": "L15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12614,7 +12614,7 @@
               "location_id": "L15",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12623,7 +12623,7 @@
               "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12632,7 +12632,7 @@
               "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12641,7 +12641,7 @@
               "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12650,7 +12650,7 @@
               "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12659,7 +12659,7 @@
               "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Red Comet W/Tail",
               "firework_count": 1
             },
@@ -12668,7 +12668,7 @@
               "location_id": "L15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -12677,7 +12677,7 @@
               "location_id": "L15",
               "node_hostname": "",
               "relay_idx": 2,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -12686,7 +12686,7 @@
               "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -12695,7 +12695,7 @@
               "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 1,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -12704,7 +12704,7 @@
               "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 6,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             },
@@ -12713,7 +12713,7 @@
               "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 0,
-              "duration_ms": 4000,
+              "duration_ms": 2000,
               "firework_name": "FB Blue Comet W/Tail",
               "firework_count": 1
             }
@@ -13715,7 +13715,7 @@
       "id": 28
     },
     {
-      "name": "America's Battery – 1000 Shot Saturn Missile Battery",
+      "name": "America's Battery \u2013 1000 Shot Saturn Missile Battery",
       "shots": 1000,
       "duration_s": 0,
       "description": "",
@@ -13864,7 +13864,7 @@
       "id": 37
     },
     {
-      "name": "Apocalypse Artillery – 4\" shells",
+      "name": "Apocalypse Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -14246,7 +14246,7 @@
       "id": 61
     },
     {
-      "name": "Carnage Artillery – 4\" shells",
+      "name": "Carnage Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -14404,7 +14404,7 @@
       "id": 71
     },
     {
-      "name": "Color Pearl – 48 Shot",
+      "name": "Color Pearl \u2013 48 Shot",
       "shots": 48,
       "duration_s": 22,
       "description": "",
@@ -14419,7 +14419,7 @@
       "id": 72
     },
     {
-      "name": "Color Pearl – 96 Shot",
+      "name": "Color Pearl \u2013 96 Shot",
       "shots": 96,
       "duration_s": 24,
       "description": "",
@@ -14578,7 +14578,7 @@
       "id": 82
     },
     {
-      "name": "Crackling Candle – 10 Ball",
+      "name": "Crackling Candle \u2013 10 Ball",
       "shots": 10,
       "duration_s": 0,
       "description": "",
@@ -15045,7 +15045,7 @@
       "id": 112
     },
     {
-      "name": "Edge of Oblivion – 6\" shells",
+      "name": "Edge of Oblivion \u2013 6\" shells",
       "shots": 18,
       "duration_s": 28,
       "description": "",
@@ -15219,7 +15219,7 @@
       "id": 123
     },
     {
-      "name": "FB Crackling Dragon Eggs – 12 shot",
+      "name": "FB Crackling Dragon Eggs \u2013 12 shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -15275,7 +15275,7 @@
       "id": 127
     },
     {
-      "name": "FB Purple Peony – 12 Shot",
+      "name": "FB Purple Peony \u2013 12 Shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -15332,7 +15332,7 @@
       "id": 131
     },
     {
-      "name": "FB Silver Peony – 12 shot",
+      "name": "FB Silver Peony \u2013 12 shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -16235,7 +16235,7 @@
       "id": 188
     },
     {
-      "name": "Killer Willow – 5\" shells",
+      "name": "Killer Willow \u2013 5\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -16533,7 +16533,7 @@
       "id": 207
     },
     {
-      "name": "MAX'D OUT SIX – 4\" shells",
+      "name": "MAX'D OUT SIX \u2013 4\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -16548,7 +16548,7 @@
       "id": 208
     },
     {
-      "name": "MAX'D OUT – 4\" shells",
+      "name": "MAX'D OUT \u2013 4\" shells",
       "shots": 18,
       "duration_s": 0,
       "description": "",
@@ -17141,7 +17141,7 @@
       "id": 246
     },
     {
-      "name": "Peacemaker Blister Pack – 4\" shells",
+      "name": "Peacemaker Blister Pack \u2013 4\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -17370,7 +17370,7 @@
       "id": 261
     },
     {
-      "name": "Profit Box : Bel Air – Super Selfie – Top Gun",
+      "name": "Profit Box : Bel Air \u2013 Super Selfie \u2013 Top Gun",
       "shots": 7,
       "duration_s": 15,
       "description": "",
@@ -18628,7 +18628,7 @@
       "id": 340
     },
     {
-      "name": "Texas Battery – 504 Shot Saturn Missile",
+      "name": "Texas Battery \u2013 504 Shot Saturn Missile",
       "shots": 504,
       "duration_s": 0,
       "description": "",
@@ -18690,7 +18690,7 @@
       "id": 344
     },
     {
-      "name": "The Assassin of Artillery – 5\" shells",
+      "name": "The Assassin of Artillery \u2013 5\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -18772,7 +18772,7 @@
       "id": 349
     },
     {
-      "name": "The Judge Artillery – 4\" shells",
+      "name": "The Judge Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -19077,7 +19077,7 @@
       "id": 368
     },
     {
-      "name": "Venom Artillery – 4\" shells",
+      "name": "Venom Artillery \u2013 4\" shells",
       "shots": 12,
       "duration_s": 0,
       "description": "",
@@ -19201,7 +19201,7 @@
       "id": 376
     },
     {
-      "name": "Wild Boar – 4\" shells",
+      "name": "Wild Boar \u2013 4\" shells",
       "shots": 18,
       "duration_s": 0,
       "description": "",
