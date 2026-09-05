@@ -13323,7 +13323,7 @@
     {
       "name": ".38 Special",
       "shots": 36,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13381,7 +13381,7 @@
     {
       "name": "100 Shot Saturn Missile Battery",
       "shots": 100,
-      "duration_s": 10,
+      "duration_s": 10.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -13416,7 +13416,7 @@
     {
       "name": "25 Gun Salute",
       "shots": 25,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -13432,7 +13432,7 @@
     {
       "name": "25 Shot Saturn  Missile Battery",
       "shots": 25,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -13447,7 +13447,7 @@
     {
       "name": "300 Shot Saturn Missile Battery",
       "shots": 300,
-      "duration_s": 50,
+      "duration_s": 50.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -13492,7 +13492,7 @@
     {
       "name": "4th Of July Cocktail",
       "shots": 30,
-      "duration_s": 13,
+      "duration_s": 13.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13508,7 +13508,7 @@
     {
       "name": "4th of July Independence Day",
       "shots": 36,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "New",
@@ -13553,7 +13553,7 @@
     {
       "name": "50 Star Storm",
       "shots": 50,
-      "duration_s": 36,
+      "duration_s": 36.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13572,7 +13572,7 @@
     {
       "name": "Aerial Attack",
       "shots": 25,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -13588,7 +13588,7 @@
     {
       "name": "Age Of Dragons",
       "shots": 16,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "200 gram cakes"
@@ -13602,7 +13602,7 @@
     {
       "name": "Agent Of Chaos",
       "shots": 24,
-      "duration_s": 50,
+      "duration_s": 50.0,
       "description": "",
       "categories": [
         "Hybrid Multi-Shots"
@@ -13616,7 +13616,7 @@
     {
       "name": "Air Power",
       "shots": 9,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -13633,7 +13633,7 @@
     {
       "name": "Air Supremacy",
       "shots": 25,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -13665,7 +13665,7 @@
     {
       "name": "All-Father",
       "shots": 9,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13680,7 +13680,7 @@
     {
       "name": "Amber Waves of Flame",
       "shots": 250,
-      "duration_s": 55,
+      "duration_s": 55.0,
       "description": "",
       "categories": [
         "New",
@@ -13699,7 +13699,7 @@
     {
       "name": "America First",
       "shots": 12,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13732,7 +13732,7 @@
     {
       "name": "America's Candle",
       "shots": 5,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Roman Candles",
@@ -13747,7 +13747,7 @@
     {
       "name": "American Arsenal",
       "shots": 100,
-      "duration_s": 52,
+      "duration_s": 52.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13766,7 +13766,7 @@
     {
       "name": "American Attitude",
       "shots": 36,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "New",
@@ -13784,7 +13784,7 @@
     {
       "name": "American Backroads",
       "shots": 25,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -13799,7 +13799,7 @@
     {
       "name": "American Gemstones",
       "shots": 72,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "New",
@@ -13817,7 +13817,7 @@
     {
       "name": "American Glory",
       "shots": 58,
-      "duration_s": 55,
+      "duration_s": 55.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -13834,7 +13834,7 @@
     {
       "name": "American Heart",
       "shots": 24,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13850,7 +13850,7 @@
     {
       "name": "American Made",
       "shots": 9,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13881,7 +13881,7 @@
     {
       "name": "Archangel",
       "shots": 12,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -13897,7 +13897,7 @@
     {
       "name": "Assassin",
       "shots": 9,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13913,7 +13913,7 @@
     {
       "name": "Atomizer",
       "shots": 9,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -13930,7 +13930,7 @@
     {
       "name": "Backroad Rebel",
       "shots": 24,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -13946,7 +13946,7 @@
     {
       "name": "Backstreet Diva",
       "shots": 112,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -13978,7 +13978,7 @@
     {
       "name": "Beach Nut",
       "shots": 16,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14012,7 +14012,7 @@
     {
       "name": "Bearing Arms",
       "shots": 16,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -14027,7 +14027,7 @@
     {
       "name": "Betty Rocket",
       "shots": 18,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14042,7 +14042,7 @@
     {
       "name": "Big Bad Wolf",
       "shots": 9,
-      "duration_s": 44,
+      "duration_s": 44.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14058,7 +14058,7 @@
     {
       "name": "Big Red",
       "shots": 36,
-      "duration_s": 48,
+      "duration_s": 48.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14074,7 +14074,7 @@
     {
       "name": "Black Hole Escape",
       "shots": 9,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14091,7 +14091,7 @@
     {
       "name": "Blazin Gun",
       "shots": 30,
-      "duration_s": 57,
+      "duration_s": 57.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14108,7 +14108,7 @@
     {
       "name": "Blown Away",
       "shots": 42,
-      "duration_s": 19,
+      "duration_s": 19.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -14123,7 +14123,7 @@
     {
       "name": "Born on the Bayou",
       "shots": 16,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14138,7 +14138,7 @@
     {
       "name": "Born to Ride",
       "shots": 16,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14154,7 +14154,7 @@
     {
       "name": "Boss Frog",
       "shots": 12,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14170,7 +14170,7 @@
     {
       "name": "Breaking Chains",
       "shots": 25,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "New",
@@ -14186,7 +14186,7 @@
     {
       "name": "Broadsword",
       "shots": 9,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14202,7 +14202,7 @@
     {
       "name": "Brute Force",
       "shots": 7,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14218,7 +14218,7 @@
     {
       "name": "Bull Whip",
       "shots": 5,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Roman Candles"
@@ -14232,7 +14232,7 @@
     {
       "name": "Card Tricks",
       "shots": 170,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14263,7 +14263,7 @@
     {
       "name": "Cat Fight",
       "shots": 9,
-      "duration_s": 17,
+      "duration_s": 17.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14278,7 +14278,7 @@
     {
       "name": "Cheers!",
       "shots": 27,
-      "duration_s": 54,
+      "duration_s": 54.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14294,7 +14294,7 @@
     {
       "name": "Cherry Drop",
       "shots": 25,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -14310,7 +14310,7 @@
     {
       "name": "Chillin' in America",
       "shots": 25,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "New",
@@ -14328,7 +14328,7 @@
     {
       "name": "Christmas Lights",
       "shots": 25,
-      "duration_s": 46,
+      "duration_s": 46.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14344,7 +14344,7 @@
     {
       "name": "Classic Intensity",
       "shots": 16,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14376,7 +14376,7 @@
     {
       "name": "Coco Loco",
       "shots": 9,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14391,7 +14391,7 @@
     {
       "name": "Coconut Grove Song",
       "shots": 19,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14406,7 +14406,7 @@
     {
       "name": "Color Pearl \u2013 48 Shot",
       "shots": 48,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14421,7 +14421,7 @@
     {
       "name": "Color Pearl \u2013 96 Shot",
       "shots": 96,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14436,7 +14436,7 @@
     {
       "name": "Color Rain",
       "shots": 16,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -14451,7 +14451,7 @@
     {
       "name": "Colorful Skies",
       "shots": 25,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14466,7 +14466,7 @@
     {
       "name": "Colossal Force",
       "shots": 9,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14499,7 +14499,7 @@
     {
       "name": "Cook it Up",
       "shots": 9,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14517,7 +14517,7 @@
     {
       "name": "Copper Blue",
       "shots": 16,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14550,7 +14550,7 @@
     {
       "name": "Cosmic Titan",
       "shots": 158,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14565,7 +14565,7 @@
     {
       "name": "Cowboy Up!",
       "shots": 16,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14609,7 +14609,7 @@
     {
       "name": "Crazy Cajun",
       "shots": 16,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14624,7 +14624,7 @@
     {
       "name": "Crazy Cat",
       "shots": 12,
-      "duration_s": 17,
+      "duration_s": 17.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14639,7 +14639,7 @@
     {
       "name": "Crossfire",
       "shots": 45,
-      "duration_s": 43,
+      "duration_s": 43.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14655,7 +14655,7 @@
     {
       "name": "Cruiser",
       "shots": 16,
-      "duration_s": 42,
+      "duration_s": 42.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14672,7 +14672,7 @@
     {
       "name": "Crusher",
       "shots": 16,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14688,7 +14688,7 @@
     {
       "name": "Cyber Strike",
       "shots": 30,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14704,7 +14704,7 @@
     {
       "name": "Cyber Vision",
       "shots": 41,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14719,7 +14719,7 @@
     {
       "name": "Dang It, Carl!!",
       "shots": 28,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14734,7 +14734,7 @@
     {
       "name": "Dawn Of Time",
       "shots": 37,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -14750,7 +14750,7 @@
     {
       "name": "Death By Stereo",
       "shots": 48,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14781,7 +14781,7 @@
     {
       "name": "Desert At Night",
       "shots": 7,
-      "duration_s": 9,
+      "duration_s": 9.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14796,7 +14796,7 @@
     {
       "name": "Detonation of Independence",
       "shots": 180,
-      "duration_s": 53,
+      "duration_s": 53.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14815,7 +14815,7 @@
     {
       "name": "Digital Vice",
       "shots": 30,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14831,7 +14831,7 @@
     {
       "name": "DJ Nights",
       "shots": 16,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14846,7 +14846,7 @@
     {
       "name": "Dogs Days of Summer",
       "shots": 16,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14861,7 +14861,7 @@
     {
       "name": "Don't Be Chicken",
       "shots": 25,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14876,7 +14876,7 @@
     {
       "name": "Doomsday Machine",
       "shots": 1,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -14937,7 +14937,7 @@
     {
       "name": "Double Tap",
       "shots": 25,
-      "duration_s": 60,
+      "duration_s": 60.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14953,7 +14953,7 @@
     {
       "name": "Double Team",
       "shots": 9,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -14968,7 +14968,7 @@
     {
       "name": "Drift Racer",
       "shots": 90,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -14983,7 +14983,7 @@
     {
       "name": "Duck And Cover",
       "shots": 68,
-      "duration_s": 12,
+      "duration_s": 12.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -14999,7 +14999,7 @@
     {
       "name": "Dumpster Fire",
       "shots": 24,
-      "duration_s": 41,
+      "duration_s": 41.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15014,7 +15014,7 @@
     {
       "name": "Eagle Command",
       "shots": 7,
-      "duration_s": 14,
+      "duration_s": 14.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15030,7 +15030,7 @@
     {
       "name": "Eagles Nest",
       "shots": 25,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15047,7 +15047,7 @@
     {
       "name": "Edge of Oblivion \u2013 6\" shells",
       "shots": 18,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "New",
@@ -15063,7 +15063,7 @@
     {
       "name": "El Toro",
       "shots": 9,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15079,7 +15079,7 @@
     {
       "name": "Eminent Domain",
       "shots": 19,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15094,7 +15094,7 @@
     {
       "name": "Enraged",
       "shots": 9,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15110,7 +15110,7 @@
     {
       "name": "Eye Candy",
       "shots": 8,
-      "duration_s": 17,
+      "duration_s": 17.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15125,7 +15125,7 @@
     {
       "name": "Eye in the Sky",
       "shots": 12,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15141,7 +15141,7 @@
     {
       "name": "F1 Outlaw",
       "shots": 9,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15157,7 +15157,7 @@
     {
       "name": "Faded Not Jaded",
       "shots": 25,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15172,7 +15172,7 @@
     {
       "name": "Fanfare of America",
       "shots": 90,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "New",
@@ -15191,7 +15191,7 @@
     {
       "name": "Fat & Sassy",
       "shots": 9,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15207,7 +15207,7 @@
     {
       "name": "FB Blue Comet W/Tail",
       "shots": 16,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15221,7 +15221,7 @@
     {
       "name": "FB Crackling Dragon Eggs \u2013 12 shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15235,7 +15235,7 @@
     {
       "name": "FB Gold Willow",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15249,7 +15249,7 @@
     {
       "name": "FB Golden Crown Waterfall",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15263,7 +15263,7 @@
     {
       "name": "FB Orange Peony- 12 Shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15277,7 +15277,7 @@
     {
       "name": "FB Purple Peony \u2013 12 Shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15291,7 +15291,7 @@
     {
       "name": "FB Red Comet W/Tail",
       "shots": 16,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15305,7 +15305,7 @@
     {
       "name": "FB Red Peony- 12 Shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15319,7 +15319,7 @@
     {
       "name": "FB RWB Peony- 12 Shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks",
@@ -15334,7 +15334,7 @@
     {
       "name": "FB Silver Peony \u2013 12 shot",
       "shots": 12,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Full Blown Fireworks"
@@ -15348,7 +15348,7 @@
     {
       "name": "Fire Assault",
       "shots": 25,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15365,7 +15365,7 @@
     {
       "name": "Fire Horse",
       "shots": 36,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15381,7 +15381,7 @@
     {
       "name": "Fire Of Battle",
       "shots": 23,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15398,7 +15398,7 @@
     {
       "name": "Fire over Water",
       "shots": 145,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15414,7 +15414,7 @@
     {
       "name": "Fire Up the 4th!",
       "shots": 100,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "New",
@@ -15433,7 +15433,7 @@
     {
       "name": "Firenado",
       "shots": 10,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "New",
@@ -15449,7 +15449,7 @@
     {
       "name": "Fireworks Are Awesome",
       "shots": 25,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15465,7 +15465,7 @@
     {
       "name": "Fireworks Spectacular",
       "shots": 36,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15481,7 +15481,7 @@
     {
       "name": "Fists of Independence",
       "shots": 16,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "New",
@@ -15498,7 +15498,7 @@
     {
       "name": "Fizz Off!",
       "shots": 25,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15513,7 +15513,7 @@
     {
       "name": "Flying Firecrackers",
       "shots": 81,
-      "duration_s": 43,
+      "duration_s": 43.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15528,7 +15528,7 @@
     {
       "name": "For Our Flag",
       "shots": 16,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15543,7 +15543,7 @@
     {
       "name": "Forged of Fire",
       "shots": 8,
-      "duration_s": 21,
+      "duration_s": 21.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15559,7 +15559,7 @@
     {
       "name": "Founder's Vision",
       "shots": 128,
-      "duration_s": 57,
+      "duration_s": 57.0,
       "description": "",
       "categories": [
         "New",
@@ -15578,7 +15578,7 @@
     {
       "name": "Free Ride",
       "shots": 9,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15594,7 +15594,7 @@
     {
       "name": "Freebird",
       "shots": 28,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15610,7 +15610,7 @@
     {
       "name": "Freedom Isn't Free",
       "shots": 24,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15628,7 +15628,7 @@
     {
       "name": "Freedom Stick",
       "shots": 135,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "New",
@@ -15645,7 +15645,7 @@
     {
       "name": "Freedom's Wings",
       "shots": 12,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -15661,7 +15661,7 @@
     {
       "name": "French Quarter Frenzy",
       "shots": 50,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -15677,7 +15677,7 @@
     {
       "name": "From the Deep",
       "shots": 9,
-      "duration_s": 12,
+      "duration_s": 12.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15692,7 +15692,7 @@
     {
       "name": "Future All American",
       "shots": 21,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15709,7 +15709,7 @@
     {
       "name": "Galaxy Quest",
       "shots": 90,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15725,7 +15725,7 @@
     {
       "name": "Gambler",
       "shots": 5,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "Roman Candles"
@@ -15739,7 +15739,7 @@
     {
       "name": "GameFish",
       "shots": 15,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15754,7 +15754,7 @@
     {
       "name": "Garden in Spring",
       "shots": 7,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15769,7 +15769,7 @@
     {
       "name": "Ghost Rail",
       "shots": 12,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "Hybrid Multi-Shots"
@@ -15783,7 +15783,7 @@
     {
       "name": "Go Time",
       "shots": 12,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15801,7 +15801,7 @@
     {
       "name": "God Bless Boomerica!",
       "shots": 100,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "New",
@@ -15820,7 +15820,7 @@
     {
       "name": "Goddess",
       "shots": 16,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15835,7 +15835,7 @@
     {
       "name": "Golden Fury",
       "shots": 25,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15851,7 +15851,7 @@
     {
       "name": "Golden Girl",
       "shots": 180,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15882,7 +15882,7 @@
     {
       "name": "Gun Fighter",
       "shots": 10,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "Roman Candles"
@@ -15913,7 +15913,7 @@
     {
       "name": "Hallow's Eve",
       "shots": 25,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -15959,7 +15959,7 @@
     {
       "name": "Hard Hitter",
       "shots": 16,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -15974,7 +15974,7 @@
     {
       "name": "Haulin' Ass",
       "shots": 125,
-      "duration_s": 11,
+      "duration_s": 11.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -15990,7 +15990,7 @@
     {
       "name": "Hell Fire",
       "shots": 25,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16006,7 +16006,7 @@
     {
       "name": "High Velocity",
       "shots": 25,
-      "duration_s": 21,
+      "duration_s": 21.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16036,7 +16036,7 @@
     {
       "name": "Holy Moly",
       "shots": 12,
-      "duration_s": 45,
+      "duration_s": 45.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16052,7 +16052,7 @@
     {
       "name": "Horsepower",
       "shots": 45,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16068,7 +16068,7 @@
     {
       "name": "Hound Dog Blues",
       "shots": 80,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16083,7 +16083,7 @@
     {
       "name": "Howling Duel",
       "shots": 25,
-      "duration_s": 46,
+      "duration_s": 46.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16099,7 +16099,7 @@
     {
       "name": "Huntress",
       "shots": 9,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -16114,7 +16114,7 @@
     {
       "name": "Hyped Up",
       "shots": 160,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16130,7 +16130,7 @@
     {
       "name": "Hyper II",
       "shots": 96,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16145,7 +16145,7 @@
     {
       "name": "Hypnotized",
       "shots": 16,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16160,7 +16160,7 @@
     {
       "name": "In My Sights",
       "shots": 24,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16175,7 +16175,7 @@
     {
       "name": "In Tribute",
       "shots": 16,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16191,7 +16191,7 @@
     {
       "name": "Jet Fire",
       "shots": 25,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -16207,7 +16207,7 @@
     {
       "name": "Jumbo Strobes",
       "shots": 3,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "Novelties"
@@ -16221,7 +16221,7 @@
     {
       "name": "Just Light It",
       "shots": 19,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16282,7 +16282,7 @@
     {
       "name": "Legendary Beast",
       "shots": 16,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16297,7 +16297,7 @@
     {
       "name": "Let Freedom Ring",
       "shots": 36,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16313,7 +16313,7 @@
     {
       "name": "Let's Go Bro!",
       "shots": 126,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16330,7 +16330,7 @@
     {
       "name": "Let's Rumble!",
       "shots": 207,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16346,7 +16346,7 @@
     {
       "name": "Liberty Belle",
       "shots": 20,
-      "duration_s": 49,
+      "duration_s": 49.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16362,7 +16362,7 @@
     {
       "name": "Liberty Celebration",
       "shots": 36,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "New",
@@ -16380,7 +16380,7 @@
     {
       "name": "Little Nemo",
       "shots": 19,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16395,7 +16395,7 @@
     {
       "name": "Living It Up",
       "shots": 36,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16411,7 +16411,7 @@
     {
       "name": "Loaded Gun",
       "shots": 30,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -16442,7 +16442,7 @@
     {
       "name": "Loyal to All",
       "shots": 25,
-      "duration_s": 46,
+      "duration_s": 46.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16457,7 +16457,7 @@
     {
       "name": "Mad Crackers",
       "shots": 180,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "New",
@@ -16473,7 +16473,7 @@
     {
       "name": "Mad Maxine",
       "shots": 25,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16489,7 +16489,7 @@
     {
       "name": "Made to Order",
       "shots": 16,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -16504,7 +16504,7 @@
     {
       "name": "Magical Barrage",
       "shots": 100,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16519,7 +16519,7 @@
     {
       "name": "Masquerade",
       "shots": 16,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -16565,7 +16565,7 @@
     {
       "name": "Mechanized",
       "shots": 25,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16599,7 +16599,7 @@
     {
       "name": "Metal Monster",
       "shots": 25,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16614,7 +16614,7 @@
     {
       "name": "Mighty Cobra",
       "shots": 19,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16643,7 +16643,7 @@
     {
       "name": "Miss-Direction",
       "shots": 42,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -16659,7 +16659,7 @@
     {
       "name": "Mondays Suck",
       "shots": 16,
-      "duration_s": 19,
+      "duration_s": 19.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16674,7 +16674,7 @@
     {
       "name": "Monkey Business",
       "shots": 10,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16689,7 +16689,7 @@
     {
       "name": "Monstrous",
       "shots": 10,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16704,7 +16704,7 @@
     {
       "name": "Moto Madness",
       "shots": 7,
-      "duration_s": 13,
+      "duration_s": 13.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16719,7 +16719,7 @@
     {
       "name": "Muscle Car Classics",
       "shots": 16,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16749,7 +16749,7 @@
     {
       "name": "Neighborhood Party",
       "shots": 50,
-      "duration_s": 51,
+      "duration_s": 51.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16764,7 +16764,7 @@
     {
       "name": "Neon Streak",
       "shots": 36,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -16779,7 +16779,7 @@
     {
       "name": "Night Race",
       "shots": 16,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16794,7 +16794,7 @@
     {
       "name": "Night Raven",
       "shots": 38,
-      "duration_s": 44,
+      "duration_s": 44.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16810,7 +16810,7 @@
     {
       "name": "Night Shadow",
       "shots": 22,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16826,7 +16826,7 @@
     {
       "name": "No Trespassing",
       "shots": 16,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16841,7 +16841,7 @@
     {
       "name": "Nude Beach",
       "shots": 18,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16857,7 +16857,7 @@
     {
       "name": "Nut Buster",
       "shots": 10,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -16874,7 +16874,7 @@
     {
       "name": "One Jacked Quacker",
       "shots": 30,
-      "duration_s": 56,
+      "duration_s": 56.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16889,7 +16889,7 @@
     {
       "name": "Open Carry",
       "shots": 25,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -16905,7 +16905,7 @@
     {
       "name": "Orange Blossom Special",
       "shots": 80,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "New",
@@ -16921,7 +16921,7 @@
     {
       "name": "Original Gangster",
       "shots": 16,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -16936,7 +16936,7 @@
     {
       "name": "Our Baby Reveal",
       "shots": 12,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -16966,7 +16966,7 @@
     {
       "name": "Outlaw Bullets",
       "shots": 9,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -16999,7 +16999,7 @@
     {
       "name": "Outlaw Trucker",
       "shots": 16,
-      "duration_s": 49,
+      "duration_s": 49.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17015,7 +17015,7 @@
     {
       "name": "Outlaw Woman",
       "shots": 36,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17031,7 +17031,7 @@
     {
       "name": "Overlord",
       "shots": 25,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17047,7 +17047,7 @@
     {
       "name": "Painted Lady",
       "shots": 24,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17062,7 +17062,7 @@
     {
       "name": "Pardi Gras",
       "shots": 15,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "Hybrid Multi-Shots"
@@ -17092,7 +17092,7 @@
     {
       "name": "Patriot Arms",
       "shots": 25,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17108,7 +17108,7 @@
     {
       "name": "Patriot Reign",
       "shots": 64,
-      "duration_s": 52,
+      "duration_s": 52.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17127,7 +17127,7 @@
     {
       "name": "Patriot Torch",
       "shots": 120,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17159,7 +17159,7 @@
     {
       "name": "Pirates Code",
       "shots": 16,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17175,7 +17175,7 @@
     {
       "name": "Playing For Keeps",
       "shots": 25,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17191,7 +17191,7 @@
     {
       "name": "Polar Divide",
       "shots": 9,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17207,7 +17207,7 @@
     {
       "name": "Polar Iced",
       "shots": 18,
-      "duration_s": 17,
+      "duration_s": 17.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -17222,7 +17222,7 @@
     {
       "name": "Pool Party",
       "shots": 16,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17237,7 +17237,7 @@
     {
       "name": "Poppin' for the People",
       "shots": 25,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "New",
@@ -17270,7 +17270,7 @@
     {
       "name": "Powerball 140 shot",
       "shots": 140,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17372,7 +17372,7 @@
     {
       "name": "Profit Box : Bel Air \u2013 Super Selfie \u2013 Top Gun",
       "shots": 7,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17387,7 +17387,7 @@
     {
       "name": "Psychedelic Jellyfish",
       "shots": 9,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -17403,7 +17403,7 @@
     {
       "name": "Psycho Therapy",
       "shots": 49,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -17419,7 +17419,7 @@
     {
       "name": "Pullin G's",
       "shots": 9,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17435,7 +17435,7 @@
     {
       "name": "Pure Country",
       "shots": 22,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "New",
@@ -17451,7 +17451,7 @@
     {
       "name": "Pyro Darts",
       "shots": 36,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17466,7 +17466,7 @@
     {
       "name": "Pyro Dynamics",
       "shots": 220,
-      "duration_s": 19,
+      "duration_s": 19.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -17482,7 +17482,7 @@
     {
       "name": "Pyro Gal",
       "shots": 12,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17498,7 +17498,7 @@
     {
       "name": "Pyro Lips",
       "shots": 15,
-      "duration_s": 12,
+      "duration_s": 12.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17513,7 +17513,7 @@
     {
       "name": "Pyro Maestro",
       "shots": 24,
-      "duration_s": 55,
+      "duration_s": 55.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17529,7 +17529,7 @@
     {
       "name": "Pyro Sunset",
       "shots": 30,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17561,7 +17561,7 @@
     {
       "name": "Race Maker",
       "shots": 15,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17591,7 +17591,7 @@
     {
       "name": "Ravaged",
       "shots": 30,
-      "duration_s": 21,
+      "duration_s": 21.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17607,7 +17607,7 @@
     {
       "name": "Real Wild One",
       "shots": 25,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17624,7 +17624,7 @@
     {
       "name": "Red Moon Rising",
       "shots": 83,
-      "duration_s": 52,
+      "duration_s": 52.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17639,7 +17639,7 @@
     {
       "name": "Red Saber",
       "shots": 80,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17668,7 +17668,7 @@
     {
       "name": "Reel Catch",
       "shots": 53,
-      "duration_s": 49,
+      "duration_s": 49.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17684,7 +17684,7 @@
     {
       "name": "Revolutionary Roar",
       "shots": 88,
-      "duration_s": 47,
+      "duration_s": 47.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17703,7 +17703,7 @@
     {
       "name": "Revolver",
       "shots": 9,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17719,7 +17719,7 @@
     {
       "name": "Rifle",
       "shots": 9,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17735,7 +17735,7 @@
     {
       "name": "Righteous Warrior",
       "shots": 9,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17767,7 +17767,7 @@
     {
       "name": "Ring the Bell",
       "shots": 10,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "New",
@@ -17784,7 +17784,7 @@
     {
       "name": "Rise Of Power",
       "shots": 12,
-      "duration_s": 17,
+      "duration_s": 17.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -17800,7 +17800,7 @@
     {
       "name": "Road Construction",
       "shots": 7,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17815,7 +17815,7 @@
     {
       "name": "Roadshow",
       "shots": 25,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -17831,7 +17831,7 @@
     {
       "name": "Rockin' The Free World",
       "shots": 30,
-      "duration_s": 21,
+      "duration_s": 21.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17847,7 +17847,7 @@
     {
       "name": "Roping",
       "shots": 9,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17863,7 +17863,7 @@
     {
       "name": "Roswell Reborn",
       "shots": 20,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17880,7 +17880,7 @@
     {
       "name": "Rumbling Bumble",
       "shots": 0,
-      "duration_s": 50,
+      "duration_s": 50.0,
       "description": "",
       "categories": [
         "New",
@@ -17897,7 +17897,7 @@
     {
       "name": "Rustlers Reunion",
       "shots": 16,
-      "duration_s": 15,
+      "duration_s": 15.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17912,7 +17912,7 @@
     {
       "name": "Sack Race",
       "shots": 37,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -17959,7 +17959,7 @@
     {
       "name": "Season of Change",
       "shots": 9,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -17975,7 +17975,7 @@
     {
       "name": "Second Amendment",
       "shots": 42,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -17991,7 +17991,7 @@
     {
       "name": "Semi Auto",
       "shots": 9,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18022,7 +18022,7 @@
     {
       "name": "Shock Trooper",
       "shots": 9,
-      "duration_s": 45,
+      "duration_s": 45.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18040,7 +18040,7 @@
     {
       "name": "Shotgun",
       "shots": 9,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18056,7 +18056,7 @@
     {
       "name": "Show Of Force",
       "shots": 13,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -18071,7 +18071,7 @@
     {
       "name": "Showbox",
       "shots": 25,
-      "duration_s": 21,
+      "duration_s": 21.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18087,7 +18087,7 @@
     {
       "name": "Showstopper",
       "shots": 20,
-      "duration_s": 16,
+      "duration_s": 16.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18103,7 +18103,7 @@
     {
       "name": "Silver Beauty",
       "shots": 24,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18119,7 +18119,7 @@
     {
       "name": "Sinister",
       "shots": 10,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18135,7 +18135,7 @@
     {
       "name": "Sky Shooter",
       "shots": 15,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18151,7 +18151,7 @@
     {
       "name": "Skyfire",
       "shots": 278,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -18167,7 +18167,7 @@
     {
       "name": "Slingshot",
       "shots": 9,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18183,7 +18183,7 @@
     {
       "name": "Smoke of Liberty",
       "shots": 135,
-      "duration_s": 14,
+      "duration_s": 14.0,
       "description": "",
       "categories": [
         "New",
@@ -18202,7 +18202,7 @@
     {
       "name": "Smooth Criminal",
       "shots": 9,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18218,7 +18218,7 @@
     {
       "name": "Sniper Shot",
       "shots": 23,
-      "duration_s": 48,
+      "duration_s": 48.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18234,7 +18234,7 @@
     {
       "name": "Snub Nose 38 Roman Candle",
       "shots": 10,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "Roman Candles"
@@ -18248,7 +18248,7 @@
     {
       "name": "Sons of Thunder and Liberty",
       "shots": 100,
-      "duration_s": 41,
+      "duration_s": 41.0,
       "description": "",
       "categories": [
         "New",
@@ -18267,7 +18267,7 @@
     {
       "name": "Sorcerer's Stone",
       "shots": 56,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18282,7 +18282,7 @@
     {
       "name": "Southern Comfort",
       "shots": 49,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18298,7 +18298,7 @@
     {
       "name": "Southern Storm",
       "shots": 25,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18313,7 +18313,7 @@
     {
       "name": "Spark of Rebellion",
       "shots": 100,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18331,7 +18331,7 @@
     {
       "name": "Spartan",
       "shots": 25,
-      "duration_s": 19,
+      "duration_s": 19.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18347,7 +18347,7 @@
     {
       "name": "Speedshow",
       "shots": 25,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18363,7 +18363,7 @@
     {
       "name": "Staff of Ra",
       "shots": 10,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "Roman Candles"
@@ -18377,7 +18377,7 @@
     {
       "name": "Standing United",
       "shots": 25,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18392,7 +18392,7 @@
     {
       "name": "Star Fighter",
       "shots": 20,
-      "duration_s": 36,
+      "duration_s": 36.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18408,7 +18408,7 @@
     {
       "name": "Star Racer",
       "shots": 57,
-      "duration_s": 39,
+      "duration_s": 39.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -18423,7 +18423,7 @@
     {
       "name": "Star Spangled Smackdown",
       "shots": 100,
-      "duration_s": 42,
+      "duration_s": 42.0,
       "description": "",
       "categories": [
         "New",
@@ -18442,7 +18442,7 @@
     {
       "name": "Stars and Stripes",
       "shots": 25,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18457,7 +18457,7 @@
     {
       "name": "Steel Fury",
       "shots": 33,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18473,7 +18473,7 @@
     {
       "name": "Stereophonic",
       "shots": 25,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18489,7 +18489,7 @@
     {
       "name": "Stone Breaker",
       "shots": 9,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18505,7 +18505,7 @@
     {
       "name": "Storm Chaser",
       "shots": 14,
-      "duration_s": 34,
+      "duration_s": 34.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -18521,7 +18521,7 @@
     {
       "name": "Street Outlaw",
       "shots": 25,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18537,7 +18537,7 @@
     {
       "name": "Super Beast",
       "shots": 9,
-      "duration_s": 43,
+      "duration_s": 43.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -18553,7 +18553,7 @@
     {
       "name": "Super Charged",
       "shots": 16,
-      "duration_s": 37,
+      "duration_s": 37.0,
       "description": "",
       "categories": [
         "Multi Shot Cakes",
@@ -18568,7 +18568,7 @@
     {
       "name": "Surfer Girl",
       "shots": 30,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18583,7 +18583,7 @@
     {
       "name": "Swordplay",
       "shots": 18,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18598,7 +18598,7 @@
     {
       "name": "Talk to the Beak",
       "shots": 30,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18614,7 +18614,7 @@
     {
       "name": "Taste The Rainbow",
       "shots": 115,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -18659,7 +18659,7 @@
     {
       "name": "Texas Rooter",
       "shots": 25,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18707,7 +18707,7 @@
     {
       "name": "The Dude",
       "shots": 16,
-      "duration_s": 32,
+      "duration_s": 32.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18723,7 +18723,7 @@
     {
       "name": "The Eagle's Scream",
       "shots": 50,
-      "duration_s": 27,
+      "duration_s": 27.0,
       "description": "",
       "categories": [
         "New",
@@ -18758,7 +18758,7 @@
     {
       "name": "The Hammer",
       "shots": 24,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18789,7 +18789,7 @@
     {
       "name": "The Protector",
       "shots": 9,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18805,7 +18805,7 @@
     {
       "name": "The United States Salute to 250!",
       "shots": 16,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "New",
@@ -18842,7 +18842,7 @@
     {
       "name": "Titanium Fire",
       "shots": 100,
-      "duration_s": 19,
+      "duration_s": 19.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -18857,7 +18857,7 @@
     {
       "name": "Tommy Girl",
       "shots": 25,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -18873,7 +18873,7 @@
     {
       "name": "Topping Out",
       "shots": 23,
-      "duration_s": 24,
+      "duration_s": 24.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18889,7 +18889,7 @@
     {
       "name": "Trigger Pull",
       "shots": 9,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -18920,7 +18920,7 @@
     {
       "name": "Tropical Chaos",
       "shots": 92,
-      "duration_s": 23,
+      "duration_s": 23.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -18936,14 +18936,14 @@
     {
       "name": "True Rebel",
       "shots": 15,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
         "500 gram cakes",
         "Multi Shot Cakes"
       ],
-      "wholesaler_link": "https://www.redrhinofireworks.com/firework/True-rebel/",
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/true-rebel/",
       "size": "500g",
       "shape": "Fan",
       "type": "Cake",
@@ -18952,7 +18952,7 @@
     {
       "name": "Tuned Up",
       "shots": 29,
-      "duration_s": 53,
+      "duration_s": 53.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -18997,7 +18997,7 @@
     {
       "name": "Universal Darkness",
       "shots": 12,
-      "duration_s": 33,
+      "duration_s": 33.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19014,7 +19014,7 @@
     {
       "name": "Urban Jedi",
       "shots": 16,
-      "duration_s": 18,
+      "duration_s": 18.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -19029,7 +19029,7 @@
     {
       "name": "USA! USA!",
       "shots": 9,
-      "duration_s": 40,
+      "duration_s": 40.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19047,7 +19047,7 @@
     {
       "name": "V-8 Redline",
       "shots": 25,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -19063,7 +19063,7 @@
     {
       "name": "Vacation Destination",
       "shots": 24,
-      "duration_s": 41,
+      "duration_s": 41.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19094,7 +19094,7 @@
     {
       "name": "Walk the Line",
       "shots": 49,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -19110,7 +19110,7 @@
     {
       "name": "War Paint",
       "shots": 42,
-      "duration_s": 38,
+      "duration_s": 38.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19126,7 +19126,7 @@
     {
       "name": "Warrior's Realm",
       "shots": 9,
-      "duration_s": 28,
+      "duration_s": 28.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -19141,7 +19141,7 @@
     {
       "name": "Whistlin' Dixie",
       "shots": 42,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "500 gram fan cakes",
@@ -19157,7 +19157,7 @@
     {
       "name": "White Stag",
       "shots": 9,
-      "duration_s": 30,
+      "duration_s": 30.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19173,7 +19173,7 @@
     {
       "name": "White Tiger",
       "shots": 9,
-      "duration_s": 10,
+      "duration_s": 10.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -19188,7 +19188,7 @@
     {
       "name": "Widows Kiss",
       "shots": 25,
-      "duration_s": 35,
+      "duration_s": 35.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -19232,7 +19232,7 @@
     {
       "name": "Willow Maker",
       "shots": 12,
-      "duration_s": 44,
+      "duration_s": 44.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19248,7 +19248,7 @@
     {
       "name": "Winner's Seat",
       "shots": 12,
-      "duration_s": 26,
+      "duration_s": 26.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19264,7 +19264,7 @@
     {
       "name": "Witch Blade",
       "shots": 25,
-      "duration_s": 22,
+      "duration_s": 22.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19280,7 +19280,7 @@
     {
       "name": "Wooly Bully",
       "shots": 16,
-      "duration_s": 31,
+      "duration_s": 31.0,
       "description": "",
       "categories": [
         "500 gram cakes",
@@ -19295,7 +19295,7 @@
     {
       "name": "Xtreme Energy",
       "shots": 9,
-      "duration_s": 36,
+      "duration_s": 36.0,
       "description": "",
       "categories": [
         "500 gram 3&quot; Cakes",
@@ -19312,7 +19312,7 @@
     {
       "name": "Yo Vito!",
       "shots": 16,
-      "duration_s": 20,
+      "duration_s": 20.0,
       "description": "",
       "categories": [
         "200 gram cakes",
@@ -19327,7 +19327,7 @@
     {
       "name": "Zeroed In",
       "shots": 25,
-      "duration_s": 29,
+      "duration_s": 29.0,
       "description": "",
       "categories": [
         "500 gram straight up cakes",
@@ -19343,7 +19343,7 @@
     {
       "name": "Flood Red",
       "shots": 25,
-      "duration_s": 25,
+      "duration_s": 25.0,
       "description": "Red tails to red stars and silver glitter. Fan cake by Brothers Pyrotechnics.",
       "categories": [
         "500 gram cakes",
