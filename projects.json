@@ -6645,6 +6645,15 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "right",
+              "location_id": "R10",
+              "node_hostname": "",
+              "relay_idx": 5,
+              "duration_ms": 55000,
+              "firework_name": "Amber Waves of Flame",
+              "firework_count": 1
+            },
+            {
               "field": "left",
               "location_id": "L10",
               "node_hostname": "",
@@ -6656,15 +6665,6 @@
             {
               "field": "center",
               "location_id": "C10",
-              "node_hostname": "",
-              "relay_idx": 4,
-              "duration_ms": 55000,
-              "firework_name": "Amber Waves of Flame",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R10",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 55000,
@@ -6717,11 +6717,11 @@
                 ""
               ],
               "right_relay_list": [
-                4
+                5
               ],
               "right_pallet": "R10",
               "right_board": "",
-              "right_relay": 4
+              "right_relay": 5
             }
           ]
         },
@@ -13222,7 +13222,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:57:28.930Z"
+      "lastEdited": "2026-09-05T16:59:17.682Z"
     },
     {
       "id": "proj_1787843867160",
