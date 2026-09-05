@@ -7870,7 +7870,7 @@
               "field": "left",
               "location_id": "L8",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 15000,
               "firework_name": "FB Purple Peony – 12 Shot",
               "firework_count": 1
@@ -7879,7 +7879,7 @@
               "field": "center",
               "location_id": "C8",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 15000,
               "firework_name": "FB Silver Peony – 12 shot",
               "firework_count": 1
@@ -7888,7 +7888,7 @@
               "field": "right",
               "location_id": "R8",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 15000,
               "firework_name": "FB Orange Peony- 12 Shot",
               "firework_count": 1
@@ -7915,11 +7915,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                2
               ],
               "left_pallet": "L8",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 2,
               "center_board": "",
               "center_board_list": [
                 ""
@@ -7949,11 +7949,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                2
               ],
               "center_pallet": "C8",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 2,
               "left_board": "",
               "left_board_list": [
                 ""
@@ -7983,11 +7983,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                2
               ],
               "right_pallet": "R8",
               "right_board": "",
-              "right_relay": -1,
+              "right_relay": 2,
               "left_board": "",
               "left_board_list": [
                 ""
@@ -8009,29 +8009,29 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "right",
-              "location_id": "R4",
+              "field": "left",
+              "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 5,
+              "duration_ms": 4000,
               "firework_name": "FB Crackling Dragon Eggs – 12 shot",
               "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "node_hostname": "",
+              "relay_idx": 5,
+              "duration_ms": 4000,
               "firework_name": "FB Crackling Dragon Eggs – 12 shot",
               "firework_count": 1
             },
             {
-              "field": "left",
-              "location_id": "L4",
+              "field": "right",
+              "location_id": "R4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 5,
+              "duration_ms": 4000,
               "firework_name": "FB Crackling Dragon Eggs – 12 shot",
               "firework_count": 1
             }
@@ -8058,21 +8058,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 5,
               "right_relay_list": [
-                -1
+                5
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 5,
               "center_relay_list": [
-                -1
+                5
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -8082,9 +8082,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 5,
               "left_relay_list": [
-                -1
+                5
               ]
             }
           ]
@@ -13222,7 +13222,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:53:02.562Z"
+      "lastEdited": "2026-09-05T16:53:21.032Z"
     },
     {
       "id": "proj_1787843867160",
