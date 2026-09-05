@@ -12966,6 +12966,38 @@
           "assigned_node": null
         },
         {
+          "location_id": "C13",
+          "x_coordinate": 10,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
+        },
+        {
+          "location_id": "C14",
+          "x_coordinate": 12,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
+        },
+        {
+          "location_id": "C15",
+          "x_coordinate": 10,
+          "y_coordinate": 6,
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
+        },
+        {
+          "location_id": "C16",
+          "x_coordinate": 12,
+          "y_coordinate": 6,
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
+        },
+        {
           "location_id": "R1",
           "x_coordinate": 15,
           "y_coordinate": 3,
@@ -13222,7 +13254,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T19:15:41.460Z"
+      "lastEdited": "2026-09-05T19:25:57.730Z"
     },
     {
       "id": "proj_1787843867160",
