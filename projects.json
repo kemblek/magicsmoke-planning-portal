@@ -2989,7 +2989,7 @@
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 29000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
@@ -2997,8 +2997,8 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 0,
               "duration_ms": 29000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
@@ -3007,7 +3007,7 @@
               "field": "right",
               "location_id": "R4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 29000,
               "firework_name": "Pyro Gal",
               "firework_count": 1
@@ -3016,7 +3016,7 @@
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 34000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
@@ -3024,8 +3024,8 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 0,
               "duration_ms": 34000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
@@ -3034,7 +3034,7 @@
               "field": "right",
               "location_id": "R4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 34000,
               "firework_name": "Death By Stereo",
               "firework_count": 1
@@ -3043,7 +3043,7 @@
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
@@ -3051,8 +3051,8 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
@@ -3061,7 +3061,7 @@
               "field": "right",
               "location_id": "R4",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Let Freedom Ring",
               "firework_count": 1
@@ -3088,23 +3088,23 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L4",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 0,
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
               "center_relay_list": [
-                -1
+                0
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
-              "center_relay": -1,
+              "center_board": "",
+              "center_relay": 0,
               "right_pallet_list": [
                 "R4"
               ],
@@ -3112,11 +3112,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R4",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             },
             {
               "firework_name": "Death By Stereo",
@@ -3138,23 +3138,23 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L4",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 0,
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
               "center_relay_list": [
-                -1
+                0
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
-              "center_relay": -1,
+              "center_board": "",
+              "center_relay": 0,
               "right_pallet_list": [
                 "R4"
               ],
@@ -3162,11 +3162,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R4",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             },
             {
               "firework_name": "Let Freedom Ring",
@@ -3188,23 +3188,23 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L4",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 0,
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
               "center_relay_list": [
-                -1
+                0
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
-              "center_relay": -1,
+              "center_board": "",
+              "center_relay": 0,
               "right_pallet_list": [
                 "R4"
               ],
@@ -3212,11 +3212,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R4",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             }
           ]
         },
@@ -12963,7 +12963,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:39:12.800Z"
+      "lastEdited": "2026-09-05T16:39:29.003Z"
     },
     {
       "id": "proj_1787843867160",
