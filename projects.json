@@ -1493,9 +1493,10 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "center",
               "location_id": "C10",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 6,
               "duration_ms": 4000,
               "firework_name": "FB Crackling Dragon Eggs – 12 shot",
               "firework_count": 1
@@ -1522,11 +1523,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                6
               ],
               "center_pallet": "C10",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 6,
               "left_board": "",
               "left_board_list": [
                 ""
@@ -12898,7 +12899,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:23:02.247Z"
+      "lastEdited": "2026-09-05T16:23:11.967Z"
     },
     {
       "id": "proj_1787843867160",
