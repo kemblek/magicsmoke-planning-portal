@@ -113,7 +113,11 @@
               "left_board": "",
               "left_relay": 0,
               "center_pallet_list": [],
-              "center_board_list": [],
+              "center_board_list": [
+                "",
+                "",
+                ""
+              ],
               "center_relay_list": [],
               "center_pallet": "",
               "center_board": "",
@@ -158,7 +162,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
               "firework_name": "Loaded Gun",
@@ -190,7 +194,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
               "firework_name": "Future All American",
@@ -198,7 +202,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
               "firework_name": "Future All American",
@@ -251,13 +255,13 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
                 "R1"
@@ -305,15 +309,15 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos",
-                "PorqueNoLosDos"
+                "",
+                ""
               ],
               "center_relay_list": [
                 -1,
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
                 "R1",
@@ -360,7 +364,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 41000,
               "firework_name": "Dumpster Fire",
@@ -417,13 +421,13 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1
             }
           ]
@@ -470,6 +474,14 @@
               "left_relay": 0,
               "left_relay_list": [
                 -1
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
               ]
             }
           ]
@@ -516,6 +528,14 @@
               "right_relay": 0,
               "right_relay_list": [
                 -1
+              ],
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
               ]
             }
           ]
@@ -531,7 +551,7 @@
           "relays": [
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
               "firework_name": "Smoke of Liberty",
@@ -556,14 +576,22 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
-              "center_relay": -1
+              "center_board": "",
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -594,7 +622,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 26000,
               "firework_name": "Freedom Isn't Free",
@@ -651,13 +679,13 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1
             }
           ]
@@ -681,7 +709,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
               "firework_name": "Cyber Vision",
@@ -738,13 +766,13 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1
             }
           ]
@@ -776,7 +804,7 @@
             },
             {
               "location_id": "C1",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 34000,
               "firework_name": "Night Shadow",
@@ -833,13 +861,13 @@
                 "C1"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C1",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1
             }
           ]
@@ -847,7 +875,7 @@
         {
           "event_id": "evt_1788225482035_317vx",
           "event_num": "4.2",
-          "title": "LCR - (MOD - Flash Fuse) (MOD – 1/3 seg) FB Blue Comet W/Tail",
+          "title": "LCR - (MOD - Flash Fuse) (MOD \u2013 1/3 seg) FB Blue Comet W/Tail",
           "timestamp_offset_ms": 125000,
           "desired_time_ms": 125000,
           "fuse_delay_sec": 0,
@@ -1016,6 +1044,10 @@
               "left_relay_list": [
                 -1,
                 -1
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
               ]
             }
           ]
@@ -1074,12 +1106,12 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "right_pallet": "R2",
-              "right_board": "",
+              "right_board": "KimiKaiju",
               "right_pallet_list": [
                 "R2"
               ],
               "right_board_list": [
-                ""
+                "KimiKaiju"
               ],
               "right_relay": 0,
               "right_relay_list": [
@@ -1139,7 +1171,7 @@
             },
             {
               "location_id": "R2",
-              "node_hostname": "",
+              "node_hostname": "KimiKaiju",
               "relay_idx": -1,
               "duration_ms": 26000,
               "firework_name": "Backstreet Diva",
@@ -1169,12 +1201,12 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "right_pallet": "R2",
-              "right_board": "",
+              "right_board": "KimiKaiju",
               "right_pallet_list": [
                 "R2"
               ],
               "right_board_list": [
-                ""
+                "KimiKaiju"
               ],
               "right_relay": -1,
               "right_relay_list": [
@@ -1191,7 +1223,11 @@
               ],
               "left_pallet": "L2",
               "left_board": "",
-              "left_relay": -1
+              "left_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             },
             {
               "firework_name": "Liberty Force",
@@ -1217,6 +1253,14 @@
               "center_relay": -1,
               "center_relay_list": [
                 -1
+              ],
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
               ]
             }
           ]
@@ -1414,16 +1458,16 @@
           "relays": [
             {
               "location_id": "C10",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -1439,14 +1483,22 @@
                 "C10"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C10",
-              "center_board": "PorqueNoLosDos",
-              "center_relay": -1
+              "center_board": "",
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -1930,7 +1982,11 @@
               ],
               "right_pallet": "R3",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -2333,7 +2389,7 @@
           "relays": [
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2341,7 +2397,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2349,7 +2405,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2357,7 +2413,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2365,7 +2421,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2373,7 +2429,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2381,7 +2437,7 @@
             },
             {
               "location_id": "C12",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "FB Red Comet W/Tail",
@@ -2413,13 +2469,13 @@
                 "C12"
               ],
               "center_board_list": [
-                "PorqueNoLosDos",
-                "PorqueNoLosDos",
-                "PorqueNoLosDos",
-                "PorqueNoLosDos",
-                "PorqueNoLosDos",
-                "PorqueNoLosDos",
-                "PorqueNoLosDos"
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
               ],
               "center_relay_list": [
                 -1,
@@ -2431,8 +2487,16 @@
                 -1
               ],
               "center_pallet": "C12",
-              "center_board": "PorqueNoLosDos",
-              "center_relay": -1
+              "center_board": "",
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -2645,7 +2709,7 @@
             },
             {
               "location_id": "C10",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 20000,
               "firework_name": "Fanfare of America",
@@ -2690,13 +2754,13 @@
                 "C10"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C10",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
                 "R10"
@@ -2742,7 +2806,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Howling Duel",
@@ -2785,12 +2849,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -3076,7 +3140,7 @@
             {
               "field": "center",
               "location_id": "C10",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 18000,
               "firework_name": "Spark of Rebellion",
@@ -3119,12 +3183,12 @@
                 -1
               ],
               "center_pallet": "C10",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_pallet_list": [
                 "C10"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay": -1,
               "center_relay_list": [
@@ -3486,7 +3550,15 @@
               ],
               "center_pallet": "C2",
               "center_board": "",
-              "center_relay": -1
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -3829,7 +3901,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Rise Of Power",
@@ -3838,7 +3910,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Cyber Vision",
@@ -3890,12 +3962,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -3940,12 +4012,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -4015,13 +4087,17 @@
               "center_board": "",
               "center_relay": 0,
               "center_pallet_list": [],
-              "center_board_list": [],
+              "center_board_list": [
+                ""
+              ],
               "center_relay_list": [],
               "right_pallet": "",
               "right_board": "",
               "right_relay": 0,
               "right_pallet_list": [],
-              "right_board_list": [],
+              "right_board_list": [
+                ""
+              ],
               "right_relay_list": []
             }
           ]
@@ -4070,7 +4146,15 @@
               ],
               "right_pallet": "R10",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -4085,7 +4169,7 @@
         {
           "event_id": "evt_1786243620663_r3evy",
           "event_num": "17.1",
-          "title": "LR - FB Silver Peony – 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
+          "title": "LR - FB Silver Peony \u2013 12 shot & C - Showstopper & C - FB Golden Crown Waterfall",
           "timestamp_offset_ms": 541000,
           "desired_time_ms": 541000,
           "fuse_delay_sec": 0,
@@ -4097,13 +4181,13 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Showstopper",
@@ -4112,7 +4196,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "FB Golden Crown Waterfall",
@@ -4124,13 +4208,13 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": true,
               "center_field": false,
               "right_field": true,
@@ -4165,6 +4249,10 @@
               "left_relay": 0,
               "left_relay_list": [
                 -1
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
               ]
             },
             {
@@ -4181,16 +4269,24 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
                 -1
+              ],
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
               ]
             },
             {
@@ -4207,16 +4303,24 @@
               "fuse_delay_sec": 0,
               "setup_notes": "",
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
                 -1
+              ],
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
               ]
             }
           ]
@@ -4528,7 +4632,7 @@
             {
               "field": "center",
               "location_id": "C10",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 25000,
               "firework_name": "God Bless Boomerica!",
@@ -4574,13 +4678,13 @@
                 "C10"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C10",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
                 "R10"
@@ -4635,7 +4739,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Silver Beauty",
@@ -4644,7 +4748,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Golden Fury",
@@ -4696,12 +4800,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -4746,12 +4850,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -5352,7 +5456,7 @@
             {
               "field": "center",
               "location_id": "C10",
-              "node_hostname": "PorqueNoLosDos",
+              "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 40000,
               "firework_name": "American Gemstones",
@@ -5398,13 +5502,13 @@
                 "C10"
               ],
               "center_board_list": [
-                "PorqueNoLosDos"
+                ""
               ],
               "center_relay_list": [
                 -1
               ],
               "center_pallet": "C10",
-              "center_board": "PorqueNoLosDos",
+              "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
                 "R10"
@@ -5712,7 +5816,7 @@
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
               "firework_name": "Future All American",
@@ -5755,12 +5859,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -7203,7 +7307,13 @@
               ],
               "right_pallet": "R12",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                "",
+                "",
+                ""
+              ]
             }
           ]
         },
@@ -7390,7 +7500,7 @@
         {
           "event_id": "evt_1786244782741_0kt4u",
           "event_num": "30.4",
-          "title": "L - FB Purple Peony – 12 Shot & C - FB Silver Peony – 12 shot & R - FB Orange Peony- 12 Shot",
+          "title": "L - FB Purple Peony \u2013 12 Shot & C - FB Silver Peony \u2013 12 shot & R - FB Orange Peony- 12 Shot",
           "timestamp_offset_ms": 1087000,
           "desired_time_ms": 1087000,
           "fuse_delay_sec": 0,
@@ -7402,7 +7512,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -7411,7 +7521,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -7426,7 +7536,7 @@
           ],
           "fireworks": [
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": false,
               "right_field": false,
@@ -7449,10 +7559,18 @@
               ],
               "left_pallet": "L8",
               "left_board": "",
-              "left_relay": -1
+              "left_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             },
             {
-              "firework_name": "FB Silver Peony – 12 shot",
+              "firework_name": "FB Silver Peony \u2013 12 shot",
               "left_field": false,
               "center_field": true,
               "right_field": false,
@@ -7475,7 +7593,15 @@
               ],
               "center_pallet": "C8",
               "center_board": "",
-              "center_relay": -1
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             },
             {
               "firework_name": "FB Orange Peony- 12 Shot",
@@ -7501,14 +7627,22 @@
               ],
               "right_pallet": "R8",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             }
           ]
         },
         {
           "event_id": "evt_1786244808144_dgn5i",
           "event_num": "30.5",
-          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs – 12 shot",
+          "title": "LCR - (MOD - Flash Fuse) FB Crackling Dragon Eggs \u2013 12 shot",
           "timestamp_offset_ms": 1102000,
           "desired_time_ms": 1102000,
           "fuse_delay_sec": 0,
@@ -7520,16 +7654,16 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             },
             {
               "field": "center",
               "location_id": "C4",
-              "node_hostname": "",
+              "node_hostname": "StupidInStereoLeakage",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             },
             {
@@ -7538,13 +7672,13 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "FB Crackling Dragon Eggs – 12 shot",
+              "firework_name": "FB Crackling Dragon Eggs \u2013 12 shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -7569,12 +7703,12 @@
                 -1
               ],
               "center_pallet": "C4",
-              "center_board": "",
+              "center_board": "StupidInStereoLeakage",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                ""
+                "StupidInStereoLeakage"
               ],
               "center_relay": 0,
               "center_relay_list": [
@@ -7606,7 +7740,7 @@
         {
           "event_id": "evt_1786244955199_fenrx",
           "event_num": "31.1",
-          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony – 12 Shot",
+          "title": "LCR - Forged of Fire & LCR - Colossal Force & LCR - FB Purple Peony \u2013 12 Shot",
           "timestamp_offset_ms": 1111000,
           "desired_time_ms": 1111000,
           "fuse_delay_sec": 0,
@@ -7672,7 +7806,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -7681,7 +7815,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             },
             {
@@ -7690,7 +7824,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 15000,
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "firework_count": 1
             }
           ],
@@ -7796,7 +7930,7 @@
               "right_relay": -1
             },
             {
-              "firework_name": "FB Purple Peony – 12 Shot",
+              "firework_name": "FB Purple Peony \u2013 12 Shot",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -8469,7 +8603,30 @@
               ],
               "right_pallet": "R9",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
             }
           ]
         },
@@ -9097,7 +9254,11 @@
               ],
               "right_pallet": "R8",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": -1,
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             },
             {
               "firework_name": "FB Red Comet W/Tail",
@@ -9123,14 +9284,22 @@
               ],
               "center_pallet": "C8",
               "center_board": "",
-              "center_relay": -1
+              "center_relay": -1,
+              "left_board": "",
+              "left_board_list": [
+                ""
+              ],
+              "right_board": "",
+              "right_board_list": [
+                ""
+              ]
             }
           ]
         },
         {
           "event_id": "evt_1786245383436_zaeu2",
           "event_num": "33.7",
-          "title": "LCR - TUBES Killer Willow – 5\" shells x80",
+          "title": "LCR - TUBES Killer Willow \u2013 5\" shells x80",
           "timestamp_offset_ms": 1239000,
           "desired_time_ms": 1239000,
           "fuse_delay_sec": 0,
@@ -9142,7 +9311,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9151,7 +9320,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9160,7 +9329,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9169,7 +9338,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9178,7 +9347,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9187,7 +9356,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9196,7 +9365,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9205,7 +9374,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9214,7 +9383,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9223,7 +9392,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9232,7 +9401,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9241,7 +9410,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9250,7 +9419,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9259,7 +9428,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9268,7 +9437,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9277,7 +9446,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9286,7 +9455,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9295,7 +9464,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9304,7 +9473,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9313,7 +9482,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9322,7 +9491,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9331,7 +9500,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9340,7 +9509,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9349,7 +9518,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9358,7 +9527,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9367,7 +9536,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9376,7 +9545,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9385,7 +9554,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9394,7 +9563,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9403,7 +9572,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9412,7 +9581,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9421,7 +9590,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9430,7 +9599,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9439,7 +9608,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9448,7 +9617,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9457,7 +9626,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9466,7 +9635,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9475,7 +9644,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9484,7 +9653,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9493,7 +9662,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9502,7 +9671,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9511,7 +9680,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9520,7 +9689,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9529,7 +9698,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9538,7 +9707,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9547,7 +9716,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9556,7 +9725,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9565,7 +9734,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9574,7 +9743,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9583,7 +9752,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9592,7 +9761,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9601,7 +9770,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9610,7 +9779,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9619,7 +9788,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9628,7 +9797,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9637,7 +9806,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9646,7 +9815,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9655,7 +9824,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9664,7 +9833,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9673,7 +9842,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9682,7 +9851,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9691,7 +9860,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9700,7 +9869,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9709,7 +9878,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9718,7 +9887,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9727,7 +9896,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9736,7 +9905,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9745,7 +9914,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9754,7 +9923,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9763,7 +9932,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9772,7 +9941,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9781,7 +9950,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9790,7 +9959,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9799,7 +9968,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9808,7 +9977,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9817,7 +9986,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9826,7 +9995,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9835,7 +10004,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9844,7 +10013,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9853,7 +10022,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9862,7 +10031,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9871,7 +10040,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9880,7 +10049,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9889,7 +10058,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9898,7 +10067,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9907,7 +10076,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9916,7 +10085,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9925,7 +10094,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9934,7 +10103,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9943,7 +10112,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9952,7 +10121,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9961,7 +10130,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9970,7 +10139,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9979,7 +10148,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9988,7 +10157,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -9997,7 +10166,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10006,7 +10175,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10015,7 +10184,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10024,7 +10193,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10033,7 +10202,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10042,7 +10211,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10051,7 +10220,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10060,7 +10229,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10069,7 +10238,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10078,7 +10247,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10087,7 +10256,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10096,7 +10265,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10105,7 +10274,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10114,7 +10283,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10123,7 +10292,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10132,7 +10301,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10141,7 +10310,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10150,7 +10319,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10159,7 +10328,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10168,7 +10337,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10177,7 +10346,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10186,7 +10355,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10195,7 +10364,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10204,7 +10373,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10213,7 +10382,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10222,7 +10391,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10231,7 +10400,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10240,7 +10409,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10249,7 +10418,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10258,7 +10427,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10267,7 +10436,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10276,7 +10445,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10285,7 +10454,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10294,7 +10463,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10303,7 +10472,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10312,7 +10481,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10321,7 +10490,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10330,7 +10499,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10339,7 +10508,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10348,7 +10517,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10357,7 +10526,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10366,7 +10535,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10375,7 +10544,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10384,7 +10553,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10393,7 +10562,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10402,7 +10571,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10411,7 +10580,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10420,7 +10589,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10429,7 +10598,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10438,7 +10607,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10447,7 +10616,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10456,7 +10625,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10465,7 +10634,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10474,7 +10643,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10483,7 +10652,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10492,7 +10661,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10501,7 +10670,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10510,7 +10679,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10519,7 +10688,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10528,7 +10697,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10537,7 +10706,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10546,7 +10715,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10555,7 +10724,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10564,7 +10733,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10573,7 +10742,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10582,7 +10751,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10591,7 +10760,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10600,7 +10769,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10609,7 +10778,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10618,7 +10787,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10627,7 +10796,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10636,7 +10805,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10645,7 +10814,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10654,7 +10823,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10663,7 +10832,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10672,7 +10841,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10681,7 +10850,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10690,7 +10859,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10699,7 +10868,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10708,7 +10877,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10717,7 +10886,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10726,7 +10895,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10735,7 +10904,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10744,7 +10913,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10753,7 +10922,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10762,7 +10931,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10771,7 +10940,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10780,7 +10949,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10789,7 +10958,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10798,7 +10967,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10807,7 +10976,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10816,7 +10985,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10825,7 +10994,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10834,7 +11003,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10843,7 +11012,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10852,7 +11021,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10861,7 +11030,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10870,7 +11039,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10879,7 +11048,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10888,7 +11057,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10897,7 +11066,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10906,7 +11075,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10915,7 +11084,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10924,7 +11093,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10933,7 +11102,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10942,7 +11111,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10951,7 +11120,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10960,7 +11129,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10969,7 +11138,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10978,7 +11147,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10987,7 +11156,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -10996,7 +11165,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11005,7 +11174,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11014,7 +11183,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11023,7 +11192,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11032,7 +11201,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11041,7 +11210,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11050,7 +11219,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11059,7 +11228,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11068,7 +11237,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11077,7 +11246,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11086,7 +11255,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11095,7 +11264,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11104,7 +11273,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11113,7 +11282,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11122,7 +11291,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11131,7 +11300,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11140,7 +11309,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11149,7 +11318,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11158,7 +11327,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11167,7 +11336,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11176,7 +11345,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11185,7 +11354,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11194,7 +11363,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11203,7 +11372,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11212,7 +11381,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11221,7 +11390,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11230,7 +11399,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11239,7 +11408,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11248,7 +11417,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11257,7 +11426,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11266,7 +11435,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11275,7 +11444,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11284,7 +11453,7 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             },
             {
@@ -11293,13 +11462,13 @@
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "firework_count": 1
             }
           ],
           "fireworks": [
             {
-              "firework_name": "Killer Willow – 5\" shells",
+              "firework_name": "Killer Willow \u2013 5\" shells",
               "left_field": true,
               "center_field": true,
               "right_field": true,
@@ -13154,7 +13323,7 @@
       "id": 28
     },
     {
-      "name": "America's Battery – 1000 Shot Saturn Missile Battery",
+      "name": "America's Battery \u2013 1000 Shot Saturn Missile Battery",
       "shots": 1000,
       "duration_s": 0,
       "description": "",
@@ -13303,7 +13472,7 @@
       "id": 37
     },
     {
-      "name": "Apocalypse Artillery – 4\" shells",
+      "name": "Apocalypse Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -13685,7 +13854,7 @@
       "id": 61
     },
     {
-      "name": "Carnage Artillery – 4\" shells",
+      "name": "Carnage Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -13843,7 +14012,7 @@
       "id": 71
     },
     {
-      "name": "Color Pearl – 48 Shot",
+      "name": "Color Pearl \u2013 48 Shot",
       "shots": 48,
       "duration_s": 22,
       "description": "",
@@ -13858,7 +14027,7 @@
       "id": 72
     },
     {
-      "name": "Color Pearl – 96 Shot",
+      "name": "Color Pearl \u2013 96 Shot",
       "shots": 96,
       "duration_s": 24,
       "description": "",
@@ -14017,7 +14186,7 @@
       "id": 82
     },
     {
-      "name": "Crackling Candle – 10 Ball",
+      "name": "Crackling Candle \u2013 10 Ball",
       "shots": 10,
       "duration_s": 0,
       "description": "",
@@ -14484,7 +14653,7 @@
       "id": 112
     },
     {
-      "name": "Edge of Oblivion – 6\" shells",
+      "name": "Edge of Oblivion \u2013 6\" shells",
       "shots": 18,
       "duration_s": 28,
       "description": "",
@@ -14658,7 +14827,7 @@
       "id": 123
     },
     {
-      "name": "FB Crackling Dragon Eggs – 12 shot",
+      "name": "FB Crackling Dragon Eggs \u2013 12 shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -14714,7 +14883,7 @@
       "id": 127
     },
     {
-      "name": "FB Purple Peony – 12 Shot",
+      "name": "FB Purple Peony \u2013 12 Shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -14771,7 +14940,7 @@
       "id": 131
     },
     {
-      "name": "FB Silver Peony – 12 shot",
+      "name": "FB Silver Peony \u2013 12 shot",
       "shots": 12,
       "duration_s": 15,
       "description": "",
@@ -15674,7 +15843,7 @@
       "id": 188
     },
     {
-      "name": "Killer Willow – 5\" shells",
+      "name": "Killer Willow \u2013 5\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -15972,7 +16141,7 @@
       "id": 207
     },
     {
-      "name": "MAX'D OUT SIX – 4\" shells",
+      "name": "MAX'D OUT SIX \u2013 4\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -15987,7 +16156,7 @@
       "id": 208
     },
     {
-      "name": "MAX'D OUT – 4\" shells",
+      "name": "MAX'D OUT \u2013 4\" shells",
       "shots": 18,
       "duration_s": 0,
       "description": "",
@@ -16580,7 +16749,7 @@
       "id": 246
     },
     {
-      "name": "Peacemaker Blister Pack – 4\" shells",
+      "name": "Peacemaker Blister Pack \u2013 4\" shells",
       "shots": 6,
       "duration_s": 0,
       "description": "",
@@ -16809,7 +16978,7 @@
       "id": 261
     },
     {
-      "name": "Profit Box : Bel Air – Super Selfie – Top Gun",
+      "name": "Profit Box : Bel Air \u2013 Super Selfie \u2013 Top Gun",
       "shots": 7,
       "duration_s": 15,
       "description": "",
@@ -18067,7 +18236,7 @@
       "id": 340
     },
     {
-      "name": "Texas Battery – 504 Shot Saturn Missile",
+      "name": "Texas Battery \u2013 504 Shot Saturn Missile",
       "shots": 504,
       "duration_s": 0,
       "description": "",
@@ -18129,7 +18298,7 @@
       "id": 344
     },
     {
-      "name": "The Assassin of Artillery – 5\" shells",
+      "name": "The Assassin of Artillery \u2013 5\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -18211,7 +18380,7 @@
       "id": 349
     },
     {
-      "name": "The Judge Artillery – 4\" shells",
+      "name": "The Judge Artillery \u2013 4\" shells",
       "shots": 24,
       "duration_s": 0,
       "description": "",
@@ -18516,7 +18685,7 @@
       "id": 368
     },
     {
-      "name": "Venom Artillery – 4\" shells",
+      "name": "Venom Artillery \u2013 4\" shells",
       "shots": 12,
       "duration_s": 0,
       "description": "",
@@ -18640,7 +18809,7 @@
       "id": 376
     },
     {
-      "name": "Wild Boar – 4\" shells",
+      "name": "Wild Boar \u2013 4\" shells",
       "shots": 18,
       "duration_s": 0,
       "description": "",
