@@ -5248,7 +5248,7 @@
               "field": "left",
               "location_id": "L5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 40000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
@@ -5257,7 +5257,7 @@
               "field": "center",
               "location_id": "C5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 40000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
@@ -5266,7 +5266,7 @@
               "field": "right",
               "location_id": "R5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 40000,
               "firework_name": "Righteous Warrior",
               "firework_count": 1
@@ -5275,7 +5275,7 @@
               "field": "left",
               "location_id": "L5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
@@ -5284,7 +5284,7 @@
               "field": "center",
               "location_id": "C5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
@@ -5293,7 +5293,7 @@
               "field": "right",
               "location_id": "R5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 2,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
@@ -5320,11 +5320,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                2
               ],
               "left_pallet": "L5",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 2,
               "center_pallet_list": [
                 "C5"
               ],
@@ -5332,11 +5332,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                2
               ],
               "center_pallet": "C5",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 2,
               "right_pallet_list": [
                 "R5"
               ],
@@ -5344,11 +5344,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                2
               ],
               "right_pallet": "R5",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 2
             },
             {
               "firework_name": "Tropical Chaos",
@@ -5370,11 +5370,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                2
               ],
               "left_pallet": "L5",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 2,
               "center_pallet_list": [
                 "C5"
               ],
@@ -5382,11 +5382,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                2
               ],
               "center_pallet": "C5",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 2,
               "right_pallet_list": [
                 "R5"
               ],
@@ -5394,11 +5394,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                2
               ],
               "right_pallet": "R5",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 2
             }
           ]
         },
@@ -5415,7 +5415,7 @@
               "field": "left",
               "location_id": "L5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -5424,7 +5424,7 @@
               "field": "center",
               "location_id": "C5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -5433,7 +5433,7 @@
               "field": "right",
               "location_id": "R5",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -5460,11 +5460,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                3
               ],
               "left_pallet": "L5",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 3,
               "center_pallet_list": [
                 "C5"
               ],
@@ -5472,11 +5472,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                3
               ],
               "center_pallet": "C5",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 3,
               "right_pallet_list": [
                 "R5"
               ],
@@ -5484,11 +5484,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                3
               ],
               "right_pallet": "R5",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 3
             }
           ]
         },
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:44:22.061Z"
+      "lastEdited": "2026-09-05T16:44:39.955Z"
     },
     {
       "id": "proj_1787843867160",
