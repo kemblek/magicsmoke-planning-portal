@@ -12620,7 +12620,7 @@
             },
             {
               "field": "center",
-              "location_id": "L15",
+              "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 4000,
@@ -12629,7 +12629,7 @@
             },
             {
               "field": "center",
-              "location_id": "L15",
+              "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 0,
               "duration_ms": 4000,
@@ -12638,7 +12638,7 @@
             },
             {
               "field": "center",
-              "location_id": "L15",
+              "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 1,
               "duration_ms": 4000,
@@ -12683,7 +12683,7 @@
             },
             {
               "field": "center",
-              "location_id": "L15",
+              "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 6,
               "duration_ms": 4000,
@@ -12692,7 +12692,7 @@
             },
             {
               "field": "center",
-              "location_id": "L15",
+              "location_id": "C15",
               "node_hostname": "",
               "relay_idx": 0,
               "duration_ms": 4000,
@@ -12748,9 +12748,9 @@
               "left_board": "",
               "left_relay": 0,
               "center_pallet_list": [
-                "L15",
-                "L15",
-                "L15"
+                "C15",
+                "C15",
+                "C15"
               ],
               "center_board_list": [
                 "",
@@ -12762,7 +12762,7 @@
                 0,
                 1
               ],
-              "center_pallet": "L15",
+              "center_pallet": "C15",
               "center_board": "",
               "center_relay": 6,
               "right_pallet_list": [
@@ -12810,8 +12810,8 @@
               "left_board": "",
               "left_relay": 0,
               "center_pallet_list": [
-                "L15",
-                "L15"
+                "C15",
+                "C15"
               ],
               "center_board_list": [
                 "",
@@ -12821,7 +12821,7 @@
                 6,
                 0
               ],
-              "center_pallet": "L15",
+              "center_pallet": "C15",
               "center_board": "",
               "center_relay": 6,
               "right_pallet_list": [
@@ -13254,7 +13254,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T19:26:28.762Z"
+      "lastEdited": "2026-09-05T19:26:54.567Z"
     },
     {
       "id": "proj_1787843867160",
