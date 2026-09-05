@@ -2474,7 +2474,7 @@
           "relays": [
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2483,7 +2483,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2492,7 +2492,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2501,7 +2501,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2510,7 +2510,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2519,7 +2519,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2528,7 +2528,7 @@
             },
             {
               "field": "center",
-              "location_id": "R15",
+              "location_id": "R13",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2552,13 +2552,13 @@
               "setup_notes": "Peacock",
               "is_fused": true,
               "center_pallet_list": [
-                "R15",
-                "R15",
-                "R15",
-                "R15",
-                "R15",
-                "R15",
-                "R15"
+                "R13",
+                "R13",
+                "R13",
+                "R13",
+                "R13",
+                "R13",
+                "R13"
               ],
               "center_board_list": [
                 "",
@@ -2578,7 +2578,7 @@
                 4,
                 4
               ],
-              "center_pallet": "R15",
+              "center_pallet": "R13",
               "center_board": "",
               "center_relay": 4,
               "left_board": "",
@@ -13222,7 +13222,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T17:02:19.368Z"
+      "lastEdited": "2026-09-05T17:02:42.241Z"
     },
     {
       "id": "proj_1787843867160",
