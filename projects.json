@@ -5070,47 +5070,29 @@
           "repeat_count": 1,
           "relays": [
             {
-              "field": "right",
-              "location_id": "R4",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Silver Beauty",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R4",
-              "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
-            },
-            {
-              "field": "center",
-              "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Silver Beauty",
-              "firework_count": 1
-            },
-            {
-              "field": "center",
-              "location_id": "C4",
-              "node_hostname": "StupidInStereoLeakage",
-              "relay_idx": -1,
-              "duration_ms": 2000,
-              "firework_name": "Golden Fury",
-              "firework_count": 1
-            },
-            {
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 3,
+              "duration_ms": 26000,
+              "firework_name": "Silver Beauty",
+              "firework_count": 1
+            },
+            {
+              "field": "center",
+              "location_id": "C4",
+              "node_hostname": "",
+              "relay_idx": 3,
+              "duration_ms": 26000,
+              "firework_name": "Silver Beauty",
+              "firework_count": 1
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": 3,
+              "duration_ms": 26000,
               "firework_name": "Silver Beauty",
               "firework_count": 1
             },
@@ -5118,8 +5100,26 @@
               "field": "left",
               "location_id": "L4",
               "node_hostname": "",
-              "relay_idx": -1,
-              "duration_ms": 2000,
+              "relay_idx": 3,
+              "duration_ms": 23000,
+              "firework_name": "Golden Fury",
+              "firework_count": 1
+            },
+            {
+              "field": "center",
+              "location_id": "C4",
+              "node_hostname": "",
+              "relay_idx": 3,
+              "duration_ms": 23000,
+              "firework_name": "Golden Fury",
+              "firework_count": 1
+            },
+            {
+              "field": "right",
+              "location_id": "R4",
+              "node_hostname": "",
+              "relay_idx": 3,
+              "duration_ms": 23000,
               "firework_name": "Golden Fury",
               "firework_count": 1
             }
@@ -5146,21 +5146,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 3,
               "right_relay_list": [
-                -1
+                3
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 3,
               "center_relay_list": [
-                -1
+                3
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -5170,9 +5170,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 3,
               "left_relay_list": [
-                -1
+                3
               ]
             },
             {
@@ -5196,21 +5196,21 @@
               "right_board_list": [
                 ""
               ],
-              "right_relay": 0,
+              "right_relay": 3,
               "right_relay_list": [
-                -1
+                3
               ],
               "center_pallet": "C4",
-              "center_board": "StupidInStereoLeakage",
+              "center_board": "",
               "center_pallet_list": [
                 "C4"
               ],
               "center_board_list": [
-                "StupidInStereoLeakage"
+                ""
               ],
-              "center_relay": 0,
+              "center_relay": 3,
               "center_relay_list": [
-                -1
+                3
               ],
               "left_pallet": "L4",
               "left_board": "",
@@ -5220,9 +5220,9 @@
               "left_board_list": [
                 ""
               ],
-              "left_relay": 0,
+              "left_relay": 3,
               "left_relay_list": [
-                -1
+                3
               ]
             }
           ]
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:44:08.499Z"
+      "lastEdited": "2026-09-05T16:44:22.061Z"
     },
     {
       "id": "proj_1787843867160",
