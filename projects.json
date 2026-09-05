@@ -2474,7 +2474,7 @@
           "relays": [
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2483,7 +2483,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2492,7 +2492,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2501,7 +2501,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2510,7 +2510,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2519,7 +2519,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2528,7 +2528,7 @@
             },
             {
               "field": "center",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": 4,
               "duration_ms": 20000,
@@ -2552,13 +2552,13 @@
               "setup_notes": "Peacock",
               "is_fused": true,
               "center_pallet_list": [
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1"
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15"
               ],
               "center_board_list": [
                 "",
@@ -2578,7 +2578,7 @@
                 4,
                 4
               ],
-              "center_pallet": "RB 1",
+              "center_pallet": "R15",
               "center_board": "",
               "center_relay": 4,
               "left_board": "",
@@ -9667,7 +9667,7 @@
           "relays": [
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9676,7 +9676,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9685,7 +9685,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9694,7 +9694,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9703,7 +9703,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9712,7 +9712,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9721,7 +9721,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9730,7 +9730,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9739,7 +9739,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9748,7 +9748,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9757,7 +9757,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9766,7 +9766,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9775,7 +9775,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9784,7 +9784,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9793,7 +9793,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9802,7 +9802,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9811,7 +9811,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9820,7 +9820,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9829,7 +9829,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9838,7 +9838,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9847,7 +9847,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9856,7 +9856,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9865,7 +9865,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9874,7 +9874,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9883,7 +9883,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9892,7 +9892,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9901,7 +9901,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9910,7 +9910,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9919,7 +9919,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9928,7 +9928,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9937,7 +9937,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9946,7 +9946,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9955,7 +9955,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9964,7 +9964,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9973,7 +9973,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9982,7 +9982,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -9991,7 +9991,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10000,7 +10000,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10009,7 +10009,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10018,7 +10018,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10027,7 +10027,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10036,7 +10036,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10045,7 +10045,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10054,7 +10054,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10063,7 +10063,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10072,7 +10072,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10081,7 +10081,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10090,7 +10090,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10099,7 +10099,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10108,7 +10108,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10117,7 +10117,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10126,7 +10126,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10135,7 +10135,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10144,7 +10144,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10153,7 +10153,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10162,7 +10162,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10171,7 +10171,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10180,7 +10180,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10189,7 +10189,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10198,7 +10198,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10207,7 +10207,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10216,7 +10216,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10225,7 +10225,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10234,7 +10234,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10243,7 +10243,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10252,7 +10252,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10261,7 +10261,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10270,7 +10270,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10279,7 +10279,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10288,7 +10288,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10297,7 +10297,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10306,7 +10306,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10315,7 +10315,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10324,7 +10324,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10333,7 +10333,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10342,7 +10342,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10351,7 +10351,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10360,7 +10360,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10369,7 +10369,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10378,7 +10378,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10387,7 +10387,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10396,7 +10396,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10405,7 +10405,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10414,7 +10414,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10423,7 +10423,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10432,7 +10432,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10441,7 +10441,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10450,7 +10450,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10459,7 +10459,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10468,7 +10468,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10477,7 +10477,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10486,7 +10486,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10495,7 +10495,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10504,7 +10504,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10513,7 +10513,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10522,7 +10522,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10531,7 +10531,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10540,7 +10540,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10549,7 +10549,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10558,7 +10558,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10567,7 +10567,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10576,7 +10576,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10585,7 +10585,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10594,7 +10594,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10603,7 +10603,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10612,7 +10612,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10621,7 +10621,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10630,7 +10630,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10639,7 +10639,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10648,7 +10648,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10657,7 +10657,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10666,7 +10666,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10675,7 +10675,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10684,7 +10684,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10693,7 +10693,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10702,7 +10702,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10711,7 +10711,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10720,7 +10720,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10729,7 +10729,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10738,7 +10738,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10747,7 +10747,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10756,7 +10756,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10765,7 +10765,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10774,7 +10774,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10783,7 +10783,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10792,7 +10792,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10801,7 +10801,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10810,7 +10810,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10819,7 +10819,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10828,7 +10828,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10837,7 +10837,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10846,7 +10846,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10855,7 +10855,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10864,7 +10864,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10873,7 +10873,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10882,7 +10882,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10891,7 +10891,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10900,7 +10900,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10909,7 +10909,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10918,7 +10918,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10927,7 +10927,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10936,7 +10936,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10945,7 +10945,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10954,7 +10954,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10963,7 +10963,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10972,7 +10972,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10981,7 +10981,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10990,7 +10990,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -10999,7 +10999,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11008,7 +11008,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11017,7 +11017,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11026,7 +11026,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11035,7 +11035,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11044,7 +11044,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11053,7 +11053,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11062,7 +11062,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11071,7 +11071,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11080,7 +11080,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11089,7 +11089,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11098,7 +11098,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11107,7 +11107,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11116,7 +11116,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11125,7 +11125,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11134,7 +11134,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11143,7 +11143,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11152,7 +11152,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11161,7 +11161,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11170,7 +11170,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11179,7 +11179,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11188,7 +11188,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11197,7 +11197,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11206,7 +11206,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11215,7 +11215,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11224,7 +11224,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11233,7 +11233,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11242,7 +11242,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11251,7 +11251,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11260,7 +11260,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11269,7 +11269,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11278,7 +11278,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11287,7 +11287,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11296,7 +11296,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11305,7 +11305,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11314,7 +11314,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11323,7 +11323,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11332,7 +11332,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11341,7 +11341,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11350,7 +11350,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11359,7 +11359,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11368,7 +11368,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11377,7 +11377,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11386,7 +11386,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11395,7 +11395,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11404,7 +11404,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11413,7 +11413,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11422,7 +11422,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11431,7 +11431,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11440,7 +11440,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11449,7 +11449,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11458,7 +11458,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11467,7 +11467,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11476,7 +11476,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11485,7 +11485,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11494,7 +11494,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11503,7 +11503,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11512,7 +11512,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11521,7 +11521,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11530,7 +11530,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11539,7 +11539,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11548,7 +11548,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11557,7 +11557,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11566,7 +11566,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11575,7 +11575,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11584,7 +11584,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11593,7 +11593,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11602,7 +11602,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11611,7 +11611,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11620,7 +11620,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11629,7 +11629,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11638,7 +11638,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11647,7 +11647,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11656,7 +11656,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11665,7 +11665,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11674,7 +11674,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11683,7 +11683,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11692,7 +11692,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11701,7 +11701,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11710,7 +11710,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11719,7 +11719,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11728,7 +11728,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11737,7 +11737,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11746,7 +11746,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11755,7 +11755,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11764,7 +11764,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11773,7 +11773,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11782,7 +11782,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11791,7 +11791,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11800,7 +11800,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11809,7 +11809,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11818,7 +11818,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 2000,
@@ -11842,86 +11842,86 @@
               "setup_notes": "",
               "is_fused": true,
               "left_pallet_list": [
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15"
               ],
               "left_board_list": [
                 "",
@@ -12087,90 +12087,90 @@
                 -1,
                 -1
               ],
-              "left_pallet": "LB 1",
+              "left_pallet": "L15",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15",
+                "L15"
               ],
               "center_board_list": [
                 "",
@@ -12336,90 +12336,90 @@
                 -1,
                 -1
               ],
-              "center_pallet": "LB 1",
+              "center_pallet": "L15",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1",
-                "RB 1"
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15",
+                "R15"
               ],
               "right_board_list": [
                 "",
@@ -12585,7 +12585,7 @@
                 -1,
                 -1
               ],
-              "right_pallet": "RB 1",
+              "right_pallet": "R15",
               "right_board": "",
               "right_relay": -1
             }
@@ -12602,7 +12602,7 @@
           "relays": [
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12611,7 +12611,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12620,7 +12620,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12629,7 +12629,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12638,7 +12638,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12647,7 +12647,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12656,7 +12656,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12665,7 +12665,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12674,7 +12674,7 @@
             },
             {
               "field": "left",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12683,7 +12683,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12692,7 +12692,7 @@
             },
             {
               "field": "center",
-              "location_id": "LB 1",
+              "location_id": "L15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12701,7 +12701,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12710,7 +12710,7 @@
             },
             {
               "field": "right",
-              "location_id": "RB 1",
+              "location_id": "R15",
               "node_hostname": "",
               "relay_idx": -1,
               "duration_ms": 4000,
@@ -12733,8 +12733,8 @@
               "fuse_delay_sec": 0,
               "setup_notes": "alternate r/b spread out wide",
               "left_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15"
               ],
               "left_board_list": [
                 "",
@@ -12744,13 +12744,13 @@
                 -1,
                 -1
               ],
-              "left_pallet": "LB 1",
+              "left_pallet": "L15",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "LB 1",
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15",
+                "L15"
               ],
               "center_board_list": [
                 "",
@@ -12762,12 +12762,12 @@
                 -1,
                 -1
               ],
-              "center_pallet": "LB 1",
+              "center_pallet": "L15",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "RB 1",
-                "RB 1"
+                "R15",
+                "R15"
               ],
               "right_board_list": [
                 "",
@@ -12777,7 +12777,7 @@
                 -1,
                 -1
               ],
-              "right_pallet": "RB 1",
+              "right_pallet": "R15",
               "right_board": "",
               "right_relay": -1
             },
@@ -12795,8 +12795,8 @@
               "fuse_delay_sec": 0,
               "setup_notes": "alternate r/b spread out wide",
               "left_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15"
               ],
               "left_board_list": [
                 "",
@@ -12806,12 +12806,12 @@
                 -1,
                 -1
               ],
-              "left_pallet": "LB 1",
+              "left_pallet": "L15",
               "left_board": "",
               "left_relay": -1,
               "center_pallet_list": [
-                "LB 1",
-                "LB 1"
+                "L15",
+                "L15"
               ],
               "center_board_list": [
                 "",
@@ -12821,12 +12821,12 @@
                 -1,
                 -1
               ],
-              "center_pallet": "LB 1",
+              "center_pallet": "L15",
               "center_board": "",
               "center_relay": -1,
               "right_pallet_list": [
-                "RB 1",
-                "RB 1"
+                "R15",
+                "R15"
               ],
               "right_board_list": [
                 "",
@@ -12836,7 +12836,7 @@
                 -1,
                 -1
               ],
-              "right_pallet": "RB 1",
+              "right_pallet": "R15",
               "right_board": "",
               "right_relay": -1
             }
@@ -13062,7 +13062,7 @@
           "assigned_node": null
         },
         {
-          "location_id": "RF 1",
+          "location_id": "R13",
           "x_coordinate": 15,
           "y_coordinate": 1,
           "node_hostname": "",
@@ -13070,7 +13070,7 @@
           "assigned_node": null
         },
         {
-          "location_id": "RF 2",
+          "location_id": "R14",
           "x_coordinate": 16,
           "y_coordinate": 1,
           "node_hostname": "",
@@ -13078,7 +13078,7 @@
           "assigned_node": null
         },
         {
-          "location_id": "RB 1",
+          "location_id": "R15",
           "x_coordinate": 15,
           "y_coordinate": 6,
           "node_hostname": "",
@@ -13086,7 +13086,7 @@
           "assigned_node": null
         },
         {
-          "location_id": "RB 2",
+          "location_id": "R16",
           "x_coordinate": 16,
           "y_coordinate": 6,
           "node_hostname": "",
@@ -13190,15 +13190,7 @@
           "assigned_node": null
         },
         {
-          "location_id": "LF 2",
-          "x_coordinate": 5,
-          "y_coordinate": 1,
-          "node_hostname": "",
-          "mac_addr": "",
-          "assigned_node": null
-        },
-        {
-          "location_id": "LF 1",
+          "location_id": "L13",
           "x_coordinate": 6,
           "y_coordinate": 1,
           "node_hostname": "",
@@ -13206,23 +13198,31 @@
           "assigned_node": null
         },
         {
-          "location_id": "LB 2",
+          "location_id": "L14",
           "x_coordinate": 5,
+          "y_coordinate": 1,
+          "node_hostname": "",
+          "mac_addr": "",
+          "assigned_node": null
+        },
+        {
+          "location_id": "L15",
+          "x_coordinate": 6,
           "y_coordinate": 6,
           "node_hostname": "",
           "mac_addr": "",
           "assigned_node": null
         },
         {
-          "location_id": "LB 1",
-          "x_coordinate": 6,
+          "location_id": "L16",
+          "x_coordinate": 5,
           "y_coordinate": 6,
           "node_hostname": "",
           "mac_addr": "",
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T17:01:07.413Z"
+      "lastEdited": "2026-09-05T17:01:51.631Z"
     },
     {
       "id": "proj_1787843867160",
