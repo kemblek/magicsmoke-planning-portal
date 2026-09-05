@@ -1745,25 +1745,28 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 0,
               "duration_ms": 23000,
               "firework_name": "Tropical Chaos",
               "firework_count": 1
@@ -1787,14 +1790,14 @@
                 "L3"
               ],
               "left_board_list": [
-                "BringInTheWomens"
+                ""
               ],
               "left_relay_list": [
-                -1
+                0
               ],
               "left_pallet": "L3",
-              "left_board": "BringInTheWomens",
-              "left_relay": -1,
+              "left_board": "",
+              "left_relay": 0,
               "center_pallet_list": [
                 "C3"
               ],
@@ -1802,11 +1805,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                0
               ],
               "center_pallet": "C3",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 0,
               "right_pallet_list": [
                 "R3"
               ],
@@ -1814,11 +1817,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                0
               ],
               "right_pallet": "R3",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 0
             }
           ]
         },
@@ -1832,25 +1835,28 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L2",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 5,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
             {
+              "field": "center",
               "location_id": "C2",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 4,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R2",
-              "node_hostname": "KimiKaiju",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 5,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -1878,9 +1884,9 @@
               "center_board_list": [
                 ""
               ],
-              "center_relay": -1,
+              "center_relay": 4,
               "center_relay_list": [
-                -1
+                4
               ],
               "left_pallet_list": [
                 "L2"
@@ -1889,23 +1895,23 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                5
               ],
               "left_pallet": "L2",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 5,
               "right_pallet_list": [
                 "R2"
               ],
               "right_board_list": [
-                "KimiKaiju"
+                ""
               ],
               "right_relay_list": [
-                -1
+                5
               ],
               "right_pallet": "R2",
-              "right_board": "KimiKaiju",
-              "right_relay": -1
+              "right_board": "",
+              "right_relay": 5
             }
           ]
         },
@@ -1927,49 +1933,55 @@
           "repeat_count": 1,
           "relays": [
             {
+              "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
             {
+              "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
             {
+              "field": "left",
               "location_id": "L3",
-              "node_hostname": "BringInTheWomens",
-              "relay_idx": -1,
+              "node_hostname": "",
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
             },
             {
+              "field": "right",
               "location_id": "R3",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 1,
               "duration_ms": 38000,
               "firework_name": "Red Saber",
               "firework_count": 1
@@ -1996,18 +2008,18 @@
                 "L3"
               ],
               "left_board_list": [
-                "BringInTheWomens",
-                "BringInTheWomens",
-                "BringInTheWomens"
+                "",
+                "",
+                ""
               ],
               "left_relay_list": [
-                -1,
-                -1,
-                -1
+                1,
+                1,
+                1
               ],
               "left_pallet": "L3",
-              "left_board": "BringInTheWomens",
-              "left_relay": -1,
+              "left_board": "",
+              "left_relay": 1,
               "right_pallet_list": [
                 "R3",
                 "R3",
@@ -2019,13 +2031,13 @@
                 ""
               ],
               "right_relay_list": [
-                -1,
-                -1,
-                -1
+                1,
+                1,
+                1
               ],
               "right_pallet": "R3",
               "right_board": "",
-              "right_relay": -1,
+              "right_relay": 1,
               "center_board": "",
               "center_board_list": [
                 ""
@@ -12905,7 +12917,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:23:58.053Z"
+      "lastEdited": "2026-09-05T16:24:26.048Z"
     },
     {
       "id": "proj_1787843867160",
