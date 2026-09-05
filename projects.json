@@ -6249,7 +6249,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6258,7 +6258,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6267,7 +6267,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 18000,
               "firework_name": "Galaxy Quest",
               "firework_count": 1
@@ -6276,7 +6276,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6285,7 +6285,7 @@
               "field": "left",
               "location_id": "L6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6294,7 +6294,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6303,7 +6303,7 @@
               "field": "center",
               "location_id": "C6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6312,7 +6312,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6321,7 +6321,7 @@
               "field": "right",
               "location_id": "R6",
               "node_hostname": "",
-              "relay_idx": -1,
+              "relay_idx": 3,
               "duration_ms": 24000,
               "firework_name": "Hyped Up",
               "firework_count": 1
@@ -6348,11 +6348,11 @@
                 ""
               ],
               "left_relay_list": [
-                -1
+                3
               ],
               "left_pallet": "L6",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 3,
               "center_pallet_list": [
                 "C6"
               ],
@@ -6360,11 +6360,11 @@
                 ""
               ],
               "center_relay_list": [
-                -1
+                3
               ],
               "center_pallet": "C6",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 3,
               "right_pallet_list": [
                 "R6"
               ],
@@ -6372,11 +6372,11 @@
                 ""
               ],
               "right_relay_list": [
-                -1
+                3
               ],
               "right_pallet": "R6",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 3
             },
             {
               "firework_name": "Hyped Up",
@@ -6400,12 +6400,12 @@
                 ""
               ],
               "left_relay_list": [
-                -1,
-                -1
+                3,
+                3
               ],
               "left_pallet": "L6",
               "left_board": "",
-              "left_relay": -1,
+              "left_relay": 3,
               "center_pallet_list": [
                 "C6",
                 "C6"
@@ -6415,12 +6415,12 @@
                 ""
               ],
               "center_relay_list": [
-                -1,
-                -1
+                3,
+                3
               ],
               "center_pallet": "C6",
               "center_board": "",
-              "center_relay": -1,
+              "center_relay": 3,
               "right_pallet_list": [
                 "R6",
                 "R6"
@@ -6430,12 +6430,12 @@
                 ""
               ],
               "right_relay_list": [
-                -1,
-                -1
+                3,
+                3
               ],
               "right_pallet": "R6",
               "right_board": "",
-              "right_relay": -1
+              "right_relay": 3
             }
           ]
         },
@@ -13213,7 +13213,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:46:43.174Z"
+      "lastEdited": "2026-09-05T16:46:52.951Z"
     },
     {
       "id": "proj_1787843867160",
