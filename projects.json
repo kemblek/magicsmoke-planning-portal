@@ -47,7 +47,7 @@
               "field": "right",
               "location_id": "R12",
               "node_hostname": "",
-              "relay_idx": 0,
+              "relay_idx": 2,
               "duration_ms": 20000,
               "firework_name": "Jumbo Strobes",
               "firework_count": 1
@@ -131,7 +131,7 @@
               "right_relay_list": [
                 0,
                 1,
-                0
+                2
               ],
               "right_pallet": "R12",
               "right_board": "",
@@ -12693,7 +12693,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T14:24:21.520Z"
+      "lastEdited": "2026-09-05T14:24:25.397Z"
     },
     {
       "id": "proj_1787843867160",
