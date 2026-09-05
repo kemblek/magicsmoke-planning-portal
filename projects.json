@@ -1924,130 +1924,8 @@
           "relays": []
         },
         {
-          "event_id": "evt_1786225178438_cmd6j",
-          "event_num": "10.1",
-          "title": "LR - Red Saber x3",
-          "timestamp_offset_ms": 307000,
-          "desired_time_ms": 312000,
-          "fuse_delay_sec": 5,
-          "repeat_count": 1,
-          "relays": [
-            {
-              "field": "left",
-              "location_id": "L3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            },
-            {
-              "field": "left",
-              "location_id": "L3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            },
-            {
-              "field": "left",
-              "location_id": "L3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            },
-            {
-              "field": "right",
-              "location_id": "R3",
-              "node_hostname": "",
-              "relay_idx": 1,
-              "duration_ms": 38000,
-              "firework_name": "Red Saber",
-              "firework_count": 1
-            }
-          ],
-          "fireworks": [
-            {
-              "firework_name": "Red Saber",
-              "left_field": true,
-              "center_field": false,
-              "right_field": true,
-              "left_qty": 3,
-              "center_qty": 1,
-              "right_qty": 3,
-              "is_field_effect": false,
-              "modification": "None",
-              "flash_fused": false,
-              "fuse_delay_sec": 5,
-              "setup_notes": "Fan Rack",
-              "is_fused": true,
-              "left_pallet_list": [
-                "L3",
-                "L3",
-                "L3"
-              ],
-              "left_board_list": [
-                "",
-                "",
-                ""
-              ],
-              "left_relay_list": [
-                1,
-                1,
-                1
-              ],
-              "left_pallet": "L3",
-              "left_board": "",
-              "left_relay": 1,
-              "right_pallet_list": [
-                "R3",
-                "R3",
-                "R3"
-              ],
-              "right_board_list": [
-                "",
-                "",
-                ""
-              ],
-              "right_relay_list": [
-                1,
-                1,
-                1
-              ],
-              "right_pallet": "R3",
-              "right_board": "",
-              "right_relay": 1,
-              "center_board": "",
-              "center_board_list": [
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "event_id": "evt_1786225111768_efvc3",
-          "event_num": "10.2",
+          "event_num": "10.1",
           "title": "LCR - Cherry Drop x2 & LCR - 4th Of July Cocktail",
           "timestamp_offset_ms": 312000,
           "desired_time_ms": 312000,
@@ -2236,6 +2114,90 @@
               "right_pallet": "R3",
               "right_board": "",
               "right_relay": -1
+            }
+          ]
+        },
+        {
+          "event_id": "evt_1786225178438_cmd6j",
+          "event_num": "10.2",
+          "title": "LR - Red Saber x3",
+          "timestamp_offset_ms": 307001,
+          "desired_time_ms": 312001,
+          "fuse_delay_sec": 5,
+          "repeat_count": 1,
+          "relays": [
+            {
+              "field": "left",
+              "location_id": "L3",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 2000,
+              "firework_name": "Red Saber"
+            },
+            {
+              "field": "right",
+              "location_id": "R3",
+              "node_hostname": "",
+              "relay_idx": 1,
+              "duration_ms": 2000,
+              "firework_name": "Red Saber"
+            }
+          ],
+          "fireworks": [
+            {
+              "firework_name": "Red Saber",
+              "left_field": true,
+              "center_field": false,
+              "right_field": true,
+              "left_qty": 3,
+              "center_qty": 1,
+              "right_qty": 3,
+              "is_field_effect": false,
+              "modification": "None",
+              "flash_fused": false,
+              "fuse_delay_sec": 5,
+              "setup_notes": "Fan Rack",
+              "is_fused": true,
+              "left_pallet_list": [
+                "L3",
+                "L3",
+                "L3"
+              ],
+              "left_board_list": [
+                "",
+                "",
+                ""
+              ],
+              "left_relay_list": [
+                1,
+                1,
+                1
+              ],
+              "left_pallet": "L3",
+              "left_board": "",
+              "left_relay": 1,
+              "right_pallet_list": [
+                "R3",
+                "R3",
+                "R3"
+              ],
+              "right_board_list": [
+                "",
+                "",
+                ""
+              ],
+              "right_relay_list": [
+                1,
+                1,
+                1
+              ],
+              "right_pallet": "R3",
+              "right_board": "",
+              "right_relay": 1,
+              "center_board": "",
+              "center_board_list": [
+                ""
+              ]
             }
           ]
         },
@@ -12917,7 +12879,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-05T16:24:26.048Z"
+      "lastEdited": "2026-09-05T16:25:02.575Z"
     },
     {
       "id": "proj_1787843867160",
