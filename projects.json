@@ -13254,7 +13254,7 @@
           "assigned_node": null
         }
       ],
-      "lastEdited": "2026-09-10T01:22:00.736Z"
+      "lastEdited": "2026-09-10T01:37:50.606Z"
     },
     {
       "id": "proj_1787843867160",
@@ -15867,7 +15867,7 @@
     {
       "name": "Good Times",
       "shots": 16,
-      "duration_s": 0,
+      "duration_s": 25,
       "description": "",
       "categories": [
         "New",
@@ -15877,7 +15877,8 @@
       "size": "N/A",
       "shape": "Straight",
       "type": "Cake",
-      "id": 165
+      "id": 165,
+      "duration_sec": 25
     },
     {
       "name": "Gun Fighter",
@@ -19355,6 +19356,42 @@
       "shape": "Fan",
       "type": "Cake",
       "id": 386
+    },
+    {
+      "name": "Liberty Force",
+      "shots": 25,
+      "duration_s": 30,
+      "duration_sec": 30,
+      "description": "500g heavy aerial repeater cake",
+      "categories": [
+        "500 gram cakes",
+        "Multi Shot Cakes"
+      ],
+      "category": "500g",
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/liberty-force/",
+      "size": "500g",
+      "shape": "Straight",
+      "type": "Cake",
+      "case_packing": 4,
+      "id": 115
+    },
+    {
+      "name": "FB Red Peony",
+      "shots": 12,
+      "duration_s": 15,
+      "duration_sec": 15,
+      "description": "Full Blown Red Peony 12 Shot",
+      "categories": [
+        "Full Blown Fireworks",
+        "500 gram cakes"
+      ],
+      "category": "500g",
+      "wholesaler_link": "https://www.redrhinofireworks.com/firework/red-peony-12-shot/",
+      "size": "500g",
+      "shape": "Fan",
+      "type": "Cake",
+      "case_packing": 4,
+      "id": 1301
     }
   ]
 }
